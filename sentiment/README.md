@@ -1,0 +1,1 @@
+Score text for sentiment
