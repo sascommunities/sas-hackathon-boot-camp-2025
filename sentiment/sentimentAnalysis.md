@@ -10,63 +10,28 @@ Step-by-step instructions
 1.	Download the Jupyter notebook for the use case from https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/sentiment/text-analytics-sentiment-hack.ipynb.
 2.	Log into the Jupyter environment at https://\<viyaserverurl\>/hub.
 3.	Upload the notebook downloaded earlier into the /data directory.  
-<<<<<<< HEAD
 <img src="images/filesystem.png"/>
 
-4.	Open a terminal session.  
-<img src="images/terminal.png"/>  
-=======
-![alt text for screen readers](./images/filesystem.png)
-
-4.	Open a terminal session.  
-![alt text for screen readers](./images/terminal.png)
->>>>>>> ab0e82977b92dcd8a9268e367a555adf63de53dd
-
-5.	Run the following command to get an access token.  
-```echo $ACCESS_TOKEN```
-6.	Copy the value of the token.
-7.	Fill in the first cell of the notebook with the SAS Viya URL and the ACCESS_TOKEN value.  
-<<<<<<< HEAD
+4.	Fill in the first cell of the notebook with the SAS Viya URL.  
 <img src="images/notebook1.png"/>
 
-8.	Step through the notebook, noting the comments in the commands and the resulting output.
-9.	The final result of the notebook runs is an output file titled sentiment_data.json. It will be written to the /data directory. This will be visible in SAS Studio.  
+5.	Step through the notebook, noting the comments in the commands and the resulting output.
+6.	The final result of the notebook runs is an output file titled sentiment_data.json. It will be written to the /data directory. This will be visible in SAS Studio.  
 <img src="images/sentiment_data.png"/>
 
-10.	Open the SAS Viya environment using the provided URL. 
-11.	From the Applications menu (3x3 squares icon in the upper left-hand corner), navigate to Develop Code and Flows.  
+7.	Open the SAS Viya environment using the provided URL. 
+8.	From the Applications menu (3x3 squares icon in the upper left-hand corner), navigate to Develop Code and Flows.  
 <img src="images/menu.png"/>
-12. In the left navigation bar select the second icon (Explorer) and follow the path SAS Server-> Home-> data.   
+9. In the left navigation bar select the second icon (Explorer) and follow the path SAS Server-> Home-> data.   
 <img src="images/server.png"/>
-13. Right-click on the sentiment_data file and select Copy Path.    
+10. Right-click on the sentiment_data file and select Copy Path.    
 <img src="images/copy_path.png"/>
-14.	Copy the path.
-15.	Create a new SAS code window and enter the following code: libname hack json \<path to the file copied from the previous step\>/sentiment_data.
-16.	In the left nav window, go to the Libraries tab and expand the HACK library.  
+11.	Copy the path.
+12.	Create a new SAS code window and enter the following code: libname hack json \<path to the file copied from the previous step\>/sentiment_data.
+13.	In the left nav window, go to the Libraries tab and expand the HACK library.  
 <img src="images/fetch.png"/>
-17.	Double click on the FETCH_ROWS entry.
-18.	Answer the following questions:  
-=======
-![alt text for screen readers](./images/notebook1.png)
-
-8.	Step through the notebook, noting the comments in the commands and the resulting output.
-9.	The final result of the notebook runs is an output file titled sentiment_data.json. It will be written to the /data directory. This will be visible in SAS Studio.  
-![alt text for screen readers](./images/sentiment_data.png)
-
-11.	Open the SAS Viya environment using the provided URL. 
-12.	From the Applications menu (3x3 squares icon in the upper left-hand corner), navigate to Develop Code and Flows.  
-![alt text for screen readers](./images/menu.png)
-13. In the left navigation bar select the second icon and follow the path SAS Server-> Home-> data.   
-![alt text for screen readers](./images/server.png)
-14. Right-click on the sentiment_data file and access Properties.    
-![alt text for screen readers](./images/properties.png)
-15.	Copy the path.
-16.	Create a new SAS code window and enter the following code: libname hack json \<path to the file copied from the previous step\>/sentiment_data.
-17.	In the left nav window, go to the Libraries tab and expand the HACK library.  
-![alt text for screen readers](./images/fetch.png)
-18.	Double click on the FETCH_ROWS entry.
-19.	Answer the following questions:  
->>>>>>> ab0e82977b92dcd8a9268e367a555adf63de53dd
+14.	Double click on the FETCH_ROWS entry.
+15.	Answer the following questions:  
 a. From the element3 column, how many sentiments are positive, neutral, and negative?  
 b.	What is the highest sentiment score?  
 c.	What is the lowest sentiment score?  
