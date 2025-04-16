@@ -1,4 +1,4 @@
-# Exploring Data with SAS Visual Analytics
+# Exploring Universal Studios’ Amusement Park Wait Times with SAS Visual Analytics
 
 ## Description
 This use case walks through a basic visualization task within SAS Visual Analytics. Participants will explore the Universal Studios Wait Time dataset to analyze data about the amusement park, such as attractions, temperature, precipitation, and wait times. To complete the task, hackers will be asked a series of questions about their findings.
