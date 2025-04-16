@@ -15,7 +15,7 @@ This use case walks through a basic visualization task within SAS Visual Analyti
 
 **QUESTION 1: How many attractions are listed in the data?**
 
-*Many of the variables are far from perfect. To change the name of a variable to make them a bit more useful, click the Edit properties drop down arrows next to the variable name.
+* Many of the variables are far from perfect. To change the name of a variable to make them a bit more useful, click the Edit properties drop down arrows next to the variable name.
 * Expand the properties for categorical, datetime, and measure variables – and notice that they have different options for what can be changed.
 * For a better visualization, change the Format of “Datetime when the waittime was retrieved” to Date.
 * Measure variables have a default aggregation of Sum, which is sometimes helpful… and sometimes leaves us with absurd numbers. Don’t believe me? Select “The main weather condition” and “Humidity in % from 0 to 100” from the Data pane and drag the two variables onto the page. You’ll get a popup saying “+Auto chart” before you drop. 
@@ -25,7 +25,7 @@ This use case walks through a basic visualization task within SAS Visual Analyti
 
 **QUESTION 2: Looking back at your bar chart for “Humidity in % from 0 to 100 by the main weather condition,” which weather condition has the highest humidity percent?**
 
-*Let’s get down to exploring through visualizations!
+* Let’s get down to exploring through visualizations!
 * Drag-and-drop your date variable along with Temperature and Current waiting time in minutes variables onto the canvas.
 * What do you see?
 
