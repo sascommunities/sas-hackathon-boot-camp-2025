@@ -30,9 +30,9 @@ This use case walks through creating visualizations within SAS Visual Analytics 
 * To dive a little deeper, find the Object menu in the top right corner of the Automated Explanation. Click those three dots then go to Duplicate as > Linear Regression.
 * This will create a linear regression with all the variables you had in your automated explanation. Move this to a new page by grabbing the four dots at the top and dragging to the + meaning New Page.
 * Throwing all the variables at the model isn't really the best idea, so let's hone down to only the variables we really care about. That means keep:
-- Response: The current waiting time in minutes
-- Continuous effects: Humidity in % from 0 to 100, Temperature, Probability of precipitation, This temperature accounts for the human perception of weather, and Wind speed
-- Classificatio effects: Name of the attraction, More detailed description of the weather condition
+  - Response: *The current waiting time in minutes*
+  - Continuous effects: *Humidity in % from 0 to 100, Temperature, Probability of precipitation, This temperature accounts for the human perception of weather, and Wind speed*
+  - Classification effects: *Name of the attraction, More detailed description of the weather condition*
 
 **QUESTION 3: What is the Mean Squared Error?**
 
