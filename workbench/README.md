@@ -1,142 +1,30 @@
-# Convert cURL Command to PROC HTTP for SAS Viya
+# Welcome to the Workbench Hackathon Activity!
 
-## Get Existing Folder ID
-```
-curl --request GET 
---url 'https://sasserver.demo.sas.com/folders/folders?filter=eq(name,'Public')' \
---header 'Authorization: ••••••' \
---header 'Accept: application/json, application/vnd.sas.collection+json'
-```
+#### Your challenge is to open 1 (or more) notebooks and complete the assignment
 
-```
-filename resp temp;
+Each assignment will cover the basics such as loading, exploring/visualizing, updating data along with model building & results analysis
 
-proc http
-    method = 'GET'
-    url = "https://sasserver.demo.sas.com/folders/folders/?filter=eq(name,'Public')"
-    headers 'Accept' = 'application/json, application/vnd.sas.collection+json';
-    oauth_bearer = sas_services
-    out = resp;
-run;
-```
+1. SAS (assignments/workbench_innovate_hackathon.sasnb)
 
-## Create New Folder
-```
-curl --request POST 
---url 'https://sasserver.demo.sas.com/folders/folders?parentFolderUri=/folders/folders/F98c7f933-ec70-4736-b56c-bf29489ff03e' \
---header 'Content-Type: application/json' \
---header 'Accept: application/vnd.sas.content.folder+json' \
---header 'Authorization: ••••••' \
---data '{
-  "name": "API Job Exec",
-  "description": "My API tests folder.",
-  "type": "folder"
-}'
-```
+    The SAS activity includes data_step, proc sql, ODS Graphics and Assess Bias
 
+2. Python (assignments/workbench_innovate_hackathon_python.ipynb)
+    
+    The Python assignment highlights newest packages: Assess, Assess Bias, and Cardinality and Network Ahalytics
 
-```
-filename resp temp;
+3. R (assignments/workbench_innovate_hackathon_r.ipynb)
 
-proc http
-    method = 'Post'
-    in = '{
-          "name": "jobExecution_prochttp",
-          "description": "Job Execution for proc http",
-          "type": "folder"
-    }'
-    url = "https://sasserver.demo.sas.com/folders/folders?parentFolderUri=/folders/folders/F98c7f933-ec70-4736-b56c-bf29489ff03e"
-    ct = 'application/json'
-    oauth_bearer = sas_services
-    out = resp;
-    headers 'Accept' = 'application/vnd.sas.content.folder+json';
-run;
-```
+    R is an open-ended challenge assignment. We hope you bring your favorite examples and try them here. 
 
-## Create Job Definition
-```
-curl --location --globoff 'https://sasserver.demo.sas.com/jobDefinitions/definitions?parentFolderUri=/folders/folders/F44j5l654-gh47-5846-k36s-lf66624ah96r' \
---header 'Accept: application/json, application/vnd.sas.job.definition+json' \
---header 'Content-Type: application/json' \
---header 'Authorization: ••••••' \
---data '{
-  "version":2,
-  "name":"Simple proc print",
-  "description":"Show the contents of sashelp.class using PROC PRINT",
-  "type":"Compute",
-  "parameters":[
-        {
-        "version": 1,
-        "name": "_contextName",
-        "defaultValue": "SAS Job Execution compute context",
-        "type": "CHARACTER",
-        "label": "Context Name",
-        "required": false
-    }
-  ],
-  "code":"ods html style=HTMLBlue;\nproc print data=sashelp.class; run; quit;\nods html close;"
-}'
-```
+#### Prefer a Step-by-Step Tutrial Guide?
+Download the PDF: SAS Viya Workbench Innovate 2025 Hackathon Bootcamp Coding Guide.pdf 
 
-```
-filename resp temp;
+<em>Feeling stuck? See the answer_keys directory</em>
 
-proc http
-    method='Post'
-    in='{
-          "version": 2,
-          "name": "Table Create",
-          "description": "Create a simple data set",
-          "type": "Compute",
-          "parameters": [
-            {
-                  "version": 1,
-                  "name": "_contextName",
-                  "defaultValue": "SAS Job Execution compute context",
-                  "type": "CHARACTER",
-                  "label": "Context Name",
-                  "required": false
-            }
-          ],
-           "code": "cas mySess; caslib _all_ assign; data casuser.test(promote=yes); input a b c d; datalines;\n1 2 3 4\n5 6 7 8\n;"
-    }'
-     ct = 'application/json'
-     url = "https://sasserver.demo.sas.com/jobDefinitions/definitions?parentFolderUri=/folders/folders/F44j5l654-gh47-5846-k36s-lf66624ah96r."
-     oauth_bearer = sas_services
-     out = resp;
-     headers 'Accept' = 'application/json, application/vnd.sas.job.definition+json';
-run;
-```
+#### Looking for even more examples to get you started?
 
-## Run Job
-```
-curl --location 'https://sasserver.demo.sas.com/jobExecution/jobs' \
---header 'Accept: application/json, application/vnd.sas.job.execution.job+json, application/vnd.sas.error+json' \
---header 'Content-Type: application/json' \
---header 'Authorization: ••••••' \
---data '{
-  "name": "Simple proc print",
-  "description": "Execution of the job we previously created",
-  "jobDefinitionUri": "/jobDefinitions/definitions/{{job_id}}"
-}'
-```
+SAS and Python code examples for use with SAS® Viya® Workbench are available on GitHub. After starting SAS® Viya® Workbench, open a terminal* and run the following command to clone the examples repository into the root of your workspace:
 
-```
-filename resp temp;
+    git -C $WORKSPACE clone https://github.com/sassoftware/sas-viya-workbench-examples.git
 
-proc http
-    method = 'Post'
-    in = {
-        {
-         "name": "Simple proc print",
-         "description": "Execution of the job we previously created",
-         "jobDefinitionUri": "/jobDefinitions/definitions/{{job_id}}"
-}
-    }
-     ct = 'application/json'
-     url = "https://sasserver.demo.sas.com/jobExecution/jobs"
-     oauth_bearer = sas_services
-     out = resp;
-     headers 'Accept' = 'application/json, application/vnd.sas.job.execution.job+json, application/vnd.sas.error+json';
-run;
-```
+\* To open a terminal, you can use the key combination `Control` + `` ` `` or enter the menu at the top left and navigate to `Terminal` followed by `New Terminal`.
