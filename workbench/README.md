@@ -10,7 +10,7 @@ Each assignment will cover the basics such as loading, exploring/visualizing, up
 | [SAS Aassignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon.sasnb)|   <em>The SAS activity includes data_step, proc sql, ODS Graphics and Assess Bias </em>  | 
 | [Python Assignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python.ipynb)    |  <em>Includes examples of: Assess, Assess Bias, and Cardinality  </em> | 
 | [Python Bonus Assignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python_bonus_assignment.ipynb) |  <em>Highlights Network Analytics and Computer Vision   </em>|
-| [Try the R Runtime Engine](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_r.ipynb) |  <em>The R assignment is an open-ended challenge. We hope you bring your favorite examples and try them on Workbnech!   </em>|
+| [Try the R Runtime Engine](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_r.ipynb) |  <em>The R assignment is an open-ended challenge. We hope you bring your favorite examples and try them on Workbench!   </em>|
 
 
 
