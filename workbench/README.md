@@ -8,9 +8,9 @@ Each assignment will cover the basics such as loading, exploring/visualizing, up
 
     The SAS activity includes data_step, proc sql, ODS Graphics and Assess Bias
 
-2. Python (assignments/workbench_innovate_hackathon_python.ipynb)
+2. Python [assignments/workbench_innovate_hackathon_python.ipynb](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python.ipynb)
     
-    The Python assignment highlights newest packages: Assess, Assess Bias, and Cardinality and Network Ahalytics
+    2a    The Python Bonus assignment highlights newest packages: Assess, Assess Bias, and Cardinality and Network Ahalytics
 
 3. R (assignments/workbench_innovate_hackathon_r.ipynb)
 
