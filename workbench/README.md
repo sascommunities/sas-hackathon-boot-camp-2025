@@ -4,24 +4,22 @@
 
 Each assignment will cover the basics such as loading, exploring/visualizing, updating data along with model building & results analysis
 
-1. SAS (assignments/workbench_innovate_hackathon.sasnb)
 
-    The SAS activity includes data_step, proc sql, ODS Graphics and Assess Bias
+| Assignment              | Notes| 
+| :---------------- | :------: | 
+| [SAS Aassignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon.sasnb)|   <em>The SAS activity includes data_step, proc sql, ODS Graphics and Assess Bias </em>  | 
+| [Python Assignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python.ipynb)    |  <em>Includes examples of: Assess, Assess Bias, and Cardinality  </em> | 
+| [Python Bonus Assignment](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python_bonus_assignment.ipynb) |  <em>Highlights Network Analytics and Computer Vision   </em>|
+| [Try the R Runtime Engine](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_r.ipynb) |  <em>The R assignment is an open-ended challenge. We hope you bring your favorite examples and try them on Workbnech!   </em>|
 
-2. Python [assignments/workbench_innovate_hackathon_python.ipynb](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/assignments/workbench_innovate_hackathon_python.ipynb)
-    
-    Includes examples of: Assess, Assess Bias, and Cardinality 
 
-    2a    The Python Bonus assignment highlights Network Ahalytics
 
-3. R (assignments/workbench_innovate_hackathon_r.ipynb)
 
-    R is an open-ended challenge assignment. We hope you bring your favorite examples and try them here. 
 
 #### Prefer a Step-by-Step Tutorial Guide?
 Download the PDF: SAS Viya Workbench Innovate 2025 Hackathon Bootcamp Coding Guide.pdf 
 
-<em>Feeling stuck? See the answer_keys directory</em>
+<em>Feeling stuck? See the [answer_keys directory](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/tree/main/workbench/assignments/answer_keys)</em>
 
 #### Looking for even more examples to get you started?
 
