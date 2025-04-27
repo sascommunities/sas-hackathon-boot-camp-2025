@@ -1,5 +1,5 @@
 # Welcome to the Workbench Hackathon Bootcamp Activity!
-<b><em>SAS Innovate Conference | Orlando, Florida | May 6, 2025 1pm - 4pm </em></b>
+## SAS Innovate - Orlando, FL - May 6, 2025 (1-4pm)
 
 #### Begin Here 
 Clone the full Hackathon Bootcamp Github Repo into your Workbench
@@ -25,9 +25,9 @@ Each assignment will cover the basics such as loading, exploring/visualizing, up
 
 
 #### Prefer a Step-by-Step Tutorial Guide?
-Download the PDF: SAS Viya Workbench Innovate 2025 Hackathon Bootcamp Coding Guide.pdf 
+Download the PDF: [SAS Viya Workbench Innovate 2025 Hackathon Bootcamp Coding Guide.pdf](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/workbench/SAS%20Viya%20Workbench%20Innovate%202025%20Hackathon%20Bootcamp%20Coding%20Guide.pdf)
 
-<em>Feeling stuck? See the [answer_keys directory](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/tree/main/workbench/assignments/answer_keys)</em>
+<em><b>Feeling stuck?</b> See the [answer_keys directory](https://github.com/sascommunities/sas-hackathon-boot-camp-2025/tree/main/workbench/assignments/answer_keys)</em>
 
 Please see the official [Workbench Documentation](https://go.documentation.sas.com/doc/en/workbenchcdc/v_001/workbenchwlcm/home.htm?fromDefault=) for API References, Instructions and much more
 
