@@ -1,0 +1,1001 @@
+ID,Cultural_Identity,Gender,Country_Region,Undergrad_Degree,Years_Work_Experience,Analytics_Work_Experience,Strength_of_Recommendation,Standardized_Test_Score,Legacy_Admission,Mission_Statement,Admitted
+1,Asian,Male,APAC,Information Sciences,-2.84,0,4.08,-0.106756808,0,My parents want me to go to grad school or work. Let me in your program so I don't need a job.,0
+2,Asian,Female,APAC,Math + Statistics,0.28,4.7232011691,3.78,0.563522199,1,I aspire to use data to solve intricate problems and drive innovation in various industries. Your program’s comprehensive approach and strong focus on hands-on experience will guide me towards achieving this goal.,1
+3,Asian,Male,APAC,Other,-0.60,0,2.81,0.7942198581,0,I am eager to join your program to gain a deeper understanding of analytics.,0
+4,Asian,Male,APAC,Other,2.02,0,3.32,0.8753260831,0,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,0
+5,"White, Non-Hispanic",Female,Americas,Math + Statistics,3.47,0.7121865276,2.78,-2.304699046,0,I think data are great. I need to make lots of money. Please let me join your program!,0
+6,"White, Non-Hispanic",Male,Americas,Other,-0.87,0.657088902,5.00,-0.34032082,0,Your program seems like a good opportunity for me to develop my skills in analytics.,0
+7,"White, Non-Hispanic",Female,EMEA,Other,2.94,0.390550999,2.78,-0.918115901,0,,0
+8,"White, Non-Hispanic",Male,Americas,Economics,4.50,0.6826159488,2.44,0.1253526266,0,"I am excited to join your program to explore the intersection of data analytics and artificial intelligence, leveraging cutting-edge techniques to drive innovation.",1
+9,"White, Non-Hispanic",Female,EMEA,Analytics,0.59,1.2176377383,3.95,0.4683942097,0,I am interested in analytics and think your program can provide the training I need.,0
+10,"White, Non-Hispanic",Male,EMEA,Information Sciences,4.61,0,2.78,-0.948032967,0,I wanna join cuz analytics is cool and I like data. Your program is good.,0
+11,Asian,Female,APAC,Economics,1.04,0,2.59,-0.131397803,0,Your program looks nice and I want to join. I like analytics and want to learn.,0
+12,Asian,Female,APAC,Economics,0.37,1.7397978105,4.91,-0.4638717,1,"I love data and analytics, your program is good, and I want to join.",0
+13,"White, Non-Hispanic",Male,Americas,Information Sciences,0.54,2.3085343406,5.00,-0.062879166,0,I think analytics is interesting and I want to join your pgram.,0
+14,Asian,Male,APAC,Economics,3.91,0,2.12,2.4210191684,0,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,0
+15,Asian,Male,Americas,Information Sciences,-1.44,1.4284286812,2.06,-0.591875932,0,I need to lern more about data. Your program will help me improve.,0
+16,Asian,Male,APAC,Information Sciences,-0.18,0.4715933628,3.63,0.839878471,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,0
+17,Other,Female,Americas,Other,0.00,0,3.57,0.0732165005,0,,0
+18,"White, Non-Hispanic",Male,EMEA,Economics,3.13,0,5.00,1.2488408333,0,I aim to leverage the interdisciplinary approach of your program to integrate data analytics with my background in business and develop holistic solutions to real-world challenges.,1
+19,"White, Non-Hispanic",Male,Americas,Other,0.00,0,3.78,0.1652824306,0,I am eager to improve my skills in data analysis through your program.,0
+20,"White, Non-Hispanic",Male,Americas,Other,-1.58,0.7113335868,3.28,0.84357435,0,I want to join your program to gain more insights into the field of analytics.,0
+21,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-2.02,0,4.12,-0.52788297,0,I am passionate about using data to uncover insights and drive strategic decisions. Your program’s comprehensive curriculum aligns perfectly with my career goals.,0
+22,"White, Non-Hispanic",Female,EMEA,Other,4.01,0,3.19,0.3173217357,0,I want to join your program to gain more insights into the field of data analysis.,0
+23,Asian,Male,APAC,Analytics,1.71,0,2.18,-0.117968277,0,I have a background in statistics and want to transition into analytics. This program seems like a good fit.,0
+24,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-2.06,2.9682080249,2.64,-0.464990258,0,I am excited to join your program to deepen my understanding of data visualization techniques. Effective communication of data insights is crucial for driving strategic decisions and stakeholder engagement.,1
+25,Asian,Male,APAC,Economics,0.51,0,5.00,0.4090068083,0,The Master of Analytics program's focus on practical applications and real-world problem-solving resonates with my career goals. My background in statistics and experience in data analysis make me well-prepared to excel in this program and contribute to its community.,0
+26,Asian,Male,Americas,Economics,-0.44,0,2.23,1.1106612922,1,"I think analytics is cool and I like data, so I wanna join your program.",0
+27,"White, Non-Hispanic",Female,Americas,Math + Statistics,-0.01,0.1518498232,2.65,-0.485916862,0,"With a background in mathematics, I am eager to join your program to enhance my analytical skills and contribute to innovative solutions in various industries.",0
+28,Asian,Male,APAC,Math + Statistics,1.77,1.2238846503,4.06,0.0347090354,0,This program looks like it can help me achieve my goals in data analysis.,0
+29,Asian,Female,APAC,Information Sciences,-0.68,1.4263657411,2.67,0.892743888,0,I want to lern more about data. Your program will improve me.,0
+30,Asian,Male,APAC,Math + Statistics,2.64,2.4028952641,2.02,1.52687919,0,Your program's focus on practical application and state-of-the-art technologies will equip me with the necessary tools to become a proficient data analyst. I am particularly interested in the program’s collaborative projects that bridge the gap between academia and industry.,1
+31,Asian,Female,APAC,Math + Statistics,-1.94,4.793814224,4.05,0.122490011,0,"I am excited about the opportunity to join the Master of Analytics program, where I can further develop my skills in data analysis and predictive modeling. This program's strong emphasis on practical applications will prepare me to make a significant impact in the analytics field.",0
+32,Asian,Female,APAC,Information Sciences,2.19,2.746594474,3.20,1.4108890869,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",0
+33,Other,Female,Americas,Other,0.59,0.9763317142,3.51,0.6348372918,1,Your program’s emphasis on hands-on learning will provide me with the practical skills needed to excel in the dynamic field of data analytics.,0
+34,"White, Non-Hispanic",Female,Americas,Analytics,6.25,1.3265327933,2.66,-0.361305868,0,I have some experience in data analysis. Your program looks great for me.,0
+35,Hispanic,Female,Americas,Math + Statistics,2.77,0.3758706759,4.30,-0.892414205,0,I'm awesome and you should let me into your program.,0
+36,"Black, Non-Hispanic",Female,Americas,Other,-0.15,0,3.69,1.3063022263,0,I believe this program can help me gain a better understanding of analytics.,0
+37,Asian,Male,APAC,Economics,4.16,0.74332154,3.13,0.7473150669,0,"I am passionate about transforming raw data into actionable insights that drive strategic decisions. By joining your program, I aim to acquire advanced analytical skills and methodologies to excel in the dynamic field of data science and contribute meaningfully to my future employer's success.",1
+38,"White, Non-Hispanic",Male,EMEA,Information Sciences,-1.06,0.2947791551,2.44,1.1375277679,1,My passion for analytics stems from my undergraduate studies in information sciences and my work experience in data-driven projects. The Master of Analytics program will allow me to refine my skills and explore innovative solutions. I am excited to learn from industry experts and collaborate with like-minded individuals to make a meaningful impact.,1
+39,Asian,Female,APAC,Economics,2.47,0.014169254,2.60,0.7836998159,0,"Your program looks interesting, and I want to join to learn more about data.",0
+40,"Black, Non-Hispanic",Female,Americas,Information Sciences,0.00,0,2.11,-0.526166518,1,I like your program and want to join. I did some data before.,0
+41,Hispanic,Male,Americas,Information Sciences,1.15,0,2.01,1.5549892789,0,"With a degree in information sciences and hands-on experience in data analysis, I am well-prepared to excel in the Master of Analytics program. I am excited to deepen my knowledge, collaborate with peers, and contribute to projects that drive meaningful change. I am committed to using data to create value and make a positive impact.",0
+42,"White, Non-Hispanic",Male,EMEA,Analytics,15.49,0,3.32,-1.584589907,0,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,1
+43,"White, Non-Hispanic",Male,Americas,Math + Statistics,5.40,1.5025251829,3.44,-0.299452754,0,I am excited about the chance to enhance my analytics skills through your program.,0
+44,Asian,Male,APAC,Other,-0.36,0.0510197186,1.35,-0.410694381,0,,0
+45,Asian,Male,APAC,Other,1.01,0,1.99,-0.617887113,0,,0
+46,"White, Non-Hispanic",Male,EMEA,Analytics,-0.82,0.7347973991,3.67,-3.176489875,0,"With a strong foundation in statistics and a keen interest in predictive modeling, I am excited to join your program to gain advanced skills in analytics and contribute to impactful projects.",1
+47,"White, Non-Hispanic",Female,Americas,Math + Statistics,2.34,0,3.25,-0.149512614,1,"Analytics seems cool, so I want to join your program.",0
+48,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.09,0.7634707367,3.48,-1.430592301,0,"I think analytics is fun, and I need something to do.",0
+49,Hispanic,Male,Americas,Information Sciences,-1.55,0,2.00,0.1236352112,0,I am motivated to join your program to gain expertise in predictive analytics and its applications. The program’s comprehensive curriculum and practical experience will provide the knowledge and skills needed to excel in this area.,0
+50,Asian,Female,APAC,Math + Statistics,1.80,6.9609416266,2.59,0.0450093376,0,"With a background in analytics and several years of professional experience, I am eager to take my skills to the next level. The Master of Analytics program offers the perfect blend of theory and practical application, enabling me to become a leader in the field. I am committed to leveraging data to drive strategic decisions and create positive change.",0
+51,"White, Non-Hispanic",Female,Americas,Economics,1.45,0,3.45,1.8373934561,0,"With a solid foundation in statistics and a keen interest in data-driven problem solving, I am eager to deepen my expertise in data analytics through your esteemed program, which offers a blend of theoretical knowledge and practical application.",1
+52,Asian,Male,Americas,Math + Statistics,-0.00,0,2.25,-0.098629802,0,I want to join becuz your program looks interesting and learn more about data.,0
+53,"White, Non-Hispanic",Female,Americas,Other,0.32,3.0390231519,1.26,-0.555305006,0,,0
+54,"White, Non-Hispanic",Female,Americas,Analytics,2.91,4.1679941539,2.28,-1.332501513,0,,0
+55,"White, Non-Hispanic",Male,Americas,Analytics,6.29,0,4.96,2.2324535662,0,I seek to leverage your program’s cutting-edge curriculum and industry partnerships to become a leader in data science. Your program’s emphasis on real-world projects and innovative research aligns perfectly with my career goals.,1
+56,Asian,Male,APAC,Other,1.55,0,3.32,0.6491238835,0,Your program’s focus on advanced analytics will help me stay ahead in a competitive job market. The program’s rigorous training and practical experience will enhance my professional skills and career prospects.,0
+57,Hispanic,Female,EMEA,Information Sciences,0.14,0,5.00,-1.745649959,0,I am eager to develop my skills in data analysis through your program.,0
+58,Hispanic,Male,Americas,Information Sciences,0.24,0.5866447925,3.97,0.0509289571,0,"With a strong foundation in computer science, I am eager to join your program to develop my data analysis skills and contribute to advancements in technology.",0
+59,"White, Non-Hispanic",Male,APAC,Other,17.10,0.0774805122,3.06,0.2816846441,0,I think this program offers the right courses for my career goals in analytics.,0
+60,"White, Non-Hispanic",Female,Americas,Other,0.00,0,2.14,0.5125949727,0,Your program looks decent for learning more about analytics.,0
+61,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.86,0,3.56,-0.550954278,0,I like data and want to learn analytics. This program will help me alot.,0
+62,Hispanic,Male,Americas,Information Sciences,-0.07,0.3234968366,3.40,0.8142032481,0,"I am drawn to this program because of its ideal blend of theory and practical application. My academic background in computer science has equipped me with strong technical skills, but I am eager to enhance my practical experience. This program's emphasis on applying theoretical knowledge to real-world problems is exactly what I need to bridge the gap between academia and industry. The opportunities for hands-on projects, internships, and collaborative work are particularly appealing to me. I believe this balanced approach will not only deepen my understanding of analytics but also prepare me for a successful career in the field.",1
+63,Asian,Male,APAC,Math + Statistics,0.42,0.8551497521,4.19,0.0931076408,0,Your program’s comprehensive training will equip me with the skills to become a successful data scientist. The blend of theoretical knowledge and practical application will prepare me for a dynamic career.,0
+64,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-6.22,1.9928513855,3.93,-0.848214641,0,I have some experience in analytics and want to build on that through your program.,0
+65,Asian,Female,APAC,Other,9.45,0,2.02,0.1753937789,0,Your program is good for me becuz I want to learn analytics and get a job.,0
+66,Hispanic,Female,APAC,Other,0.00,0,3.70,0.4911681822,0,"Your program is good, I love analytics and data, so I wanna join.",0
+67,"Black, Non-Hispanic",Male,Americas,Analytics,-1.04,3.2509988414,4.90,-1.795243105,0,,0
+68,Asian,Female,APAC,Math + Statistics,3.18,0.4992816722,3.85,-0.809505741,0,"Your program will help me get better, I wanna learn more about data.",0
+69,"White, Non-Hispanic",Female,Americas,Economics,2.55,0.0405277063,3.11,0.2132601088,0,,0
+70,Asian,Female,APAC,Analytics,0.04,1.0571598321,3.13,0.5972010457,0,Your program’s comprehensive training will help me develop a strong foundation in data analytics. The program’s blend of theoretical knowledge and practical skills will prepare me for a successful career.,0
+71,"White, Non-Hispanic",Male,Americas,Information Sciences,0.60,0.0560787188,2.82,0.9193958251,0,"With a background in computer science, I am eager to join your program to develop my skills in data analysis and machine learning, and to contribute to innovative projects.",1
+72,"White, Non-Hispanic",Female,Americas,Other,21.17,0.0503208277,1.89,0.9438570794,0,I think data are awesome. I wanna earn lots of money. Please let me join your program!,0
+73,Asian,Female,APAC,Economics,2.45,1.8104760472,2.07,0.2713181795,0,"I love data and analytics, so I want to join. Your program suits me.",0
+74,"Black, Non-Hispanic",Female,Americas,Math + Statistics,3.48,0,4.99,-0.398824254,0,I am eager to explore the latest advancements in data analytics through your program’s cutting-edge curriculum. Staying ahead of industry trends and technologies is crucial for developing innovative solutions.,0
+75,"White, Non-Hispanic",Male,Americas,Other,6.31,0.1450938679,3.71,-0.570442022,0,I want to join your program to gain a better understanding of data analysis.,0
+76,Asian,Male,APAC,Economics,-0.08,0,2.75,0.2120735964,0,"With a background in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",0
+77,Asian,Female,APAC,Math + Statistics,5.42,0,2.15,1.3731561844,0,I aim to leverage the interdisciplinary approach of your program to integrate data analytics with my background in business and develop holistic solutions to real-world challenges.,0
+78,Asian,Female,Americas,Economics,0.17,1.6363820361,2.33,0.6983553348,1,Your program is perfect for me. I wanna learn more about analytics.,0
+79,"White, Non-Hispanic",Male,EMEA,Math + Statistics,0.68,1.565625421,4.68,-0.35099874,1,Your program’s commitment to innovation will inspire me to think creatively and develop cutting-edge solutions to analytical challenges.,1
+80,Hispanic,Male,EMEA,Analytics,-1.82,2.6001626738,3.34,-0.958418973,0,I am excited to join your program to gain a deeper understanding of advanced analytical techniques and apply them to real-world challenges in the tech industry.,0
+81,Hispanic,Male,Americas,Other,4.48,0,0.66,-1.112905253,1,I have some exprience in data and think this program will help me get better at it.,0
+82,Asian,Male,APAC,Economics,-1.60,0,2.34,-0.74102011,0,,0
+83,Asian,Male,APAC,Information Sciences,0.05,1.3115909361,3.32,0.8853229379,1,"As an aspiring data scientist, I am drawn to the Master of Analytics program for its rigorous curriculum and focus on real-world applications. My experience in data analysis and passion for uncovering insights will enable me to thrive in this program and contribute meaningfully.",1
+84,Asian,Male,APAC,Economics,3.24,2.5539633816,4.46,0.1055391919,0,I think your program offers the right mix of theory and practical experience.,0
+85,Asian,Male,APAC,Economics,-0.46,2.4341299733,2.90,0.030768261,0,Your program looks like it can help me advance my career in data analysis.,0
+86,"White, Non-Hispanic",Female,EMEA,Information Sciences,0.00,0,3.28,0.1987513869,0,"With a strong foundation in computer science, I am eager to join your program to develop my data analysis skills and contribute to advancements in technology.",0
+87,Asian,Male,Americas,Other,4.59,0.520517476,4.18,0.3039969737,0,I am looking for a program that offers comprehensive training in data analysis.,0
+88,Hispanic,Male,EMEA,Other,-1.75,3.0047847564,3.41,0.812648433,1,I seek to enhance my problem-solving skills through the rigorous training offered by your program. The analytical techniques and methodologies taught will equip me to tackle complex challenges effectively.,1
+89,Hispanic,Male,Americas,Math + Statistics,0.11,9.7148375405,5.00,0.4220460102,0,I am interested in learning more about analytics through your program.,0
+90,Other,Male,Americas,Math + Statistics,-1.99,0,3.51,0.0647772652,0,"With a background in statistics, I am eager to deepen my knowledge of data analytics through your program’s rigorous coursework and hands-on learning opportunities.",0
+91,"White, Non-Hispanic",Male,EMEA,Economics,1.00,0,2.53,-0.146676782,0,"I think your program is good and I love analytics and data, so I want to join.",0
+92,Other,Male,Americas,Analytics,-2.78,1.4429419739,3.44,-1.113433478,0,,0
+93,"White, Non-Hispanic",Female,EMEA,Other,2.32,0,2.99,-0.005785776,0,"My interest in data analysis has grown over the years, and I think this program is the right step to advance my knowledge.",0
+94,"Black, Non-Hispanic",Male,Americas,Math + Statistics,6.00,0.0089489934,3.66,0.5239098866,0,"Analytics is kind of interesting, and I need a program to join.",0
+95,"White, Non-Hispanic",Female,Americas,Math + Statistics,-1.77,0,4.06,0.9730483007,1,"I am interested in learning more about analytics, and this program seems to offer the right courses and experiences.",1
+96,Hispanic,Male,Americas,Math + Statistics,-4.00,0.2576259893,2.78,0.6943569945,0,I think your program offers the right opportunities for me to grow in data analysis.,0
+97,Hispanic,Male,Americas,Economics,0.87,0.0568287634,3.01,0.6778937524,0,I am looking for a program that offers comprehensive training in analytics.,0
+98,Hispanic,Female,APAC,Analytics,16.08,3.5103707646,4.08,-0.890436678,0,"I want to deepen my understanding of data analysis, and your program looks ideal.",0
+99,"White, Non-Hispanic",Male,Americas,Analytics,-3.69,7.3346512796,2.63,-2.753051807,0,I am excited about the chance to develop my analytics skills through your program.,0
+100,Asian,Female,APAC,Economics,0.56,0.7844819758,4.56,-0.063522152,0,I want to join your program becuz it’s good and analytics is fun.,0
+101,"White, Non-Hispanic",Female,Americas,Information Sciences,0.48,0,4.02,0.0074996636,0,My passion for data analytics and my background in engineering make the Master of Analytics program the perfect fit for me. I look forward to learning from industry experts and contributing to impactful projects.,1
+102,"White, Non-Hispanic",Male,EMEA,Other,3.39,2.2769379307,4.66,0.2376542066,0,I want to join your program to gain a better understanding of analytics.,0
+103,Asian,Male,APAC,Math + Statistics,0.00,0,2.66,0.7269458323,0,,0
+104,Asian,Female,APAC,Other,3.58,1.7761772322,4.02,1.2747025634,0,I want to join your program to gain more insights into data analysis.,0
+105,Asian,Female,Americas,Economics,-2.42,2.669554259,2.99,0.1780450883,0,I have some experience in data analysis and want to deepen my skills with this program.,0
+106,"White, Non-Hispanic",Female,Americas,Analytics,27.52,0.3077512645,3.32,0.6159410127,0,Your program’s focus on data-driven insights will enhance my ability to make informed business decisions. The program’s emphasis on practical applications and real-world scenarios will prepare me for strategic roles.,1
+107,"White, Non-Hispanic",Male,Americas,Math + Statistics,-0.28,0.0504434827,2.22,0.4731867985,0,"I want to expand my knowledge in data analysis, and your program seems like a good fit.",0
+108,Asian,Male,APAC,Other,0.00,0,3.18,0.8136318313,0,Your program seems like a good opportunity for me to learn more about data analysis.,0
+109,"White, Non-Hispanic",Female,Americas,Other,0.20,1.5725283621,3.39,1.3096448375,0,Your program’s focus on innovation will inspire me to think creatively in the field of data analytics. The program’s cutting-edge curriculum and hands-on projects will provide the foundation for developing innovative solutions.,1
+110,"White, Non-Hispanic",Male,Americas,Economics,-0.68,0,3.13,0.5734235844,0,I am excited to explore the ethical dimensions of data analytics through your program’s comprehensive coursework. Understanding the ethical implications of data usage is crucial for responsible and impactful analysis.,1
+111,Asian,Male,APAC,Analytics,-1.57,0,3.48,-0.051705496,0,,0
+112,Asian,Male,APAC,Math + Statistics,0.76,0.2565867105,4.34,-0.5746554,0,I am excited about the prospect of learning more about data analysis through your program.,0
+113,"White, Non-Hispanic",Male,Americas,Math + Statistics,4.98,2.6445685474,2.63,-0.201160339,0,Parents told me get a job or apply to grad school. Let me in your program so I don't have to work.,0
+114,"White, Non-Hispanic",Female,EMEA,Math + Statistics,3.17,0.7489008225,3.18,-0.645872643,0,I have been working in data analysis and want to formalize my skills through your program.,0
+115,"Black, Non-Hispanic",Male,Americas,Economics,0.00,0,2.75,-0.481978684,0,"I love working with numbers and stuff, so I wanna join. The program looks cool and I can do well.",0
+116,Asian,Male,APAC,Information Sciences,-6.04,0,3.00,-0.309689495,0,,0
+117,Asian,Male,APAC,Other,1.89,0.7545612741,4.34,-0.762860947,0,"I think your program looks good and I like analytics, so I wanna join.",0
+118,Asian,Female,Americas,Economics,-1.20,1.6404859965,3.32,-0.205322161,0,"I have always been fascinated by the power of data to drive decision-making. With a degree in economics and hands-on experience in data analysis, I am well-prepared to excel in your Master of Analytics program. I am particularly interested in learning advanced analytical techniques and applying them to business challenges to create value.",0
+119,Hispanic,Male,EMEA,Other,0.33,1.5034677292,2.94,1.6307947113,0,I think this program offers the right blend of theory and practice for my career in analytics.,0
+120,Asian,Female,APAC,Math + Statistics,-4.97,3.053878443,2.91,-0.468147163,0,,0
+121,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.34,0,3.58,0.6408741275,0,I am excited to join your program to gain a deeper understanding of data mining techniques and apply them to extract valuable insights from large datasets.,1
+122,"White, Non-Hispanic",Female,Americas,Information Sciences,4.71,0.3609649538,3.34,-0.964620743,0,"Data are cool and I wanna earn money. Let me join your program, please!",0
+123,"White, Non-Hispanic",Male,Americas,Other,0.65,2.7574078496,5.00,2.0817910495,0,I am eager to join your program to gain a deeper understanding of data mining techniques. The program’s emphasis on practical applications and real-world scenarios will prepare me for the complexities of the field.,1
+124,Other,Female,EMEA,Math + Statistics,1.00,1.8669287221,2.92,-0.796762457,0,"Your program looks good for me, and I like analytics, so I wanna join.",0
+125,"White, Non-Hispanic",Female,Americas,Economics,8.59,0,4.38,-1.091896372,0,Your program looks like a good opportunity for me to develop my skills in analytics.,0
+126,"White, Non-Hispanic",Female,EMEA,Other,-0.85,0.3792886687,3.60,-1.523207719,0,,0
+127,Asian,Male,APAC,Information Sciences,8.20,1.9119403977,2.83,-0.670355858,0,"I am looking for a program that can help me better understand data analysis, and yours seems ideal.",0
+128,Asian,Male,APAC,Math + Statistics,5.78,1.1301846759,5.00,1.3934142027,0,"I seek to develop advanced analytical skills through your program to drive data-driven decisions in the healthcare industry, ultimately improving patient outcomes.",0
+129,"White, Non-Hispanic",Male,Americas,Other,2.82,4.503557308,1.55,-2.483363877,0,,0
+130,Asian,Male,APAC,Other,0.20,1.3691426107,2.53,-0.993794764,0,,0
+131,"White, Non-Hispanic",Male,EMEA,Other,6.54,5.7865942788,2.64,1.6120631611,0,I want to leverage your program’s strong industry ties to gain practical experience in data analytics. Internships and collaborative projects will provide valuable insights and professional growth opportunities.,1
+132,Asian,Female,APAC,Other,-1.74,0,2.63,0.4150978575,0,,0
+133,Asian,Female,APAC,Other,2.89,6.9888607807,3.72,0.4478693136,0,I am committed to mastering data analytics to make informed decisions in the healthcare industry. Your program’s specialized courses and practical training will provide me with the expertise needed to drive improvements in patient care and outcomes.,1
+134,Asian,Male,APAC,Other,1.24,0.8088746749,2.31,0.5654940803,0,,0
+135,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.42,0.148432803,5.00,-0.327452214,0,This program seems to offer the practical experience I need to advance in data analysis.,0
+136,Hispanic,Female,Americas,Other,10.52,0,1.35,0.533697855,0,,0
+137,Other,Male,EMEA,Economics,-0.03,0,1.99,-1.238296893,0,"With my experience in analytics, I believe your program can further develop my expertise.",0
+138,Asian,Male,APAC,Other,7.16,0,2.81,0.3331737145,0,Your program looks good and I want to join. I like analytics.,0
+139,"White, Non-Hispanic",Male,EMEA,Analytics,-1.43,0.362494662,2.64,-0.237115299,0,,0
+140,"White, Non-Hispanic",Female,Americas,Economics,-3.59,1.8390338137,4.38,1.0996167299,0,I have been working in data analysis and want to formalize my skills through your program.,0
+141,"Black, Non-Hispanic",Female,Americas,Economics,0.45,1.137891423,4.32,1.2640279513,1,"I wanna learn analytics and get a job, so your program is good for me.",0
+142,"Black, Non-Hispanic",Female,Americas,Other,0.65,0,5.00,0.5857598713,0,Your program is perfect for me becuz I wanna learn analytics more.,0
+143,"Black, Non-Hispanic",Male,Americas,Analytics,2.83,0.3116161399,3.15,-1.254674793,0,"I have to learn more about analytics, so your program will do.",0
+144,Hispanic,Male,Americas,Math + Statistics,0.90,0.4865879482,2.34,-1.520972275,0,Your program will help me get better. I wanna lern more about data.,0
+145,Asian,Female,APAC,Math + Statistics,0.75,3.0968243133,3.77,1.3813862104,0,I seek to enhance my data storytelling skills through the comprehensive training offered by your program. Communicating complex data insights effectively is essential for driving business success.,0
+146,Asian,Female,APAC,Math + Statistics,-0.64,0.2888595637,3.37,0.5327612188,0,Your program’s emphasis on practical applications will prepare me to address complex analytical challenges and drive business growth in my future career.,0
+147,"White, Non-Hispanic",Female,EMEA,Information Sciences,0.00,0,3.69,0.830076607,0,Your program’s hands-on projects will provide me with practical experience in data analytics. The program’s focus on real-world applications will enhance my problem-solving skills and practical expertise.,1
+148,Asian,Male,APAC,Information Sciences,1.48,0,2.71,0.6073325709,0,Your program looks like it can provide the training I need to excel in data analysis.,0
+149,"White, Non-Hispanic",Male,Americas,Other,7.10,0,3.37,-1.734173549,0,I am eager to improve my skills in analytics through your program.,0
+150,"White, Non-Hispanic",Male,EMEA,Other,-4.27,0,2.97,-0.303782701,0,Your program is good and I want to join cuz I love data and analytics.,0
+151,"White, Non-Hispanic",Female,Americas,Information Sciences,0.00,0,3.19,-1.579738943,0,I aim to leverage your program’s resources to stay updated with the latest trends in data analytics. Continuous learning and adaptation are essential for staying relevant in the fast-paced field of data science.,1
+152,Asian,Female,APAC,Economics,-0.14,0.5826239429,2.53,0.5208913135,0,"I am passionate about using data to drive business growth, and your program’s comprehensive curriculum will provide me with the knowledge and skills needed to achieve this.",0
+153,"White, Non-Hispanic",Male,Americas,Economics,11.67,1.2986425681,2.43,-0.450740871,0,I want to lern more about data. Your program will help me get better.,0
+154,"White, Non-Hispanic",Male,EMEA,Other,0.35,0.3886443859,3.73,0.5523282582,0,"I am eager to develop my skills in data analysis, and this program seems well-suited for my career goals.",1
+155,Asian,Male,APAC,Economics,4.07,1.761763865,3.95,-1.358302075,0,,0
+156,Other,Male,EMEA,Other,17.86,0.0671781521,3.78,-0.563338628,0,I am excited to join your program to explore new methodologies in data analytics and apply them to solve complex business problems.,0
+157,Asian,Male,EMEA,Other,-0.33,3.2308585397,4.07,-0.061140508,0,Your program seems like it can teach me more about data.,0
+158,Asian,Male,APAC,Economics,0.54,0,4.22,0.6635500892,0,I love analytics and want to learn it in your program. I think I can do good.,0
+159,Asian,Male,APAC,Math + Statistics,0.70,0,3.50,1.6182506887,1,I am excited about the opportunity to develop my skills in analytics through your program.,0
+160,"Black, Non-Hispanic",Female,Americas,Economics,0.45,0.0805474406,2.31,0.2607065059,0,Your program’s commitment to excellence aligns with my goal of becoming a top-tier data analyst. The program’s rigorous training and industry connections will provide the foundation for a successful career.,0
+161,Hispanic,Female,EMEA,Math + Statistics,0.87,0.9629205289,1.85,-0.961832499,0,I think your program is perfect for learning more about analytics.,0
+162,Asian,Female,APAC,Other,2.22,5.0188709367,4.17,0.8274487168,0,,0
+163,Asian,Female,Americas,Information Sciences,-0.32,0,4.09,0.3047720098,0,Your program seems to offer the right opportunities for me to grow in analytics.,0
+164,"White, Non-Hispanic",Female,EMEA,Math + Statistics,1.04,2.5270218494,3.78,0.7366179391,0,I like data and want to do analytics. This program will help me learn.,0
+165,Other,Female,EMEA,Other,9.18,0,2.65,1.3515610546,0,Your program is good for me cuz I want to learn analytics and get a good job.,0
+166,"White, Non-Hispanic",Male,EMEA,Math + Statistics,0.30,0,3.26,-0.597309337,1,I believe your program offers the right balance of coursework and practical experience.,1
+167,"White, Non-Hispanic",Male,Americas,Other,7.16,1.4422003988,4.81,-0.334226234,0,Your program seems like a good opportunity for me to learn more about data analysis.,0
+168,"White, Non-Hispanic",Male,EMEA,Other,11.27,0.0952035353,3.07,0.242741055,0,I have a foundation in statistics and want to expand into data analysis with your program.,0
+169,"White, Non-Hispanic",Male,EMEA,Other,-1.31,0.3418735955,4.45,2.2174897311,0,"With a passion for data-driven decision-making, I am eager to join your program to gain advanced skills in analytics and drive strategic decisions in my future career.",1
+170,Asian,Female,APAC,Analytics,-2.62,2.9864097805,1.14,-0.936010549,0,I possess some experience in data analysis and am eager to deepen my knowledge.,0
+171,"White, Non-Hispanic",Female,Americas,Other,-0.93,0.2615431053,3.91,0.1035551177,0,I aim to develop my skills in machine learning through your program to leverage advanced techniques in data analytics and drive innovation.,0
+172,"Black, Non-Hispanic",Male,Americas,Analytics,0.36,0,2.89,-1.176960835,0,I am eager to join your program to gain a deeper understanding of data analysis.,0
+173,Hispanic,Male,Americas,Other,-0.98,0.1310507204,1.24,1.3612192135,0,"I aim to develop my expertise in data warehousing through your program’s specialized coursework, enabling me to manage and analyze large datasets effectively.",0
+174,Asian,Male,APAC,Economics,2.93,0.1192858486,4.16,0.9326059359,1,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,1
+175,"White, Non-Hispanic",Male,Americas,Math + Statistics,2.62,1.5347704807,1.32,1.3284854996,0,I believe your program offers the right balance of coursework and hands-on experience.,0
+176,"White, Non-Hispanic",Female,EMEA,Analytics,1.35,0,3.72,0.4616073801,1,I believe this program can help me gain a better understanding of data analysis.,0
+177,Asian,Male,APAC,Other,-0.51,3.4523642991,2.07,-0.336265605,0,,0
+178,"White, Non-Hispanic",Male,EMEA,Information Sciences,8.01,2.1715398558,3.41,0.7227638985,0,Your program will provide the analytical foundation I need to contribute to advancements in technology and business. The comprehensive coursework and practical experience will prepare me for leadership roles.,1
+179,Asian,Female,APAC,Math + Statistics,-2.12,0,3.05,-0.148521874,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",0
+180,Other,Female,Americas,Math + Statistics,2.95,2.7313173546,3.54,1.1828344601,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,0
+181,Asian,Female,APAC,Analytics,0.12,1.2012052129,5.00,0.3659782304,0,"With a strong foundation in statistics and a keen interest in predictive modeling, I am excited to join your program to gain advanced skills in analytics and contribute to impactful projects.",0
+182,Asian,Male,APAC,Math + Statistics,0.88,0.5659015078,3.60,-0.73454494,0,Your program looks like it can help me advance my career in analytics.,0
+183,"White, Non-Hispanic",Male,Americas,Economics,-1.01,2.3627779315,4.36,-0.953754148,0,I think this program offers the right courses for my career goals in analytics.,0
+184,"White, Non-Hispanic",Male,EMEA,Math + Statistics,21.26,2.3503117752,5.00,-0.429457964,1,I am eager to join your program to develop my skills in data analysis.,1
+185,"White, Non-Hispanic",Female,Americas,Information Sciences,0.37,0.5901244055,3.32,-0.042267809,0,,0
+186,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.00,0,3.47,-0.264912741,0,I believe this program can help me achieve my goals in analytics.,0
+187,"Black, Non-Hispanic",Female,Americas,Math + Statistics,0.67,0,2.30,-1.142050562,0,,0
+188,Asian,Male,APAC,Other,1.31,3.2063992026,3.23,-0.70720334,0,I want to learn more about data. Your program will make me better at it.,0
+189,"White, Non-Hispanic",Female,Americas,Other,-1.25,0.7645832631,2.49,0.7994383896,0,I love analytics and data and wanna join. Your program is a good fit.,0
+190,"White, Non-Hispanic",Male,EMEA,Other,0.00,0,3.82,0.568226587,0,Your program looks like it can help me achieve my career goals in analytics.,0
+191,"White, Non-Hispanic",Female,Americas,Math + Statistics,3.39,0,4.36,0.0580438997,1,I believe this program can help me advance my career in data analysis.,1
+192,Asian,Female,APAC,Other,3.16,0.4320020764,3.74,-0.013331298,0,I wanna join becuz your program is good and analytics is fun.,0
+193,"White, Non-Hispanic",Male,Americas,Other,1.80,0.3030452224,4.10,-0.181635269,0,I have some experience in analytics. Your program will help me get better.,0
+194,"White, Non-Hispanic",Male,Americas,Other,-5.63,1.9638051715,4.17,0.2392383032,1,I believe this program can help me advance my career in data analysis.,1
+195,Hispanic,Male,Americas,Other,0.00,0,5.00,-1.318227284,0,I have some experience in data analysis and think your program will help me.,0
+196,Asian,Male,APAC,Math + Statistics,-0.06,0,2.75,1.7506775905,0,"I am looking to expand my knowledge in analytics, and your program seems like a good choice.",0
+197,"White, Non-Hispanic",Female,EMEA,Economics,3.84,2.8886982215,3.70,-1.437729252,0,Your program looks like it can help me achieve my career goals in data analysis.,0
+198,"Black, Non-Hispanic",Male,Americas,Other,0.56,0.7204516915,3.48,-0.007419444,0,,0
+199,Asian,Male,APAC,Economics,0.65,1.4042344242,5.00,0.9287980928,0,"With a background in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",0
+200,"White, Non-Hispanic",Female,Americas,Information Sciences,-1.15,1.7411030627,2.19,-0.741397218,0,,0
+201,"White, Non-Hispanic",Male,EMEA,Information Sciences,0.56,6.5064208391,4.34,1.7301448068,1,I aim to leverage your program’s strong research focus to contribute to the field of data analytics. The program’s emphasis on innovation and real-world applications aligns with my research interests and career goals.,1
+202,Asian,Male,APAC,Other,-0.14,1.8787788105,4.52,-1.003578142,0,"I want to learn analytics and get a job, so your program is good for me.",0
+203,Asian,Male,APAC,Other,-3.02,0,3.59,0.8671570571,0,I want to join your program to gain a better understanding of analytics.,0
+204,Asian,Female,APAC,Other,-0.31,2.8350172837,2.70,-1.492987736,0,"Your program looks fine, and I need to improve my data skills.",0
+205,"White, Non-Hispanic",Male,Americas,Economics,0.50,0,2.37,1.7595467381,0,"With a background in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",1
+206,"White, Non-Hispanic",Female,EMEA,Other,0.56,3.2344336298,4.86,0.5864575842,0,,0
+207,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.72,2.079069392,4.45,-2.01186913,0,This program looks like it can help me achieve my goals in analytics.,0
+208,"Black, Non-Hispanic",Female,Americas,Economics,3.43,7.7147727656,3.88,0.2171522748,0,"With a background in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",0
+209,Other,Female,Americas,Math + Statistics,0.00,0,2.80,-0.002867151,0,,0
+210,"White, Non-Hispanic",Male,Americas,Math + Statistics,-3.59,0,3.40,0.5196469915,0,"Your program’s focus on ethical data usage resonates with my values, and I am committed to using data analytics responsibly to create positive societal impact.",1
+211,Asian,Male,APAC,Other,1.04,2.0334944955,4.90,0.6026709975,0,"I think your program is good, and I like data, so I want to join.",0
+212,Asian,Male,APAC,Other,-0.35,3.5810501418,3.63,-0.431852103,0,I am eager to join your program to enhance my understanding of analytics.,0
+213,Asian,Male,APAC,Math + Statistics,0.03,0.145153476,4.00,-1.153758448,0,Your program looks like it can provide the training I need to excel in analytics.,0
+214,Asian,Female,APAC,Analytics,9.18,1.210229967,2.42,0.256006791,0,,0
+215,Asian,Male,APAC,Information Sciences,1.18,0,1.34,0.1885454794,0,Analytics is cool and I want to learn it. This program will help me alot.,0
+216,Other,Male,APAC,Economics,0.45,0.1502959581,2.80,1.7235099494,0,Your program’s emphasis on hands-on learning will prepare me for the dynamic demands of the data analytics industry. Real-world applications and projects will enhance my practical skills and confidence.,1
+217,"White, Non-Hispanic",Male,Americas,Information Sciences,2.05,1.2962375594,2.10,-1.144183998,0,Your program’s emphasis on hands-on learning will provide me with the practical skills needed to excel in the dynamic field of data analytics.,1
+218,Asian,Male,Americas,Other,-0.69,1.4774282334,3.10,0.6432001191,0,Your program might help me learn more about data.,0
+219,Hispanic,Male,EMEA,Math + Statistics,-0.98,3.1246007363,4.60,1.4646809974,0,,0
+220,Asian,Male,APAC,Economics,4.16,0,2.96,0.3850599998,0,"Your program’s focus on big data will equip me with the skills to handle and analyze large datasets effectively. This capability is essential in today’s data-driven world, and I am eager to learn from your esteemed faculty.",1
+221,"White, Non-Hispanic",Male,Americas,Analytics,2.39,1.4857668189,2.34,-2.074762297,0,I want to join your program to gain more insights into the field of data analysis.,0
+222,Asian,Male,APAC,Other,-0.96,2.2239318907,2.65,-0.285139768,0,"I am interested in learning more about data analysis, and this program seems like a good fit.",0
+223,"White, Non-Hispanic",Male,Americas,Other,5.07,2.5988166682,4.05,-2.013314307,0,Your program looks like a good opportunity for me to develop my skills in analytics.,0
+224,Asian,Male,APAC,Economics,5.08,0.5538770336,5.00,1.3062009008,0,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,0
+225,Asian,Male,APAC,Other,-2.88,0,3.78,0.3997688118,0,"I want to develop my skills in data analysis, and this program seems like a good fit.",0
+226,Asian,Male,EMEA,Other,-2.16,1.312289161,5.00,1.1916710303,0,Your program appears to have the courses I need to improve my analytics skills.,0
+227,"White, Non-Hispanic",Female,EMEA,Other,0.17,1.821268373,2.45,-0.253605227,0,,0
+228,Asian,Male,APAC,Analytics,0.60,0,5.00,0.6026403663,0,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,0
+229,Asian,Male,APAC,Other,-3.66,0.6126854126,2.78,1.0597804917,0,I believe your program offers the training I need to excel in analytics.,0
+230,"White, Non-Hispanic",Male,EMEA,Other,-1.60,0.4102856731,2.98,-0.0161507,0,,0
+231,Asian,Male,APAC,Other,1.66,0,0.89,1.2784786236,0,"Your program will help me learn analytics and get a job, so it's good for me.",0
+232,"White, Non-Hispanic",Male,EMEA,Math + Statistics,0.32,0.2389988866,5.00,0.9394926822,0,I seek to enhance my technical skills and knowledge through the advanced courses offered in your program. Continuous learning and adaptation are essential for staying relevant in the fast-paced field of data analytics.,1
+233,Asian,Male,APAC,Analytics,-0.48,0,0.89,-0.162914062,0,,0
+234,Other,Male,Americas,Information Sciences,6.28,3.3691195527,4.40,-0.717661091,0,,0
+235,Asian,Male,APAC,Information Sciences,0.00,0,3.20,0.2699957919,0,I am interested in learning more about data analysis through your program.,0
+236,Asian,Male,APAC,Math + Statistics,1.01,0.6988752645,4.00,0.7977150705,0,I think your program offers the right opportunities for me to grow in analytics.,0
+237,Asian,Male,APAC,Analytics,0.23,2.7715407486,3.02,2.1374578698,0,I lik analytics and want to lern more. This program seem good for me and I hope I get in.,0
+238,Asian,Male,APAC,Other,0.37,0.6263359066,3.62,-1.851906253,0,Your program looks like it can provide the training I need to excel in analytics.,0
+239,Asian,Female,APAC,Math + Statistics,-3.49,5.4526606895,2.54,-0.14690487,0,Your program appears to have the courses I need to improve my analytics skills.,0
+240,Asian,Male,APAC,Other,-0.21,1.3947195894,1.42,0.8039073051,0,,0
+241,Asian,Male,APAC,Math + Statistics,0.00,0,2.64,-0.542002638,0,"I think your program looks interesting, so I wanna join and learn data.",0
+242,Other,Female,APAC,Math + Statistics,-0.55,0,5.00,0.7057049708,0,The Master of Analytics program seems like a great way to improve my data analysis abilities and advance my career.,0
+243,Other,Female,EMEA,Economics,0.03,0,2.89,-0.559506634,0,"I want to deepen my understanding of data analysis, and your program looks ideal.",0
+244,"Black, Non-Hispanic",Female,APAC,Other,0.51,5.7328289563,4.36,0.3386505779,0,I am motivated to join your program to learn from experts and collaborate with like-minded peers. The program’s collaborative environment will foster my professional growth and enhance my analytical skills.,0
+245,Hispanic,Female,EMEA,Math + Statistics,0.25,0,3.55,0.1950025597,1,,0
+246,Asian,Female,APAC,Math + Statistics,0.00,0,4.02,-0.939095173,0,I am excited to join your program to gain expertise in big data technologies and apply them to drive business success and innovation.,0
+247,"White, Non-Hispanic",Male,Americas,Economics,-2.11,0.9776826957,2.91,0.4897587786,0,"With a background in economics and a keen interest in data analysis, I am excited to join your program to gain advanced skills in analytics and apply them to drive business growth.",1
+248,"White, Non-Hispanic",Male,EMEA,Math + Statistics,2.47,0.6145626906,3.55,1.8906512856,0,"As a data enthusiast with a strong background in mathematics and statistics, I am excited to deepen my analytical skills through your Master of Analytics program. My experience in various projects has honed my ability to derive actionable insights from complex datasets. I am eager to contribute my unique perspective and collaborate with peers to solve real-world problems.",1
+249,"White, Non-Hispanic",Male,Americas,Math + Statistics,1.82,0,2.05,0.7928971106,0,I seek to enhance my programming skills through the advanced courses offered in your program. Proficiency in programming languages is essential for developing effective analytical solutions.,1
+250,Asian,Female,APAC,Other,-0.54,0,3.83,1.3333320827,0,I am interested in analytics and think your program offers the right courses.,0
+251,Asian,Male,APAC,Other,-0.82,0.467173303,4.23,-0.032907841,0,,0
+252,"White, Non-Hispanic",Male,EMEA,Math + Statistics,2.14,0,4.77,-0.121282699,0,I believe this program can help me improve my skills in data analysis.,0
+253,"White, Non-Hispanic",Male,Americas,Economics,0.00,0,2.19,0.5552297543,0,"I believe that data has the power to transform industries and improve lives. My undergraduate degree in economics and my passion for analytics make me a strong candidate for your program. I am excited to learn advanced techniques and apply them to solve complex problems, ultimately driving innovation and growth.",1
+254,Other,Female,APAC,Math + Statistics,0.00,0,2.51,1.4458307223,0,I wanna join your program cuz it's good. I love analytics and data.,0
+255,"White, Non-Hispanic",Female,Americas,Other,14.02,0,5.00,-0.068009299,0,I have sum experience in data and want to learn more in your program.,0
+256,"White, Non-Hispanic",Male,EMEA,Information Sciences,-5.27,0,4.10,0.4864169562,1,I am excited to join your program to explore the intersection of data analytics and artificial intelligence. This cutting-edge combination will open new avenues for innovation and problem-solving.,1
+257,Asian,Male,APAC,Economics,-2.08,1.9855895627,2.80,-0.173922398,0,,0
+258,"Black, Non-Hispanic",Male,Americas,Math + Statistics,1.74,2.0888571783,4.14,1.6302206426,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",1
+259,Other,Male,Americas,Economics,11.81,1.632846333,3.94,0.2640400759,0,I have some experience in analytics and want to enhance my skills with this program.,0
+260,Asian,Female,APAC,Other,-2.67,0,4.23,0.178383329,0,Your program is perfect for me. I want to learn more about analytics.,0
+261,Asian,Male,APAC,Analytics,-0.01,0,2.44,-0.340350068,1,"I have worked in analytics, and your program will refine and expand my abilities.",0
+262,"White, Non-Hispanic",Male,Americas,Other,-0.01,0.9223349613,3.05,-0.83429384,0,Data is great. I need to make lots of money. Please let me join your program!,0
+263,Asian,Male,APAC,Math + Statistics,2.91,0.3652355076,1.94,0.0201328693,0,I am excited about the opportunity to develop my skills in data analysis through your program.,0
+264,Asian,Male,Americas,Other,-2.09,0.605268346,1.58,-0.608848542,0,,0
+265,"White, Non-Hispanic",Female,Americas,Economics,-1.68,8.3997602842,2.24,-0.718609561,0,"Having some experience in data analysis, I am motivated to gain more expertise.",0
+266,Asian,Female,APAC,Other,0.00,0,3.64,-0.594828953,1,,0
+267,Asian,Male,APAC,Math + Statistics,0.76,0,3.25,1.4318905176,0,"I am passionate about solving complex problems and am eager to join the Master of Analytics program. My robust academic foundation in math and statistics, along with extensive analytical experience, makes me an excellent fit. I am committed to using data to uncover insights and drive strategic decisions.",1
+268,"White, Non-Hispanic",Male,Americas,Other,-0.79,2.337600557,3.56,1.1175698496,0,I am interested in gaining more knowledge in data analytics through your program.,0
+269,"White, Non-Hispanic",Male,Americas,Information Sciences,2.40,0.1724932574,3.24,1.5319010121,0,"With a strong foundation in computer science and a passion for analytics, I am eager to join your program to gain advanced skills in data analysis and machine learning.",1
+270,Hispanic,Male,EMEA,Information Sciences,12.22,0,2.67,0.1645787451,0,Your program’s focus on ethical data usage aligns with my values and career aspirations. Responsible data analytics is essential for sustainable business practices and societal impact.,1
+271,"Black, Non-Hispanic",Female,APAC,Math + Statistics,-3.32,0,4.13,0.9324533039,1,My passion for data analytics and my background in engineering make the Master of Analytics program the perfect fit for me. I look forward to learning from industry experts and contributing to impactful projects.,0
+272,Asian,Male,APAC,Information Sciences,2.90,0,4.46,0.3881730181,0,Your program looks like a good opportunity for me to learn more about analytics.,0
+273,Hispanic,Male,EMEA,Economics,0.87,0,4.78,-0.968726427,0,I wanna join becuz I like analytics and your program looks good.,0
+274,"White, Non-Hispanic",Male,Americas,Other,-1.34,0.6494157386,3.90,-2.303036106,0,I wanna get better at data. Your program will help me learn more.,0
+275,"White, Non-Hispanic",Female,EMEA,Analytics,-1.44,0,2.99,1.2528767215,0,Mom and dad say grad school or job. Please let me join your program to avoid getting a job.,0
+276,Asian,Female,APAC,Analytics,-0.01,0,2.62,1.7626941869,0,I like analytics and want to join your program. It looks good for my career.,0
+277,"White, Non-Hispanic",Female,Americas,Math + Statistics,5.01,0,3.41,-0.161499438,0,I am eager to join your program to enhance my understanding of data analysis.,0
+278,Asian,Female,APAC,Math + Statistics,-6.18,0,3.55,0.4554175367,0,Your program seems like a good opportunity for me to grow in analytics.,0
+279,"White, Non-Hispanic",Male,Americas,Math + Statistics,-3.08,0,4.72,1.3567467868,0,"I am impressed by the balanced curriculum of this program, which integrates theory with practical application. My studies in mathematics and statistics have given me a solid theoretical foundation, but I am keen to gain more practical experience. This program's approach to combining classroom learning with hands-on projects and real-world problem-solving is exactly what I am looking for. I am excited about the opportunity to apply theoretical concepts to practical challenges, which will not only deepen my understanding but also enhance my problem-solving skills. This balance is essential for my growth as an analytics professional.",1
+280,Asian,Male,APAC,Math + Statistics,7.56,0.4336686038,3.66,0.9392155341,0,Your program seems to offer the right opportunities for me to grow in data analysis.,0
+281,Asian,Female,APAC,Economics,-1.60,0.4143693912,2.82,-0.295541473,0,Your program is good for me becuz I need to learn analytics and get a job.,0
+282,"Black, Non-Hispanic",Male,Americas,Math + Statistics,0.00,0,2.19,-0.767600931,0,"I aim to leverage your program’s resources to stay updated with the latest trends in data analytics, ensuring I remain at the forefront of this rapidly evolving field.",0
+283,"White, Non-Hispanic",Male,Americas,Other,1.70,3.0809440618,4.76,0.0683784942,0,I think analytics is interesting and I want to join your program.,0
+284,Asian,Male,APAC,Information Sciences,5.16,0,5.00,-0.099306319,0,I am looking for a program that offers comprehensive training in analytics.,0
+285,Asian,Female,APAC,Other,4.58,4.3097998743,3.23,1.2711373104,1,You should let me in because I'm pretty awesome.,0
+286,"White, Non-Hispanic",Female,EMEA,Economics,-0.81,1.876472614,4.29,2.2456946073,0,Your program’s diverse curriculum will allow me to explore various facets of data analytics. This holistic approach will prepare me to address complex analytical challenges across different industries.,1
+287,Other,Female,Americas,Economics,1.04,6.3344761452,3.84,0.0078091089,0,My passion for data analytics and my background in engineering make the Master of Analytics program the perfect fit for me. I look forward to learning from industry experts and contributing to impactful projects.,0
+288,Hispanic,Female,Americas,Other,4.93,0.3493807172,2.33,0.6074270316,0,I wanna join cuz I love analytics and data. Your program is good for me.,0
+289,"White, Non-Hispanic",Female,Americas,Economics,0.00,0,3.70,-2.113199526,0,I think your program offers the right mix of theory and practical experience for me.,0
+290,Other,Female,Americas,Math + Statistics,-4.37,0.0455441169,3.37,0.5239581761,0,This program looks like it can help me achieve my goals in analytics.,0
+291,Asian,Male,APAC,Math + Statistics,0.17,0.0124611831,5.00,-0.380685306,0,I have some experience in data analysis and believe this program can help me grow.,0
+292,"White, Non-Hispanic",Female,EMEA,Math + Statistics,4.02,1.2681833225,3.23,-0.213552053,0,I have some experience in analytics and believe this program can help me grow.,0
+293,Asian,Male,APAC,Math + Statistics,-0.29,0,2.97,-0.299545584,0,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,0
+294,Hispanic,Male,Americas,Math + Statistics,0.09,0,3.82,-0.56277806,0,Your program looks interesting. I want to join and learn more about data.,0
+295,Asian,Male,APAC,Information Sciences,1.23,0,2.73,1.2360138349,0,I am excited about the prospect of learning more about analytics through your program.,0
+296,Asian,Female,APAC,Other,10.01,3.9213590972,3.98,-0.360912373,0,"I am eager to build my data analysis skills, and this program seems to offer the right courses.",0
+297,Asian,Male,APAC,Other,-3.50,0.9799450159,3.74,-0.289143914,0,I wanna join becuz analytics is fun and your program is good.,0
+298,"White, Non-Hispanic",Male,Americas,Other,-0.49,5.4199203078,2.62,-0.011676255,0,,0
+299,"White, Non-Hispanic",Male,Americas,Economics,-1.46,0,4.87,0.8155573102,0,I seek to leverage your program’s industry partnerships to gain practical experience and insights into the latest trends and technologies in data analytics.,1
+300,"White, Non-Hispanic",Male,EMEA,Economics,3.51,0,3.91,-1.073628008,0,I think your program is good for me to learn analytics and get a job.,0
+301,"White, Non-Hispanic",Male,Americas,Information Sciences,-0.22,0.3102750016,3.74,-1.318826275,0,I am eager to develop my data analysis skills through your program.,0
+302,Hispanic,Female,Americas,Analytics,-1.90,6.117734334,2.74,-0.186079186,1,I want to join your program to gain more insights into data analytics.,0
+303,Asian,Male,APAC,Other,2.19,1.6966757844,2.91,0.8502303978,0,I am eager to join your program to gain a deeper understanding of analytics.,0
+304,Asian,Male,EMEA,Information Sciences,0.00,0,2.31,0.6707970061,0,I want to join your program because I have to learn analytics.,0
+305,"White, Non-Hispanic",Male,EMEA,Analytics,5.27,1.0011299659,3.97,0.8999910734,0,I seek to leverage your program’s industry connections to gain practical insights into data analytics. The program’s emphasis on real-world applications and industry partnerships will enhance my professional growth.,1
+306,Asian,Male,APAC,Economics,-1.24,1.481387334,2.58,0.0507803135,0,I'm awesome and that's why you should let me in.,0
+307,"White, Non-Hispanic",Female,Americas,Math + Statistics,-0.01,0.9737768953,3.75,-0.3872166,0,Your program appears to have the courses I need to develop my data analysis skills.,0
+308,"White, Non-Hispanic",Male,Americas,Economics,5.86,2.0063401187,3.57,0.0121479741,0,"I am passionate about the power of data to transform businesses and drive innovation. With a degree in economics and hands-on experience in data analysis, I am excited to take my skills to the next level through the Master of Analytics program. I am eager to learn advanced techniques and apply them to solve real-world problems.",1
+309,Asian,Female,APAC,Analytics,8.82,1.7103097675,4.28,0.5187693477,0,Your program’s rigorous training will prepare me for the dynamic demands of the data analytics industry. The program’s comprehensive coursework and hands-on projects will enhance my analytical skills and practical expertise.,0
+310,"White, Non-Hispanic",Female,Americas,Other,-2.24,1.5986723087,3.28,-0.494715069,0,,0
+311,Asian,Female,APAC,Math + Statistics,0.49,0,3.07,-1.306119713,0,,0
+312,Asian,Male,APAC,Economics,0.94,1.3174541361,2.56,1.1825257667,0,"Your program is good, I like analytics, so I wanna join.",0
+313,"White, Non-Hispanic",Male,Americas,Math + Statistics,7.61,0.3913767031,3.69,-0.574569067,0,Your program’s commitment to innovation will inspire me to think creatively and develop cutting-edge solutions to analytical challenges.,1
+314,Asian,Female,Americas,Other,0.00,0,4.05,0.5389421254,1,,0
+315,Asian,Male,APAC,Analytics,0.40,1.8999638119,3.50,-0.026394818,0,I have a foundation in data science and want to expand my knowledge with your program.,0
+316,Asian,Male,APAC,Other,0.48,0,2.92,0.3600222161,0,"I am interested in learning more about analytics, and this program seems like a good fit.",0
+317,Asian,Male,APAC,Other,-0.95,0.0102826856,3.17,-0.497213182,0,I believe this program can help me gain a better understanding of data analysis.,0
+318,"White, Non-Hispanic",Male,Americas,Other,7.54,0.4300437556,5.00,0.2666147121,0,"I want to expand my knowledge in analytics, and your program looks like a good fit.",0
+319,Other,Male,Americas,Analytics,-0.12,0,3.31,-0.559358459,0,My experience in analytics sets a foundation that your program can build upon.,0
+320,Asian,Male,APAC,Other,0.12,0,3.74,-0.504118861,0,I think your program offers the right opportunities for me to grow in analytics.,0
+321,"White, Non-Hispanic",Male,Americas,Other,-2.80,4.5733483795,3.56,-1.504838153,0,I like analytics and your program looks good so I wanna join.,0
+322,Hispanic,Female,APAC,Economics,0.00,0,5.00,0.6934570777,1,Your program’s diverse curriculum will allow me to explore various facets of data analytics. This holistic approach will prepare me to address complex analytical challenges across different industries.,1
+323,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.00,0,3.05,1.7045891014,0,"With a background in mathematics and hands-on experience in data analysis, I am excited to join the Master of Analytics program to further my expertise and contribute to impactful projects.",1
+324,Other,Female,EMEA,Other,0.39,0.5481056338,3.16,0.9720200625,0,,0
+325,Asian,Male,APAC,Math + Statistics,-5.95,0,2.54,-0.369721259,0,Your program looks interesting and I want to learn analytics. I think I can do good.,0
+326,"White, Non-Hispanic",Male,EMEA,Information Sciences,0.39,0,2.52,1.0485637998,0,"With a strong foundation in computer science, I am eager to join your program to enhance my data analysis capabilities and contribute to technological advancements.",1
+327,"White, Non-Hispanic",Male,Americas,Other,-1.69,0,2.72,1.6642247032,0,I think your program offers the right balance of coursework and practical experience.,0
+328,"Black, Non-Hispanic",Female,Americas,Economics,0.90,0,2.01,0.0704132477,0,I believe this program can provide the skills I need to excel in data analysis.,0
+329,Asian,Female,APAC,Math + Statistics,-2.92,1.1859540025,4.94,-0.044416881,0,Your program appears to have the courses I need to develop my analytics skills.,0
+330,"White, Non-Hispanic",Male,Americas,Other,2.13,9.0291372145,4.67,0.0822038495,0,I believe your program offers the right blend of theory and practice for my career goals.,0
+331,Hispanic,Female,Americas,Economics,2.51,0,3.91,-1.310724514,0,"I am passionate about using data to drive business growth, and your program’s comprehensive curriculum will provide me with the knowledge and skills needed to achieve this.",0
+332,Asian,Male,APAC,Math + Statistics,0.14,0,2.20,1.4611907403,0,My parents said go to grad school or get a job. Please let me join your program so I don't need a job.,0
+333,Asian,Male,APAC,Other,-0.29,1.1290078475,3.00,-1.719323207,0,,0
+334,"White, Non-Hispanic",Female,Americas,Other,0.00,0,1.91,-0.091321311,0,,0
+335,Asian,Male,APAC,Other,-1.04,0,1.90,0.2881167807,0,,0
+336,"White, Non-Hispanic",Male,EMEA,Math + Statistics,2.70,1.9619737736,3.24,-0.957597998,0,This program seems like a good opportunity for me to advance my career in data analysis.,0
+337,"White, Non-Hispanic",Male,Americas,Other,0.66,1.4976717426,4.09,-2.025268894,0,I wanna join your program cuz analytics is cool. I like data.,0
+338,Asian,Male,APAC,Economics,5.41,3.725619309,3.82,0.1122144615,0,Your program’s integration of theoretical and practical learning will prepare me for a successful career in data analytics. The comprehensive coursework and hands-on projects will enhance my analytical skills.,0
+339,Hispanic,Female,APAC,Information Sciences,0.19,1.0501856903,3.56,-0.871803526,0,Your program seems like a good opportunity for me to develop my skills in analytics.,0
+340,"White, Non-Hispanic",Male,EMEA,Other,-0.29,0,4.24,-0.461320732,0,I like analytics and wanna join your good-looking program.,0
+341,Asian,Male,EMEA,Math + Statistics,1.89,0.2244420026,4.27,2.472000629,0,I am motivated to join your program to gain a deeper understanding of machine learning algorithms. The program’s comprehensive curriculum and hands-on projects will provide the expertise needed to excel in this area.,1
+342,Other,Female,EMEA,Math + Statistics,0.00,0,2.09,0.5016686441,0,I believe your program offers the right balance of coursework and hands-on experience.,0
+343,"White, Non-Hispanic",Female,Americas,Other,2.40,0.4673926759,2.15,-0.200396214,0,,0
+344,Asian,Male,Americas,Math + Statistics,-0.85,0.6383655546,3.70,-0.962747658,0,I have been working with data for a few years and want to formalize my knowledge with this program.,0
+345,"White, Non-Hispanic",Male,EMEA,Other,0.01,0,3.44,-0.679202403,0,My parents told me to apply to grad school or get a job. Please let me into your program so I don't have to get a job.,0
+346,Hispanic,Male,EMEA,Economics,-2.48,0,4.02,-0.337297275,0,I am passionate about using data to make informed decisions. The Master of Analytics program's comprehensive curriculum and focus on practical applications will prepare me for a successful career in data analytics.,0
+347,"White, Non-Hispanic",Male,EMEA,Analytics,-4.07,0,1.99,-1.428825934,1,I wanna join and learn data cuz your program looks interesting.,0
+348,Asian,Male,APAC,Economics,4.14,0.8661577626,2.27,0.3156799893,0,Your program looks like a good opportunity for me to develop my skills in data analysis.,0
+349,Other,Male,APAC,Other,0.00,0,4.29,1.0505535101,0,Your program looks good I want to join it. I know some data + data stuff.,0
+350,"Black, Non-Hispanic",Female,EMEA,Information Sciences,2.71,4.8622626095,2.31,0.4440758226,0,Your program looks like it can help me achieve my career goals in data analysis.,0
+351,Asian,Female,APAC,Other,-1.53,2.3910640253,2.49,1.073747666,0,"I'm really awesome, so you should accept me.",0
+352,Asian,Female,APAC,Information Sciences,3.70,0,2.88,-0.186662294,0,"I want to build on my current knowledge and skills in data analysis, and this program looks ideal for that.",0
+353,"White, Non-Hispanic",Male,EMEA,Analytics,0.49,0,3.30,0.7068230693,0,Your program’s diverse curriculum will provide me with a well-rounded education in data analytics. The program’s interdisciplinary approach will prepare me to address diverse analytical challenges in my future career.,1
+354,"White, Non-Hispanic",Male,Americas,Information Sciences,3.50,1.2450840447,3.80,0.2165504176,0,"The Master of Analytics program's comprehensive approach to teaching analytics aligns perfectly with my career aspirations. With a background in information sciences, I am eager to deepen my understanding of advanced analytical techniques and apply them to solve real-world problems.",1
+355,Asian,Female,APAC,Math + Statistics,-2.05,0,4.59,1.8204106109,0,I am passionate about using data to make informed decisions. The Master of Analytics program's comprehensive curriculum and focus on practical applications will prepare me for a successful career in data analytics.,0
+356,"White, Non-Hispanic",Male,Americas,Other,0.86,0.010106376,3.45,0.2266558346,0,I believe this program can help me better understand the field of analytics.,0
+357,Hispanic,Male,Americas,Math + Statistics,10.80,2.0976353904,2.74,-0.112451531,0,I am looking for a program that can help me better understand analytics.,0
+358,Asian,Female,APAC,Analytics,3.88,5.9364335334,3.56,0.493723218,0,I believe your program offers the right blend of theory and practice for my career goals.,0
+359,"Black, Non-Hispanic",Male,Americas,Math + Statistics,-0.05,0,2.52,1.2006949657,1,"With a passion for data-driven decision-making, I am eager to join your program to gain advanced skills in analytics and drive strategic decisions in my future career.",1
+360,Asian,Male,APAC,Information Sciences,-0.01,0,2.53,0.0826602955,0,I am excited to join your program to gain expertise in big data technologies and apply them to drive business success and innovation.,0
+361,Hispanic,Female,APAC,Analytics,1.78,0,2.70,0.3778422023,0,"I am looking for a program that can help me better understand data analysis, and yours seems ideal.",0
+362,Other,Male,APAC,Analytics,1.39,6.3953637307,2.45,1.2979037134,0,"I want to join your program because it's there, and I like data.",0
+363,"White, Non-Hispanic",Male,EMEA,Other,1.75,0,4.27,-0.057188327,1,Your program looks like it can provide the training I need to excel in analytics.,1
+364,"White, Non-Hispanic",Female,Americas,Other,1.84,2.3417349199,2.82,0.8704696152,0,"I want to learn analytics more, and your program is perfect for me.",0
+365,Asian,Male,APAC,Information Sciences,0.79,0,2.91,1.2700863236,0,"With a background in computer science, I am eager to join your program to develop my skills in data analysis and machine learning, and to contribute to innovative projects.",0
+366,Asian,Male,APAC,Economics,5.42,2.2521710008,4.21,0.2577874891,0,,0
+367,Asian,Female,APAC,Other,-2.88,0,5.00,-1.234308206,1,I have a background in statistics and want to apply it in the field of analytics. This program seems perfect for that.,0
+368,Asian,Male,EMEA,Information Sciences,-3.72,2.5713278328,3.86,0.4922828466,0,"The structure of your program, with its emphasis on both theory and practical applications, aligns perfectly with my educational goals. My experience in the field of data analytics has shown me the value of a curriculum that provides a strong theoretical foundation while also offering ample opportunities for practical application. This program's blend of rigorous coursework and hands-on projects will enable me to develop a comprehensive understanding of analytics. I am particularly excited about the chance to work on real-world problems and collaborate with industry professionals, which will enhance my learning and prepare me for future challenges.",1
+369,Asian,Male,Americas,Information Sciences,4.05,0,3.19,0.7629376908,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",1
+370,Asian,Female,EMEA,Economics,-0.55,0.299388971,3.79,0.0364487847,0,I am motivated to join your program to gain expertise in predictive analytics and its applications. The program’s comprehensive curriculum will provide the knowledge and skills needed to excel in this area.,1
+371,Asian,Female,EMEA,Analytics,2.01,0,2.35,-0.257418185,0,I seek to leverage your program’s comprehensive training to enhance my problem-solving abilities and tackle complex analytical challenges effectively.,0
+372,Other,Female,APAC,Economics,1.97,2.0634784779,2.64,-0.491244787,0,I think your program is interesting. I wanna join and learn more data.,0
+373,Asian,Female,APAC,Math + Statistics,7.44,0,1.59,0.9044224409,0,Your program is interesting. I wanna join and learn more about data.,0
+374,Hispanic,Male,Americas,Other,0.00,0,3.39,0.3748476649,0,I think this program offers the right blend of theory and practice for my career goals.,0
+375,"White, Non-Hispanic",Male,Americas,Math + Statistics,1.19,0,3.56,-0.47234294,1,Your program looks like it can provide the training I need in data analysis.,1
+376,"White, Non-Hispanic",Female,EMEA,Other,2.89,0,2.65,-1.663563641,0,,0
+377,"White, Non-Hispanic",Male,Americas,Math + Statistics,-1.98,1.8338571578,3.78,-0.733406975,1,Your program’s emphasis on real-world applications will prepare me to address complex analytical challenges and drive business success in my future career.,1
+378,"Black, Non-Hispanic",Male,Americas,Information Sciences,0.27,0.7409029548,4.15,-0.587378597,0,Your program looks like a good opportunity for me to develop my skills in data analysis.,0
+379,"White, Non-Hispanic",Male,EMEA,Information Sciences,-1.34,4.4010841335,3.66,-0.259091814,0,"I want to build on my current knowledge and skills in analytics, and I believe this program can help me do that.",0
+380,"White, Non-Hispanic",Female,EMEA,Math + Statistics,1.11,0.1116733832,2.87,0.2973915005,1,I am passionate about using data to make informed decisions. The Master of Analytics program's comprehensive curriculum and focus on practical applications will prepare me for a successful career in data analytics.,1
+381,"White, Non-Hispanic",Female,EMEA,Information Sciences,1.46,0.4377595336,2.87,0.1997719409,0,I am excited about the prospect of learning more about data analysis through your program.,0
+382,Asian,Male,APAC,Math + Statistics,0.12,0,3.06,-0.455623116,0,I wanna be part of your program becuz it’s good and analytics is fun.,0
+383,"White, Non-Hispanic",Female,Americas,Math + Statistics,-0.38,5.4354701936,4.35,-0.844144057,0,Your program looks interesting and I want to join and learn more data.,0
+384,Asian,Female,APAC,Information Sciences,-0.62,0.4074793073,3.81,0.0750653338,0,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,0
+385,Asian,Female,APAC,Information Sciences,0.66,0.959191546,4.07,0.1687139018,0,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,0
+386,Asian,Female,APAC,Math + Statistics,0.21,0,3.02,-0.660266947,0,"With a degree in mathematics and substantial experience in data analysis, I am eager to advance my knowledge through the Master of Analytics program. The program's focus on hands-on learning and real-world problem-solving aligns perfectly with my career goals.",0
+387,Asian,Female,APAC,Math + Statistics,0.24,0,5.00,-0.754792939,0,"I am looking to advance my career in analytics, and this program offers the right opportunities.",0
+388,Asian,Male,APAC,Math + Statistics,0.70,0,4.57,0.1113513293,0,I am motivated to join your program to gain a deeper understanding of machine learning algorithms. The program’s comprehensive curriculum and hands-on projects will provide the expertise needed to excel in this area.,0
+389,"White, Non-Hispanic",Male,EMEA,Math + Statistics,0.00,0,3.53,0.5077253982,0,"With a degree in mathematics and a passion for data analysis, I am eager to join your program to develop my skills in analytics and contribute to solving complex problems in various industries.",1
+390,Asian,Male,APAC,Information Sciences,0.00,0,3.59,0.0294027562,0,"I need to join a program, and yours is available.",0
+391,Asian,Male,APAC,Information Sciences,5.98,1.0603674498,4.41,1.0994113513,0,I want to join your program to gain a better understanding of data analysis.,0
+392,Asian,Female,APAC,Analytics,0.00,0,5.00,0.3727052794,0,I seek to leverage your program’s industry partnerships to gain practical experience and insights into the latest trends and technologies in data analytics.,0
+393,"White, Non-Hispanic",Female,Americas,Other,9.91,4.4229057634,4.21,-1.791525781,0,I want to join becuz I love analytics and data. Your program is perfect for me.,0
+394,"White, Non-Hispanic",Female,Americas,Math + Statistics,-1.32,0.2734329034,3.27,-0.299203098,0,"I want to develop my skills in data analysis, and your program seems like a good fit.",0
+395,"Black, Non-Hispanic",Male,EMEA,Economics,0.43,0.5880695266,1.90,-0.850657577,1,This program looks like it can help me achieve my goals in analytics.,0
+396,"White, Non-Hispanic",Male,Americas,Other,-1.12,0.4862850381,2.59,0.042098114,0,Your program looks like it can provide the training I need to excel in analytics.,0
+397,Asian,Female,APAC,Economics,13.92,1.6323830186,3.01,0.6238647632,0,I want to bridge the gap between data and decision-making. Your program’s focus on data-driven insights and strategic thinking supports my ambition to become a key player in business analytics.,1
+398,Asian,Male,APAC,Economics,3.61,0,3.56,0.3568692153,0,Your program seems like a good opportunity for me to grow in analytics.,0
+399,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-1.02,0,3.79,-0.496457906,0,I believe this program can help me better understand the field of data analysis.,0
+400,Hispanic,Male,Americas,Other,1.31,3.6074063742,4.37,0.890763818,0,I believe your program offers the right balance of coursework and hands-on experience.,0
+401,Asian,Male,APAC,Other,4.40,0,3.54,0.5326833746,0,,0
+402,"White, Non-Hispanic",Male,Americas,Information Sciences,5.25,2.1674069762,3.81,0.0032811349,0,I have always been fascinated by the power of data to drive strategic decisions. The Master of Analytics program will provide me with the advanced skills needed to excel in this field. I look forward to collaborating with peers and faculty to tackle complex analytical challenges.,1
+403,Asian,Female,APAC,Economics,7.30,0,4.56,0.3572820155,0,I seek to enhance my programming skills through the advanced courses offered in your program. Proficiency in programming languages is essential for developing effective analytical solutions.,0
+404,"White, Non-Hispanic",Male,Americas,Other,5.23,0,3.94,-0.598753473,0,I love analytics and data so I wanna join. Your program is good for me.,0
+405,Asian,Female,APAC,Math + Statistics,-0.46,0,2.81,1.442850178,0,"I am excited to join the Master of Analytics program as someone who enjoys solving complex problems. My robust academic foundation in mathematics and statistics, along with my analytical expertise, makes me an ideal fit. I am dedicated to leveraging data to uncover insights and inform strategic decisions.",1
+406,Asian,Female,Americas,Math + Statistics,0.99,5.7265397102,2.42,0.3758873346,1,I have a strong interest in analytics and believe this program can help me grow in the field.,0
+407,Asian,Male,APAC,Economics,0.00,0,3.29,0.4258771733,0,"I want to deepen my understanding of data analysis, and your program looks ideal.",0
+408,"White, Non-Hispanic",Male,Americas,Economics,-1.38,1.0950082768,3.10,-1.25215661,0,I believe this program can help me improve my skills in data analysis.,0
+409,Asian,Male,APAC,Math + Statistics,-0.65,0.5050726926,5.00,0.5142668505,0,I have some experience in analytics and believe this program can help me grow.,0
+410,"White, Non-Hispanic",Male,APAC,Math + Statistics,-4.92,0.2553493161,4.45,0.4144924086,0,I am passionate about using data to improve business processes. The Master of Analytics program's focus on practical applications aligns with my career goals of becoming a data-driven decision-maker.,0
+411,Asian,Female,APAC,Other,2.40,0,3.74,0.2700999143,0,This program seems like a great way to improve my abilities in data analysis.,0
+412,"White, Non-Hispanic",Male,Americas,Other,-2.16,1.4437933579,3.90,0.1459035059,0,I believe your program offers the right blend of theory and practice for my career goals.,0
+413,Asian,Female,Americas,Other,-0.10,1.0991685949,3.55,-0.093072117,0,I am looking for a program that offers a solid foundation in analytics.,0
+414,Asian,Female,APAC,Economics,0.00,0,0.97,0.4300594142,0,Your program looks like it can provide the training I need to excel in analytics.,0
+415,Asian,Female,APAC,Other,0.00,0,2.89,-0.707418355,0,,0
+416,Asian,Male,Americas,Math + Statistics,-3.49,0.2035189953,4.32,1.1829143695,0,I am eager to learn more about analytics through your program.,0
+417,Asian,Male,APAC,Economics,0.00,0,3.57,1.7697396153,0,"As a data enthusiast with a strong background in economics, I am eager to join the Master of Analytics program to deepen my analytical skills and apply them to real-world problems. This program's comprehensive curriculum and focus on practical applications align perfectly with my career goals.",1
+418,Asian,Male,APAC,Economics,3.95,3.8470482787,5.00,0.8994177664,0,Analytics is cool so I wanna join your program. I like data.,0
+419,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-0.23,4.1471001079,2.28,2.6929373727,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",1
+420,"White, Non-Hispanic",Female,EMEA,Other,5.38,2.5406342642,4.31,0.8976398826,1,This program seems like a good way to improve my skills in data analysis and advance my career.,1
+421,"White, Non-Hispanic",Male,Americas,Other,-1.05,0,4.84,-1.025243914,0,I seek to leverage your program’s industry partnerships to gain practical experience and insights into the latest trends and technologies in data analytics.,1
+422,Other,Female,Americas,Economics,1.73,0,3.03,-1.858372712,0,I am looking for a program that can help me deepen my understanding of data analysis.,0
+423,Other,Female,Americas,Math + Statistics,-2.37,1.5195927865,4.90,-0.27769265,0,Your program is perfect becuz I want to learn more about analytics.,0
+424,"White, Non-Hispanic",Male,Americas,Economics,1.46,0.7430543213,2.87,0.5211450921,0,Your program’s emphasis on statistical analysis will prepare me for the complexities of data analytics. The comprehensive coursework and practical experience will enhance my analytical skills and problem-solving abilities.,1
+425,Asian,Female,APAC,Other,-0.09,0.1077019656,2.75,-0.709484187,0,,0
+426,Asian,Female,APAC,Other,15.06,2.9170185805,2.61,0.8576918415,0,,0
+427,Asian,Female,APAC,Economics,-6.10,0,4.27,-1.098894593,0,"With a strong foundation in analytics and a passion for data-driven decision-making, I am eager to join the Master of Analytics program. My experience in various analytical roles has equipped me with the skills needed to excel in this program. I look forward to learning from esteemed faculty and contributing to innovative projects.",0
+428,"White, Non-Hispanic",Male,Americas,Math + Statistics,11.22,1.9045037784,4.20,-0.976153214,0,I am interested in data analytics and believe your program will help me develop the necessary skills.,0
+429,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-4.07,0,2.29,2.113195543,0,"I am eager to join the Master of Analytics program as someone who excels in tackling complex problems. My solid academic foundation in mathematics and statistics, along with my hands-on analytical experience, positions me well for this program. I am passionate about leveraging data to reveal insights and inform strategic decisions.",1
+430,Asian,Male,APAC,Other,9.46,1.4632574974,3.90,-0.43948311,0,"I want to improve my skills in data analysis, and your program looks like a good fit.",0
+431,Asian,Male,APAC,Analytics,-0.35,1.4872666398,2.97,1.3949815004,0,I have a foundation in statistics and want to expand into analytics with your program.,0
+432,Other,Female,APAC,Other,3.84,4.7405816145,3.72,0.1536923745,0,I am eager to improve my skills in data analysis through your program.,0
+433,Asian,Male,APAC,Other,0.01,3.7929923259,2.11,-0.305261731,0,I am excited about the chance to enhance my data analysis skills through your program.,0
+434,Other,Male,Americas,Other,-3.11,2.8916418731,2.95,1.3955932701,0,I have some data skills and want to improve them with your program.,0
+435,Asian,Male,Americas,Math + Statistics,-0.50,3.3623168405,3.30,1.0557095947,0,"With a strong foundation in statistics and a keen interest in predictive modeling, I am excited to join your program to gain advanced skills in analytics and contribute to impactful projects.",1
+436,"White, Non-Hispanic",Male,Americas,Economics,1.52,2.5321617541,5.00,0.6622802213,0,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,1
+437,"White, Non-Hispanic",Female,Americas,Math + Statistics,10.56,0,3.81,0.3375990148,0,I aim to leverage your program’s strong research focus to contribute to the field of data analytics. The program’s emphasis on innovation and real-world applications aligns with my research interests and career goals.,1
+438,Other,Female,EMEA,Math + Statistics,-3.13,4.0213038576,3.80,-0.787931655,0,,0
+439,Asian,Male,APAC,Math + Statistics,6.86,0,3.77,0.9892738911,0,"As a data enthusiast with a background in engineering, I am excited to join your program to deepen my knowledge in analytics and apply it to solve complex technical challenges.",0
+440,Asian,Female,APAC,Other,1.66,0,3.40,0.9445432682,0,I am eager to apply the advanced statistical methods taught in your program to real-world scenarios. This practical approach will prepare me to address complex analytical challenges in my future career.,1
+441,Asian,Male,APAC,Analytics,1.28,2.1869763716,4.59,-1.255753183,0,"Analytics is cool, I like data, so I wanna join your program.",0
+442,"White, Non-Hispanic",Female,Americas,Math + Statistics,-1.04,1.1358710661,2.36,-1.19276535,0,,0
+443,Asian,Female,Americas,Math + Statistics,2.78,0.0152335897,4.72,0.1774236231,0,"With a degree in mathematics and a passion for data analysis, I am eager to join your program to develop my skills in analytics and contribute to solving complex problems in various industries.",0
+444,"White, Non-Hispanic",Male,EMEA,Math + Statistics,1.03,0,4.19,0.1425110009,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,1
+445,Asian,Male,APAC,Math + Statistics,2.44,0,2.56,-0.737981054,0,I believe this program can help me improve my skills in data analysis.,0
+446,"White, Non-Hispanic",Female,Americas,Math + Statistics,1.25,0,2.64,-0.2997865,0,"I'm pretty awesome, so you should let me in.",0
+447,"White, Non-Hispanic",Male,Americas,Economics,-4.01,0.2579584881,1.50,-1.890911213,0,"I need to enhance my analytics skills, and your program can help.",0
+448,Asian,Male,APAC,Math + Statistics,-4.20,0,4.38,-0.001639614,0,I believe this program can help me achieve my career goals in analytics.,0
+449,Other,Female,EMEA,Math + Statistics,0.35,0,3.68,-0.659568351,0,I believe this program will help me gain the skills needed to excel in the field of data analysis.,0
+450,"White, Non-Hispanic",Female,Americas,Math + Statistics,3.07,0,2.43,1.2795999875,0,"I am eager to learn more about data analysis, and this program seems like a good opportunity.",0
+451,Asian,Female,APAC,Math + Statistics,-1.91,0,3.97,0.8408484339,0,Your program’s collaborative environment will foster my ability to work in diverse teams and enhance my analytical skills. Learning from peers and faculty will provide a well-rounded educational experience.,1
+452,Asian,Male,APAC,Other,9.18,0.0508978103,3.18,-0.715035093,0,This program seems to offer the practical experience I need to improve in analytics.,0
+453,Other,Female,Americas,Other,0.00,0,3.41,1.0541165244,0,Your program looks like it can provide the training I need to excel in analytics.,0
+454,"White, Non-Hispanic",Male,EMEA,Other,-0.49,3.3471644407,4.01,-1.633163455,1,Parents want me to get a job or go to grad school. Let me in your program so I don't have to work.,0
+455,"White, Non-Hispanic",Female,Americas,Analytics,4.53,0,3.01,0.2769090579,0,"Your program’s focus on ethical data usage aligns with my values, and I am committed to using data analytics responsibly to create positive societal impact.",0
+456,Other,Female,Americas,Economics,2.90,0,2.70,0.0691227027,0,I seek to leverage your program’s industry connections to gain practical insights into data analytics. The program’s emphasis on real-world applications and industry partnerships will enhance my professional growth.,0
+457,Asian,Female,APAC,Other,2.57,0.2083601734,3.65,0.7199252992,0,I wanna join cuz your program looks good and I like analytics.,0
+458,Hispanic,Male,Americas,Math + Statistics,0.17,0,1.14,-1.030315733,0,,0
+459,"White, Non-Hispanic",Female,Americas,Other,0.85,0.8642788363,1.53,0.8432208562,0,,0
+460,Other,Male,Americas,Economics,-0.33,0,2.19,0.2841395233,0,I believe this program can help me better understand the field of analytics.,0
+461,"White, Non-Hispanic",Female,EMEA,Analytics,2.00,4.0461570708,2.37,0.2137420162,0,I am eager to develop my skills in analytics through your program.,0
+462,Hispanic,Female,EMEA,Economics,-0.20,0,3.50,0.7202244852,1,I believe this program can help me improve my skills in data analysis.,0
+463,"Black, Non-Hispanic",Female,EMEA,Math + Statistics,-1.31,3.9475413865,3.40,-0.585346839,0,"I need to improve my skills, so your program might work.",0
+464,Asian,Male,APAC,Math + Statistics,0.28,0,3.54,-0.328960615,0,"I like numbers, and your program seems okay.",0
+465,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-7.14,2.5876862646,2.58,2.0164268128,0,"As a problem solver who thrives on complexity, I am excited to join the Master of Analytics program. My academic background in mathematics and statistics, coupled with my analytical expertise, makes me a strong candidate. I am dedicated to leveraging data to uncover insights and inform strategic decisions.",1
+466,Hispanic,Male,Americas,Other,0.00,0,3.10,-0.553820252,0,"Your program is good for me, I love analytics and data, so I wanna join.",0
+467,Hispanic,Male,APAC,Math + Statistics,12.93,0,2.41,-1.010477726,0,"Your program’s focus on interdisciplinary learning will allow me to integrate data analytics with my background in business, enabling me to develop holistic solutions.",0
+468,Asian,Male,APAC,Economics,-1.54,3.2340613518,4.09,-0.836006281,0,I think this program offers the right courses for my career goals in data analysis.,0
+469,Asian,Female,APAC,Economics,2.43,2.5243818113,4.31,0.0265379386,0,"I am drawn to your program’s integration of machine learning and data analytics. Staying ahead of the technology curve is essential for developing innovative solutions, and your program offers the expertise and resources to achieve this.",1
+470,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.09,1.3406293752,3.28,-1.678612255,0,I want to join becuz I think analytics is fun and your program looks nice.,0
+471,"White, Non-Hispanic",Female,Americas,Other,1.39,0,4.22,1.3208398369,0,I have been working in data and want to formalize my skills through your program.,0
+472,Asian,Male,APAC,Math + Statistics,0.45,0.5474105075,2.45,0.5942386073,0,"Your program’s focus on ethical data usage aligns with my values, and I am committed to using data analytics responsibly to create positive societal impact.",0
+473,"White, Non-Hispanic",Female,APAC,Economics,-0.44,0,3.44,0.0773958718,1,Your program looks like it can help me advance my career in analytics.,0
+474,Other,Male,Americas,Math + Statistics,-0.89,0,5.00,1.3998020862,0,Your program looks like it can provide the training I need in analytics.,0
+475,Other,Female,Americas,Analytics,0.38,0,4.25,0.48766463,0,I am eager to join your program to gain expertise in big data technologies. The program’s focus on advanced analytics and practical applications will prepare me for the dynamic demands of the field.,0
+476,Hispanic,Female,Americas,Other,-1.59,0.4426440397,2.12,-0.333742266,0,,0
+477,"White, Non-Hispanic",Male,EMEA,Economics,12.59,1.4402317922,3.37,-2.471341241,1,I am eager to enhance my skills in data analysis through your program.,1
+478,"White, Non-Hispanic",Male,Americas,Economics,-3.76,0,3.08,0.6101183719,1,"With a background in economics, I am eager to join your program to develop my skills in data analytics and contribute to solving real-world business problems.",1
+479,Asian,Female,APAC,Other,2.48,1.217773829,3.71,0.7098065245,0,I want to join your program to gain more knowledge in analytics and grow my career.,0
+480,Asian,Male,APAC,Other,0.00,0,3.45,0.0950354543,0,I'm pretty awesome. So you should let me in.,0
+481,Other,Female,Americas,Information Sciences,-0.30,2.0893004298,3.71,-1.551833105,0,"With a background in computer science, I am eager to join your program to develop my skills in data analysis and machine learning, and to contribute to innovative projects.",0
+482,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.00,0,5.00,-0.852930317,0,"I am interested in learning more about analytics, and this program seems like a good fit.",0
+483,Asian,Male,APAC,Analytics,0.00,0,3.12,0.4970828743,0,Your program offers the courses I need to enhance my knowledge in analytics.,0
+484,Asian,Male,APAC,Analytics,17.99,3.6127016236,4.12,-0.479895567,1,"I have a background in analytics, and your program will enhance my skills.",0
+485,Asian,Male,APAC,Economics,-0.35,1.1076259724,2.84,-0.10437238,0,"I want to deepen my understanding of analytics, and your program looks ideal.",0
+486,Asian,Female,APAC,Math + Statistics,0.92,2.9132225655,3.18,0.2953192482,0,I have worked with data analysis and am enthusiastic about learning more.,0
+487,Asian,Female,APAC,Economics,-1.17,6.4615413003,5.00,-1.05665906,0,I am interested in learning more about data analysis through your program.,0
+488,"White, Non-Hispanic",Male,EMEA,Math + Statistics,7.00,0,4.17,0.2782513489,1,"Your program’s global perspective on data analytics will prepare me to work in diverse, international environments. This will enhance my ability to apply analytical skills across different cultural and regulatory contexts.",1
+489,Asian,Male,APAC,Economics,0.42,0.4458413787,4.27,1.2428725745,0,I love numbers and stuff so your program looks cool. I think I can do good in it.,0
+490,"White, Non-Hispanic",Male,EMEA,Economics,1.26,0.0971360778,5.00,-0.977785564,0,I am looking for a program that offers comprehensive training in analytics.,0
+491,Asian,Female,APAC,Other,-3.20,0.5007953196,5.00,-0.662688953,0,,0
+492,Asian,Male,APAC,Economics,-1.48,1.319563716,4.36,0.4665605024,0,"The Master of Analytics program aligns perfectly with my career goals of becoming a data-driven decision-maker. My experience in various analytical roles has equipped me with a solid foundation in data analysis. I am eager to further develop my skills, collaborate with peers, and contribute to groundbreaking projects that make a difference.",0
+493,Asian,Male,APAC,Analytics,4.79,0,3.23,0.301251373,0,This program seems like a good opportunity for me to advance my career in data analysis.,0
+494,Hispanic,Female,Americas,Math + Statistics,1.83,0,2.43,0.5417612548,0,"I aim to develop expertise in data warehousing through your program’s specialized coursework. This will enhance my ability to manage and analyze large datasets, driving business intelligence and strategic decisions.",0
+495,Asian,Male,Americas,Other,0.88,0,2.01,-0.037364397,0,,0
+496,Asian,Male,Americas,Analytics,-2.43,0,2.55,-0.162713534,0,"I love analytics and data. Your program is good, so I wanna join.",0
+497,Asian,Male,APAC,Economics,1.69,1.7636297005,2.42,-0.02539773,0,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,0
+498,"Black, Non-Hispanic",Male,Americas,Math + Statistics,0.07,0.5354047759,2.95,-0.208194449,0,This program looks like it can help me gain a deeper understanding of data analysis and its applications.,0
+499,Hispanic,Male,Americas,Economics,0.00,0,3.08,0.0025843563,1,I seek to leverage your program’s comprehensive training to enhance my problem-solving abilities and tackle complex analytical challenges effectively.,1
+500,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-0.24,3.1690745387,3.75,1.5504938862,0,Your program’s interdisciplinary approach will allow me to apply data analytics to various fields. This holistic perspective will prepare me to tackle diverse analytical challenges in my future career.,1
+501,Asian,Female,APAC,Math + Statistics,-1.63,0,2.45,0.0673626275,0,"With a solid foundation in mathematics and experience in data analysis, I am excited to further my expertise through the Master of Analytics program. I am particularly drawn to the program's emphasis on hands-on learning and its potential to prepare me for a successful career in analytics.",0
+502,Other,Male,Americas,Math + Statistics,1.35,0,3.35,-0.514392881,0,"Your program looks okay, I guess it can help me learn analytics.",0
+503,Asian,Female,APAC,Analytics,6.24,0.9547585298,2.33,1.0132360386,0,I think this program can help me advance my career in analytics.,0
+504,Other,Male,EMEA,Math + Statistics,2.64,0.7767719112,2.01,1.2658385781,0,,0
+505,"White, Non-Hispanic",Male,Americas,Math + Statistics,4.29,2.5972015493,2.68,-0.761494887,1,I believe this program can help me achieve my goals in analytics.,1
+506,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.00,0,3.72,1.0342871797,0,"I am looking to advance my career in data analysis, and this program offers the right opportunities.",0
+507,"White, Non-Hispanic",Male,EMEA,Analytics,-0.29,1.9170145355,3.49,0.462391235,0,I am excited to join your program to gain a deeper understanding of advanced analytical techniques and apply them to real-world challenges in the tech industry.,1
+508,"White, Non-Hispanic",Female,Americas,Other,3.08,1.169645076,1.87,-1.581276096,0,,0
+509,Asian,Female,APAC,Economics,-3.76,6.2160651164,3.80,-0.366987278,1,The Master of Analytics program offers the perfect blend of theoretical knowledge and practical experience. My background in economics and passion for data-driven decision-making make me an ideal candidate for this program. I am eager to contribute to and learn from this esteemed community.,0
+510,"White, Non-Hispanic",Male,Americas,Information Sciences,-1.59,2.5293721152,3.77,-0.258101451,1,I aim to develop my skills in machine learning through your program to leverage advanced techniques in data analytics and drive innovation.,1
+511,Asian,Female,APAC,Other,5.66,0.0552365777,1.28,-0.520610448,0,I think your program is good and I want to join. I like data and analytics.,0
+512,Asian,Female,APAC,Economics,-4.71,0,3.04,0.217437909,0,I am excited about the chance to enhance my data analysis skills through your program.,0
+513,"White, Non-Hispanic",Female,Americas,Other,0.00,0,3.25,0.1967118182,1,"I love data and analytics, so your program is good for me and I wanna join.",0
+514,Asian,Male,APAC,Analytics,2.32,0,3.02,0.502166686,0,I believe your program offers the right mix of courses to help me succeed in analytics.,0
+515,Asian,Male,APAC,Information Sciences,-1.28,1.3066405206,3.82,0.4971415296,0,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,0
+516,"White, Non-Hispanic",Male,EMEA,Economics,1.97,0.15711077,3.57,-0.451727438,0,"I want to develop my skills in analytics, and your program seems like a good fit.",0
+517,"White, Non-Hispanic",Female,Americas,Analytics,7.06,0.4499759641,2.70,-0.39184603,0,Analytics is fun and your program is good so I want to join.,0
+518,Asian,Female,Americas,Other,-1.54,1.9695015735,2.73,0.1292642333,0,,0
+519,Other,Male,EMEA,Other,3.87,2.909066273,2.22,-0.997311308,0,I want to join your program to gain more insights into the field of analytics.,0
+520,"Black, Non-Hispanic",Female,Americas,Other,2.45,1.9867940568,4.25,0.8847486473,0,,0
+521,"Black, Non-Hispanic",Female,Americas,Analytics,-0.17,3.6294497398,3.95,2.0685608353,0,Your program’s commitment to innovation will inspire me to push the boundaries of data analytics. I am eager to explore new methodologies and technologies that can revolutionize the field.,1
+522,Asian,Male,APAC,Economics,0.34,0.2714953474,4.35,0.3025439902,0,Your program’s emphasis on data ethics will help me become a responsible and impactful data analyst. Understanding the ethical implications of data usage is crucial for sustainable business practices.,0
+523,Asian,Male,APAC,Math + Statistics,0.41,1.200768389,1.68,0.2967207736,0,I am motivated to join your program to develop my skills in data management and analysis. The program’s comprehensive coursework and practical experience will enhance my ability to tackle complex analytical challenges.,0
+524,"Black, Non-Hispanic",Male,Americas,Other,-3.41,0.4074849009,3.44,-1.453996594,0,,0
+525,"White, Non-Hispanic",Male,Americas,Information Sciences,-0.19,3.0824387527,4.28,1.7547850446,0,"With a background in computer science, I am eager to join your program to develop my skills in data analysis and machine learning, and to contribute to innovative projects.",1
+526,Asian,Male,APAC,Other,0.32,0.9672766013,1.49,0.2306906435,0,,0
+527,"Black, Non-Hispanic",Male,EMEA,Math + Statistics,0.57,0.9917094783,3.86,-0.438960917,0,Your program will help me get better at data. I want to learn more.,0
+528,"White, Non-Hispanic",Male,Americas,Other,8.81,1.472214891,2.45,3.126301339,0,Your program looks like it can help me achieve my career goals in data analysis.,0
+529,Other,Male,Americas,Analytics,-0.78,0,4.74,-0.231665774,0,Your program is good becuz I want to learn analytics and find a job.,0
+530,Asian,Male,Americas,Math + Statistics,-0.46,0,5.00,0.3198637181,0,"As someone with a strong background in math and statistics, I am excited to join the Master of Analytics program. My experience in various analytical roles has equipped me with the skills needed to excel in this program. I am passionate about using data to uncover insights and drive strategic decisions, and I look forward to contributing to innovative projects.",1
+531,Asian,Male,APAC,Math + Statistics,1.07,0.2317346575,2.29,0.6082949186,0,"I want to deepen my understanding of data analysis, and your program looks ideal.",0
+532,Asian,Male,APAC,Other,2.54,2.3882136182,1.61,-0.717299991,0,,0
+533,"Black, Non-Hispanic",Male,EMEA,Economics,4.28,5.5922667239,2.93,-1.611125479,0,Your program appears to have the courses I need to improve my data analysis skills.,0
+534,Hispanic,Female,EMEA,Analytics,3.49,1.0087452713,3.79,-0.20549851,0,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,0
+535,Asian,Female,APAC,Analytics,0.30,3.4852818982,2.53,0.0893810383,0,"I love numbers and stuff, so I wanna join. This program looks awesome and I think I can do well.",0
+536,Hispanic,Female,Americas,Other,1.11,0,3.30,0.07851657,0,,0
+537,"Black, Non-Hispanic",Male,APAC,Information Sciences,0.00,0,2.88,1.5507316409,0,I am passionate about using data to make informed decisions. The Master of Analytics program's comprehensive curriculum and focus on practical applications will prepare me for a successful career in data analytics.,0
+538,Other,Female,APAC,Math + Statistics,6.40,0,4.93,-0.638158877,0,Your program is good and I want to join. I love analytics and data.,0
+539,Asian,Male,APAC,Other,10.23,2.7348470474,3.45,-1.188725977,0,,0
+540,Asian,Male,APAC,Economics,-4.25,0.4212503457,3.59,1.2133729241,0,I am eager to join a community of innovators and thought leaders in your program. Collaborating with peers and learning from renowned faculty will enhance my analytical skills and broaden my professional network.,1
+541,"Black, Non-Hispanic",Female,Americas,Other,-0.41,1.823735737,4.35,0.2148701092,0,,0
+542,Asian,Female,APAC,Other,0.75,0,3.38,0.5368619637,0,I am excited about the prospect of learning more about data analysis through your program.,0
+543,Asian,Female,APAC,Other,0.00,0,1.53,-0.155083884,0,"I love data. I want to earn lots of cash. Let me join your program, please!",0
+544,"White, Non-Hispanic",Male,Americas,Other,-1.70,0,2.98,-2.690495485,1,I want to join your program because it's good. I have done some data work.,0
+545,Other,Female,Americas,Other,1.88,0,3.89,-0.075937552,0,Your program looks like it can help me develop a deeper understanding of data analysis.,0
+546,Asian,Male,EMEA,Economics,-2.29,1.3538202666,4.01,-0.631424545,0,,0
+547,Hispanic,Female,EMEA,Math + Statistics,3.33,1.3129222696,2.82,-2.258713802,0,Your program is one option for me to get better at data.,0
+548,"White, Non-Hispanic",Male,EMEA,Economics,-3.17,2.0305226297,4.21,0.5923518225,1,"With a background in economics, I am eager to join your program to develop my skills in data analytics and contribute to solving real-world business problems.",1
+549,Asian,Female,APAC,Economics,-0.72,4.5647322339,2.63,-1.163501685,0,"I am eager to learn more about data analysis, and this program offers the courses I need to achieve my goals.",0
+550,"White, Non-Hispanic",Male,Americas,Math + Statistics,10.93,0.2891758668,2.48,1.1603717082,0,This program seems like a good opportunity for me to advance my career in data analysis.,0
+551,Asian,Male,APAC,Math + Statistics,3.02,0,1.67,-0.006344726,0,Your program is perfect for learning more about analytics. It's perfect for me.,0
+552,"White, Non-Hispanic",Male,EMEA,Economics,3.25,0,3.44,1.1521007482,0,I am interested in learning more about analytics through your program.,0
+553,Asian,Male,APAC,Information Sciences,4.07,3.3552529683,4.22,0.3964749007,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",0
+554,Asian,Male,APAC,Economics,-1.74,2.1104714322,5.00,0.6443545265,0,I have a background in data science and want to expand my knowledge with your program.,0
+555,"Black, Non-Hispanic",Female,Americas,Other,-1.71,0.2014888699,2.51,-1.088974045,1,,0
+556,Asian,Female,APAC,Math + Statistics,0.37,0,3.60,1.0083546464,0,"I am eager to join the Master of Analytics program as someone who enjoys tackling complex problems. My solid foundation in math and statistics, along with significant analytical experience, makes me a great fit. I am passionate about using data to uncover insights and drive strategic decision-making.",1
+557,"Black, Non-Hispanic",Female,Americas,Math + Statistics,3.86,0,3.19,1.3345456612,0,I seek to develop my analytical thinking through the rigorous coursework offered by your program. The program’s focus on critical thinking and problem-solving will enhance my ability to address complex challenges.,1
+558,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-1.38,0.1003693379,2.96,0.9235328262,0,I seek to enhance my problem-solving skills through the rigorous training offered by your program. The program’s focus on critical thinking and practical applications will prepare me to address complex analytical challenges.,1
+559,Other,Female,EMEA,Analytics,0.00,0,4.56,2.2043552765,0,I seek to enhance my data storytelling skills through the comprehensive training offered by your program. Communicating complex data insights effectively is essential for driving business success.,0
+560,Asian,Male,APAC,Math + Statistics,-1.55,0,5.00,-1.218232059,1,Mom and dad said grad school or job. Please let me into your program so I avoid a job.,0
+561,"White, Non-Hispanic",Female,Americas,Economics,-0.74,3.4415111149,3.32,1.0293115734,0,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,1
+562,Asian,Male,APAC,Other,0.00,0,0.78,-0.050948516,0,,0
+563,Asian,Male,APAC,Math + Statistics,0.69,2.9583713006,2.06,0.2435252689,0,I believe this program can help me better understand the field of analytics.,0
+564,Asian,Male,APAC,Analytics,-0.12,0,3.20,-1.404178658,0,,0
+565,Other,Male,Americas,Information Sciences,8.78,2.5307185493,1.86,0.3490993438,0,"With a strong foundation in statistics and a keen interest in predictive modeling, I am excited to join your program to gain advanced skills in analytics and contribute to impactful projects.",1
+566,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.00,0,1.77,-0.103488029,0,Your program looks cool and I want to join. I like analytics and want to learn.,0
+567,"Black, Non-Hispanic",Female,Americas,Math + Statistics,0.36,3.362011412,2.73,0.5409952092,0,This program seems to offer the right courses to help me achieve my goals in data analysis.,0
+568,"Black, Non-Hispanic",Male,Americas,Math + Statistics,10.62,0,3.26,0.9824251054,0,"As an individual who thrives on addressing complex challenges, I am excited to become part of the Master of Analytics program. My academic credentials in math and statistics, combined with practical analytical experience, make me an excellent fit. I am enthusiastic about using data to derive insights and drive strategic decision-making.",1
+569,Hispanic,Male,APAC,Analytics,-5.76,1.7826684543,4.79,-0.841385715,0,"I am looking for a program that offers a solid foundation in analytics, and yours seems to fit.",0
+570,Asian,Male,APAC,Economics,0.00,0,3.72,0.4422371145,0,I have a foundation in statistics and want to expand into data analysis with your program.,0
+571,"White, Non-Hispanic",Female,Americas,Math + Statistics,-0.49,0,3.03,0.5388803784,0,I am eager to learn more about analytics through your program.,0
+572,Asian,Female,APAC,Information Sciences,0.00,0,3.33,0.0267383111,0,"With a background in computer science, I am eager to join your program to develop my skills in data analysis and machine learning, and to contribute to innovative projects.",0
+573,Asian,Female,APAC,Math + Statistics,0.23,2.8599734016,2.77,-0.485784566,0,"With a background in mathematics, I am eager to join your program to enhance my analytical skills and contribute to innovative solutions in various industries.",0
+574,"White, Non-Hispanic",Male,Americas,Other,0.32,1.9999852924,3.57,-0.961472812,0,"Cuz I love analytics and data, I wanna join. Your program is good.",0
+575,"White, Non-Hispanic",Female,EMEA,Math + Statistics,14.03,0,4.24,-0.847036892,0,,0
+576,Asian,Male,APAC,Math + Statistics,3.09,0.37848734,4.43,0.9803606814,1,I am eager to join your program to gain expertise in big data technologies. The program’s focus on advanced analytics and practical applications will prepare me for the dynamic demands of the field.,1
+577,Asian,Female,APAC,Other,-1.69,0,2.87,-1.015245477,0,Numbers are great and I wanna join. Program looks cool and I can do good.,0
+578,"Black, Non-Hispanic",Male,Americas,Information Sciences,0.00,0,3.45,1.7945165812,0,I aim to develop expertise in data warehousing through your program’s specialized coursework. The program’s comprehensive training and practical experience will prepare me to manage and analyze large datasets effectively.,1
+579,Asian,Male,APAC,Math + Statistics,1.40,5.5713691663,2.84,0.5201352876,1,This program seems to offer the practical experience I need to advance in analytics.,0
+580,"White, Non-Hispanic",Female,Americas,Other,0.88,2.3193937528,3.24,0.6029626513,0,"Analytics is something I like, and your program is available.",0
+581,Asian,Male,APAC,Math + Statistics,2.14,0.7158435174,4.45,-0.015614218,0,I wanna join your good program cuz I love analytics and data.,0
+582,Asian,Male,APAC,Other,0.00,0,0.51,0.3385109442,0,,0
+583,Asian,Male,Americas,Other,1.82,7.9951682184,1.83,-0.272723573,0,,0
+584,Asian,Female,APAC,Analytics,-2.89,0,3.97,-0.449563447,0,I have been working with data and want to formalize my knowledge through your program.,0
+585,Asian,Male,APAC,Other,0.37,0,3.17,0.4887468484,1,Joining your program would be good because I want to learn more.,0
+586,"White, Non-Hispanic",Male,EMEA,Economics,5.79,0,4.70,-0.629029283,0,I believe your program offers the right mix of courses to help me succeed in data analysis.,0
+587,Asian,Female,Americas,Math + Statistics,-0.26,0,3.52,-1.003217599,0,,0
+588,"White, Non-Hispanic",Male,Americas,Other,-6.03,0.1928314922,1.65,0.1194990146,0,"I'm pretty great, so you should let me in.",0
+589,"White, Non-Hispanic",Male,Americas,Math + Statistics,4.74,0,4.39,-0.436521396,1,I have some background in data analysis and I want to expand my skills with this program. It seems like a good fit for my career goals.,1
+590,"White, Non-Hispanic",Male,Americas,Other,-3.87,0,4.81,-1.003915197,0,I think your program is nice and I want in. I have a bit of data experience.,0
+591,Asian,Female,APAC,Information Sciences,21.99,1.317704555,3.64,0.3212705256,0,I have some background in data analysis and want to build on it through your program.,0
+592,"White, Non-Hispanic",Male,EMEA,Other,0.53,0.8634693821,3.21,-0.933656956,0,"I want to deepen my understanding of analytics, and this program looks like it can provide the necessary training.",0
+593,"White, Non-Hispanic",Male,EMEA,Other,-12.04,0,3.03,0.2061532162,0,I have been working in data analysis and want to deepen my skills through your program.,0
+594,"Black, Non-Hispanic",Male,Americas,Other,-4.00,1.9329886497,4.49,-1.332990435,0,,0
+595,Asian,Female,APAC,Economics,-2.20,3.8040108885,4.68,1.2326475055,1,"With a background in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",1
+596,"White, Non-Hispanic",Female,Americas,Other,0.23,0,4.02,0.4398724795,0,I am excited about the prospect of developing my skills in analytics through your program.,0
+597,Other,Female,EMEA,Economics,-1.27,0,3.02,-1.253718393,0,,0
+598,Other,Male,EMEA,Other,1.63,0,1.53,0.2734029078,0,My parents say grad school or job. Please let me into your program so I don't have to get a job.,0
+599,"White, Non-Hispanic",Male,APAC,Analytics,-1.33,0.2885091184,5.00,-0.017060159,0,Your program’s focus on ethical data usage aligns with my values and career aspirations. Understanding the ethical implications of data usage is crucial for responsible and impactful analysis.,1
+600,Asian,Female,APAC,Math + Statistics,0.02,0.8903115121,2.77,1.2334894433,0,"I want to learn analytics, so your program might be good for me.",0
+601,"White, Non-Hispanic",Female,EMEA,Economics,-1.37,0.4980894227,4.32,0.7183134078,0,Your program’s strong foundation in quantitative methods will help me excel in data analytics. The comprehensive coursework and practical experience will prepare me for the complexities of the field.,1
+602,Asian,Male,APAC,Other,0.00,0,4.31,1.0358209189,0,I want to join your program to gain more knowledge in the field of data analysis.,0
+603,"White, Non-Hispanic",Male,Americas,Math + Statistics,-2.48,0,2.97,0.3149689081,0,I seek to leverage your program’s comprehensive training to enhance my problem-solving abilities and tackle complex analytical challenges effectively.,1
+604,"White, Non-Hispanic",Male,EMEA,Information Sciences,-1.66,1.2629025888,3.14,-1.938137389,0,This program looks like it can help me achieve my goals in data analysis.,0
+605,Asian,Male,APAC,Information Sciences,7.06,0,4.29,0.5527379196,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",0
+606,Asian,Male,APAC,Analytics,-1.89,1.8315993964,3.93,-1.380870611,1,I am eager to enhance my skills in analytics through your program.,0
+607,Asian,Male,APAC,Other,2.77,0,3.89,-0.193663445,0,I am eager to enhance my skills in data analysis through your program.,0
+608,"White, Non-Hispanic",Male,Americas,Other,-6.77,1.7504801452,3.46,-0.490389311,0,I believe this program can help me gain a better understanding of analytics.,0
+609,Other,Female,Americas,Math + Statistics,2.18,1.1187112571,1.28,-0.90227453,1,,0
+610,"White, Non-Hispanic",Male,Americas,Economics,0.40,7.2415322235,3.41,-0.409056192,0,I think your program can help me with my interest in data.,0
+611,Hispanic,Female,EMEA,Information Sciences,-0.45,0.0919519342,2.96,0.7475298469,0,"Your program’s focus on interdisciplinary learning will allow me to integrate data analytics with my background in business, enabling me to develop holistic solutions.",0
+612,Asian,Male,APAC,Information Sciences,-1.17,6.1410331621,4.64,-0.593919984,0,"I am looking for a program that can help me better understand analytics, and yours seems ideal.",0
+613,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.00,0,3.07,-0.309473491,0,Your program looks like it can help me develop the skills I need in data analysis.,0
+614,Asian,Male,APAC,Other,-0.24,1.5902482445,2.81,-0.309734336,0,,0
+615,"Black, Non-Hispanic",Male,Americas,Information Sciences,-0.73,0,3.08,0.8234408971,0,"I aim to harness the power of analytics to drive business decisions and innovations. Your program offers the perfect platform to develop my skills and knowledge, with its comprehensive coursework and access to industry experts.",1
+616,Asian,Female,APAC,Math + Statistics,-0.61,0.9782106532,3.23,-0.751038422,0,I have been working in data and want to formalize my skills through your program.,0
+617,"Black, Non-Hispanic",Male,Americas,Analytics,0.00,0,2.98,0.27099215,0,"I want to deepen my understanding of data analytics, and your program looks ideal.",0
+618,Asian,Male,APAC,Math + Statistics,-1.98,1.159541631,2.83,0.4883322332,0,I believe this program can help me advance my career in data analysis.,0
+619,"Black, Non-Hispanic",Female,Americas,Math + Statistics,0.10,0.1849242086,3.53,-0.975400855,1,"I wanna learn more about analytics, so your program is perfect for me.",0
+620,Asian,Female,APAC,Math + Statistics,-2.05,0,1.51,0.9053930845,0,I think your program is good and I want to join. I have some data experience.,0
+621,Asian,Male,Americas,Economics,1.18,0.708860526,4.61,1.4521426091,0,The Master of Analytics program is an ideal fit for my background in economics and my passion for data-driven decision-making. I am excited to learn from industry experts and apply my skills to address complex analytical challenges.,0
+622,Hispanic,Female,Americas,Math + Statistics,9.27,1.9602554207,3.95,0.9450354446,0,Your program’s integration of theoretical and practical learning will prepare me for a successful career in data analytics. The comprehensive coursework and hands-on projects will enhance my analytical skills and practical expertise.,0
+623,Other,Female,Americas,Math + Statistics,-2.81,1.054124009,2.70,0.7169787602,0,"I seek to enhance my problem-solving abilities through your program’s comprehensive training, equipping me with the skills needed to excel in the field of data analytics.",0
+624,"White, Non-Hispanic",Female,Americas,Other,2.31,0.3510250704,2.92,-1.924496166,0,I have a strong interest in data analysis and believe this program is right for me.,0
+625,"Black, Non-Hispanic",Female,Americas,Other,12.49,0.5088818749,4.15,0.2837397764,0,I am excited to join your program to gain a deeper understanding of data visualization techniques and enhance my ability to communicate complex data insights effectively.,0
+626,"Black, Non-Hispanic",Male,Americas,Math + Statistics,-0.56,1.7007543418,4.05,-1.703815795,0,Your program’s emphasis on practical applications will prepare me to address complex analytical challenges and drive business growth in my future career.,0
+627,"White, Non-Hispanic",Male,Americas,Information Sciences,1.26,0,2.59,0.670763809,0,"My journey in data analytics began during my undergraduate studies in information sciences. Since then, I have developed a keen interest in leveraging data to drive business success. The Master of Analytics program will allow me to refine my skills, learn from industry leaders, and contribute to innovative projects that have a real impact.",1
+628,"White, Non-Hispanic",Male,Americas,Other,0.68,2.1395106302,2.83,0.697272402,0,I have some experience in data analysis and want to learn more.,0
+629,Asian,Female,APAC,Analytics,-2.98,0.1397066312,4.16,-0.700516977,0,Your program is good for me becuz I wanna learn analytics and get a job.,0
+630,"White, Non-Hispanic",Male,EMEA,Analytics,-2.63,0,4.93,-0.189595184,0,I have some experience in analytics and believe this program can help me grow.,0
+631,Asian,Female,APAC,Other,-1.71,3.3977413514,4.60,-0.141527377,0,,0
+632,Asian,Male,APAC,Math + Statistics,0.62,2.4988829154,2.06,-1.118671304,0,,0
+633,"White, Non-Hispanic",Female,Americas,Math + Statistics,-0.33,0.4686368398,4.14,0.7384404558,0,Your program’s focus on hands-on projects will provide me with the practical experience necessary to excel in the field of data analytics and make a significant impact.,1
+634,Other,Female,Americas,Math + Statistics,0.20,3.7676314256,1.50,-1.107055499,0,,0
+635,Asian,Female,APAC,Other,-0.28,0,4.19,0.5881672761,0,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,0
+636,Asian,Female,APAC,Math + Statistics,-4.90,0.2157568629,4.96,-0.439668405,0,I am excited to join your program to gain a deeper understanding of advanced analytical techniques and apply them to real-world challenges in the tech industry.,0
+637,Asian,Male,APAC,Math + Statistics,-0.89,0,5.00,0.0575015618,1,"With a degree in mathematics and a passion for data analysis, I am eager to join your program to develop my skills in analytics and contribute to solving complex problems in various industries.",1
+638,"White, Non-Hispanic",Female,Americas,Economics,4.53,1.606286382,3.47,0.368394236,1,Your program’s robust curriculum will help me develop a holistic understanding of data science. Integrating theoretical knowledge with practical skills is essential for a successful career in analytics.,1
+639,Asian,Female,APAC,Other,-0.28,1.9564397629,3.03,0.6449604313,1,I want to join your program cuz I think analytics is cool. I like data.,0
+640,"White, Non-Hispanic",Male,Americas,Economics,1.32,1.4277194699,2.74,1.4462159555,0,"With a background in economics and a keen interest in data analysis, I am excited to join your program to gain advanced skills in analytics and apply them to drive business growth.",1
+641,"White, Non-Hispanic",Female,EMEA,Other,0.50,0,4.55,2.0230540776,1,I seek to enhance my technical skills and knowledge through the advanced courses offered in your program. Continuous learning is essential for staying relevant in the fast-paced field of data analytics.,1
+642,Asian,Male,APAC,Economics,18.61,0,3.71,0.7503938986,0,"Your program’s interdisciplinary approach will allow me to integrate data analytics with my background in economics, enabling me to tackle complex problems effectively.",0
+643,"White, Non-Hispanic",Male,Americas,Math + Statistics,2.81,0,3.77,0.9122377596,0,Your program’s rigorous training in data visualization will enhance my ability to communicate complex data insights effectively. This skill is crucial for driving strategic decisions and gaining stakeholder buy-in in any organization.,1
+644,"Black, Non-Hispanic",Male,Americas,Math + Statistics,-0.51,0,3.27,0.7721164872,0,"With a background in mathematics and a passion for data, I am excited to join your program to refine my skills and contribute to innovative projects that solve complex problems.",0
+645,Asian,Male,APAC,Information Sciences,0.92,0,3.85,-0.152236104,0,Your program looks like it can provide the training I need to excel in analytics.,0
+646,Asian,Male,APAC,Economics,1.23,0,3.40,-0.043472124,0,"I think your program looks alright, so I want to join.",0
+647,Hispanic,Male,EMEA,Information Sciences,0.00,0,3.14,-1.981524004,0,,0
+648,"White, Non-Hispanic",Female,Americas,Other,9.78,2.5456343481,0.97,2.3123971109,0,I am eager to enhance my skills in analytics through your program.,0
+649,Asian,Male,APAC,Information Sciences,0.00,0,2.90,0.6945120701,0,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,0
+650,Hispanic,Female,EMEA,Math + Statistics,0.35,0.5248199972,3.61,-1.465896267,0,I want to join cuz I like analytics and data. Your program fits me.,0
+651,"Black, Non-Hispanic",Female,Americas,Math + Statistics,5.28,0,3.48,-0.392833835,0,,0
+652,"White, Non-Hispanic",Male,Americas,Math + Statistics,8.03,0.2673367283,4.19,-0.0210297,0,Your program looks like it can help me achieve my goals in data analysis.,0
+653,"White, Non-Hispanic",Male,Americas,Information Sciences,0.18,3.2433283019,3.15,0.2974271489,0,I aim to develop my skills in predictive modeling and machine learning through your program to drive data-driven decisions in various industries.,1
+654,Other,Male,APAC,Math + Statistics,0.51,1.7277289127,4.92,-0.835751987,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,0
+655,"White, Non-Hispanic",Female,APAC,Other,-0.08,0.4075915002,2.81,2.0065013101,0,Your program offers the courses I need to enhance my knowledge in data analytics.,0
+656,Asian,Female,APAC,Math + Statistics,0.48,0.2363685022,1.94,0.4583230201,0,You should let me in because I'm awesome.,0
+657,Hispanic,Female,Americas,Other,-1.58,0.3822505905,2.47,-0.5032573,1,,0
+658,"White, Non-Hispanic",Male,Americas,Economics,0.40,1.3797038961,3.22,0.5939989965,1,I am excited to learn more about data analysis through your program.,1
+659,Other,Male,APAC,Math + Statistics,-6.90,3.2390125871,3.55,1.2432932378,0,"With a strong foundation in statistics and a keen interest in predictive modeling, I am excited to join your program to gain advanced skills in analytics and contribute to impactful projects.",0
+660,Asian,Male,APAC,Economics,-3.31,2.8066046599,4.72,0.2555967509,0,"With a background in economics and a keen interest in data analysis, I am excited to join your program to gain advanced skills in analytics and apply them to drive business growth.",0
+661,Asian,Male,APAC,Math + Statistics,0.19,3.0635002843,3.47,1.1327894599,0,This program seems like a good opportunity for me to advance my career in data analysis.,0
+662,"White, Non-Hispanic",Male,Americas,Information Sciences,0.69,0,4.46,0.4456887936,0,"I am excited about the opportunity to learn more about analytics, and this program seems like a good fit.",1
+663,Asian,Male,APAC,Economics,4.11,0.0686465799,3.88,-0.570650279,0,,0
+664,"White, Non-Hispanic",Female,Americas,Information Sciences,-1.78,7.3039910439,5.00,0.270416462,0,I believe this program can help me gain the skills needed to advance in analytics.,0
+665,Asian,Female,APAC,Other,1.57,5.5870087385,4.49,-0.072318955,0,Numbers are fun and I wanna join your program. It looks cool and I think I'll do good.,0
+666,Asian,Female,APAC,Other,-0.46,0,3.96,0.2479492783,1,"Your program is good and analytics is fun, so I wanna join.",0
+667,Asian,Female,APAC,Math + Statistics,3.48,0,1.17,0.4572082827,1,Your program’s interdisciplinary approach will allow me to apply data analytics to various fields. This holistic perspective will prepare me to tackle diverse analytical challenges in my future career.,1
+668,Asian,Male,APAC,Math + Statistics,4.26,1.4150679738,4.58,-0.276012278,0,I want to join becuz I think analytics is interesting and your program is nice.,0
+669,Other,Male,Americas,Other,-0.01,0,2.38,0.3063172846,1,I bring some data analysis experience and seek to further my education in this field.,0
+670,"White, Non-Hispanic",Female,Americas,Information Sciences,6.87,3.7273989658,3.38,0.2579473991,0,The interdisciplinary nature of your program will allow me to integrate data analytics with my background in computer science and business management. This will enable me to develop holistic solutions to real-world challenges.,1
+671,Other,Male,APAC,Other,0.00,0,3.66,0.4379894638,0,,0
+672,Asian,Male,APAC,Other,1.17,0,2.61,-0.125396591,0,,0
+673,Asian,Male,APAC,Information Sciences,-0.24,0.1397699656,4.70,0.5324547071,0,I am passionate about using data to make informed decisions. The Master of Analytics program's comprehensive curriculum and focus on practical applications will prepare me for a successful career in data analytics.,0
+674,Hispanic,Female,Americas,Math + Statistics,2.68,1.0749059875,2.09,0.3908343241,0,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,0
+675,Asian,Female,APAC,Math + Statistics,10.88,3.1003389746,3.87,0.7796218298,0,"I need to get into a program, and yours looks alright.",0
+676,Asian,Female,APAC,Other,0.07,0,4.24,0.3002283376,0,"Your program is good cuz I like data and analytics is cool, so I wanna join.",0
+677,Asian,Male,APAC,Math + Statistics,-2.69,0.5833657685,4.10,1.4905664482,0,I wanna join your program cuz I love data and analytics. It's good for me.,0
+678,Asian,Female,APAC,Other,-3.61,0.2990933799,4.14,-0.171734237,0,,0
+679,"White, Non-Hispanic",Female,Americas,Analytics,5.29,0,3.48,0.5860528651,0,I believe this program can help me achieve my goals in data analysis.,0
+680,Asian,Female,APAC,Analytics,0.00,0,5.00,0.7243844583,0,I was told to go to grad school or get a job. Please let me join your program so I don't need a job.,0
+681,"White, Non-Hispanic",Male,EMEA,Other,-1.82,3.5596657869,4.81,0.3619120095,0,"I want to develop my skills in data analysis, and this program seems like a good fit.",0
+682,Asian,Male,APAC,Other,-0.11,0,2.70,0.6387142281,0,Your program is good and I wanna join. I love analytics and data.,0
+683,"White, Non-Hispanic",Male,Americas,Economics,-2.68,0,1.97,0.7255996963,0,"I am eager to enhance my data analytics skills through your program, combining my background in economics with advanced analytical techniques to drive impactful business decisions.",1
+684,Asian,Male,APAC,Other,0.00,0,3.61,0.2757194918,0,I wanna join becuz I love numbers. This program looks cool and I think I can do well.,0
+685,Hispanic,Male,EMEA,Math + Statistics,-0.12,0.368870713,4.84,-1.216474779,0,I wanna join because numbers are fun. This program seems cool and I think I can do good.,0
+686,Asian,Male,APAC,Math + Statistics,0.36,0.8957262421,3.13,-0.822148831,0,,0
+687,Other,Female,Americas,Other,-0.51,11.926981906,3.81,-1.808094925,0,,0
+688,"White, Non-Hispanic",Male,EMEA,Math + Statistics,1.02,2.1066648531,3.31,0.4733421403,0,"I am enthusiastic about joining the Master of Analytics program as someone who excels at solving complex problems. My academic background in mathematics and statistics, combined with my analytical experience, makes me a strong candidate. I am driven by a passion for using data to uncover insights and inform strategic decisions.",1
+689,"White, Non-Hispanic",Female,Americas,Other,-3.60,0,3.72,2.465274583,0,Your program seems like it can help me achieve my career goals in data analysis.,0
+690,"White, Non-Hispanic",Male,EMEA,Other,-0.58,1.6650020398,2.05,-0.274537924,0,"I like analytics, so I guess your program could be good for me.",0
+691,Asian,Female,APAC,Math + Statistics,2.56,0,4.86,-0.160479324,0,,0
+692,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-2.04,0,3.19,-1.844555523,0,This program offers the right mix of coursework and hands-on experience that I need to improve my analytics skills.,0
+693,"White, Non-Hispanic",Male,Americas,Analytics,3.68,0,2.51,0.5000811862,0,"I want to develop my skills in analytics, and your program seems like a good fit.",0
+694,Other,Male,APAC,Math + Statistics,7.41,1.0695609627,1.83,-0.168641006,0,Your program is perfect for me becuz I want to learn analytics and get a job.,0
+695,Asian,Male,APAC,Other,0.00,0,3.27,1.4103931217,0,I am excited to join your program to explore new methodologies in data analytics and apply them to solve complex business problems.,0
+696,Asian,Female,APAC,Economics,0.00,0,2.66,0.780038217,0,"Your program’s focus on data-driven decision-making aligns with my career aspirations, and I am eager to learn advanced analytical techniques to drive strategic decisions.",0
+697,"Black, Non-Hispanic",Female,Americas,Information Sciences,2.79,0.8733172158,4.54,0.771030643,1,"I aim to develop my expertise in data warehousing through your program’s specialized coursework, enabling me to manage and analyze large datasets effectively.",1
+698,Other,Female,Americas,Other,3.49,0.6184102385,2.71,0.8070327701,0,I believe your program can help me gain a better understanding of analytics.,0
+699,"White, Non-Hispanic",Male,EMEA,Information Sciences,10.03,0.4298025988,4.81,-0.524513067,0,I think this program offers the right courses for my career goals in data analysis.,0
+700,"White, Non-Hispanic",Female,EMEA,Math + Statistics,1.77,1.3237747566,2.89,-0.094750923,1,,0
+701,Asian,Female,APAC,Economics,9.55,0,3.98,-0.038161825,0,I believe this program can help me enhance my abilities in data analysis.,0
+702,Asian,Female,APAC,Math + Statistics,0.00,0,3.98,0.1152461005,1,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,1
+703,"White, Non-Hispanic",Female,Americas,Other,0.00,0,2.54,0.3550567186,0,"Data are awesome.  And I want to earn lots of money. Let me join your program, please!",0
+704,Asian,Male,APAC,Other,1.07,0,2.15,1.8680644669,1,I am excited about the chance to develop my analytics skills through your program.,0
+705,"White, Non-Hispanic",Female,Americas,Analytics,0.99,0.567549839,2.95,1.76497727,0,Your program’s interdisciplinary approach will allow me to integrate data analytics with my background in business. This holistic perspective will enhance my ability to develop effective analytical solutions.,1
+706,"White, Non-Hispanic",Female,Americas,Information Sciences,-3.58,1.3101862142,4.02,0.4386708327,0,I am eager to join your program to gain a deeper understanding of data analysis.,0
+707,Asian,Female,APAC,Other,0.47,0,3.17,-0.107965481,0,I think your program is perfect for me to learn more about analytics.,0
+708,"White, Non-Hispanic",Female,Americas,Economics,-2.95,0.1844960106,2.85,-0.625388119,0,"My background includes data analysis, and I am keen to expand my understanding.",0
+709,"Black, Non-Hispanic",Male,Americas,Other,-4.99,0,4.09,0.0590772252,0,I think analytics is fun so I wanna join your good program.,0
+710,Asian,Male,APAC,Other,0.00,0,3.69,1.1098454493,0,"Analytics is fun, and I want to join your good program.",0
+711,Asian,Female,APAC,Math + Statistics,0.70,0.511068515,2.29,0.7174820652,0,Your program seems to offer the right opportunities for me to grow in data analysis.,0
+712,Asian,Male,APAC,Other,1.33,0.6900366851,3.21,-0.134399335,0,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,0
+713,Asian,Female,Americas,Analytics,-3.27,3.3049308486,3.17,-1.372849954,0,,0
+714,Asian,Female,APAC,Analytics,6.53,1.546682887,3.07,-0.685367197,0,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,0
+715,Hispanic,Female,Americas,Math + Statistics,-0.10,1.3150339008,2.83,1.5316872824,0,Your program seems to offer the right curriculum for my career goals in analytics.,0
+716,Asian,Male,Americas,Other,-0.00,0,1.82,-0.128639629,0,,0
+717,"Black, Non-Hispanic",Male,Americas,Information Sciences,0.00,0,4.20,-0.236314224,0,I want to enhance my data analysis skills and believe this program will provide the right training.,0
+718,Asian,Male,APAC,Other,2.93,0,2.77,-0.075605472,0,"I like analytics and your program looks good, so I wanna join.",0
+719,Hispanic,Male,EMEA,Analytics,-0.13,4.3772544754,3.85,2.4281304828,0,I am eager to explore the latest advancements in data analytics through your program’s cutting-edge curriculum. Staying ahead of industry trends and technologies is crucial for developing innovative solutions.,1
+720,Asian,Female,APAC,Math + Statistics,5.07,0,2.16,-0.442483188,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",0
+721,Asian,Male,APAC,Other,0.63,1.5678527741,3.44,-0.859167302,0,I wanna join your program cuz I like data and analytics is cool.,0
+722,Asian,Male,APAC,Math + Statistics,0.13,3.0605459709,3.66,0.1173009227,0,You should let me into your program because I'm awesome.,0
+723,Asian,Female,APAC,Math + Statistics,0.42,0.9884838815,2.79,-0.457688108,0,I think anklalytics is intedresting and I want to join your program.,0
+724,"White, Non-Hispanic",Female,Americas,Analytics,2.83,0,3.26,0.7244573669,0,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,1
+725,"White, Non-Hispanic",Male,Americas,Math + Statistics,1.83,0,4.04,-0.870212403,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",1
+726,Asian,Female,Americas,Math + Statistics,8.31,1.2448144997,4.11,-0.445620329,1,,0
+727,Asian,Female,APAC,Economics,0.92,0,3.08,1.0737498287,1,"With a degree in economics and a passion for data analysis, I am eager to join your program to gain advanced skills in analytics and contribute to solving complex business problems.",1
+728,Asian,Female,APAC,Math + Statistics,-0.72,0,4.68,0.1054387319,0,I am excited to join your program to gain a deeper understanding of advanced analytical techniques and apply them to real-world challenges in the tech industry.,0
+729,Asian,Male,Americas,Economics,0.38,0.9539261713,2.39,-0.381591841,0,,0
+730,"White, Non-Hispanic",Male,EMEA,Economics,-0.10,0.3822855812,3.06,1.2731275845,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,1
+731,Asian,Male,APAC,Math + Statistics,0.00,1.0883770926,3.71,-1.212701368,0,I believe this program can help me gain a better understanding of analytics.,0
+732,Asian,Male,APAC,Economics,3.90,4.7715695137,4.70,0.7737649269,0,Your program looks like it can help me transition into a career in analytics.,0
+733,Asian,Female,APAC,Information Sciences,2.44,0.4417709467,3.23,0.3166600027,0,I aim to leverage your program’s resources to stay updated with the latest trends in data analytics. Continuous learning and adaptation are essential for staying relevant in the fast-paced field of data science.,0
+734,Asian,Male,APAC,Math + Statistics,-1.54,3.9554121713,3.96,0.0137419646,0,I believe your program offers the right balance of coursework and hands-on experience.,0
+735,"White, Non-Hispanic",Male,EMEA,Math + Statistics,5.72,0,5.00,0.3851479684,0,Your program’s commitment to excellence aligns with my goal of becoming a proficient data analyst. The program’s rigorous training and industry connections will provide the foundation for a successful career.,1
+736,Hispanic,Female,Americas,Other,-0.68,0,3.41,-1.660689424,0,,0
+737,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.00,0,4.39,0.6360884493,0,"As someone who thrives on solving complex problems, I am excited to join the Master of Analytics program. My academic background in math and statistics, combined with my analytical experience, makes me a strong fit for this program. I am passionate about using data to uncover insights and drive strategic decisions.",1
+738,Asian,Male,APAC,Information Sciences,-0.18,0.5366123065,3.28,-0.158560042,1,I have some background in data analysis and want to expand my skills with this program.,0
+739,Asian,Male,APAC,Math + Statistics,-2.35,4.6085119941,3.56,-0.299896511,0,,0
+740,Asian,Male,EMEA,Other,4.87,0.7088386652,1.87,0.6472432741,0,Wanna join cuz I like numbers. Program looks cool and I can do good.,0
+741,"Black, Non-Hispanic",Male,Americas,Economics,0.00,0,3.87,2.2620478255,0,Your program looks like a good opportunity for me to enhance my knowledge in analytics.,0
+742,"Black, Non-Hispanic",Male,Americas,Other,-7.90,0.8885523854,2.84,-1.071348346,0,,0
+743,Asian,Female,APAC,Math + Statistics,-4.33,0.4251107637,3.84,-0.953159488,0,Your program looks like it can help me advance my career in analytics.,0
+744,Other,Male,APAC,Analytics,-0.65,0.2010142475,3.43,-1.161356586,0,Your program’s focus on practical experience will prepare me to tackle real-world challenges in data analytics and make a meaningful impact in my future career.,0
+745,"Black, Non-Hispanic",Male,APAC,Math + Statistics,1.89,0.7828987465,3.32,-0.788727607,0,I have a solid foundation in statistics and want to apply it in the field of analytics. This program seems perfect for that.,0
+746,Hispanic,Male,Americas,Economics,7.83,0.1824353894,3.60,1.569007128,0,Your program’s curriculum will help me stay at the forefront of data analytics trends and technologies. Continuous learning and adaptation are crucial in the ever-evolving field of data science.,1
+747,"White, Non-Hispanic",Female,Americas,Information Sciences,2.19,3.7878652605,4.81,0.9357174202,0,I am excited to join your program to deepen my understanding of advanced analytical techniques and apply them to real-world challenges in the healthcare industry.,1
+748,"White, Non-Hispanic",Male,EMEA,Math + Statistics,1.23,0,3.60,0.3062710547,0,Your program looks like it can provide the training I need to excel in data analysis.,0
+749,Other,Female,Americas,Math + Statistics,0.00,0,2.77,1.1070868684,0,"I am excited to apply to this program because it strikes the perfect balance between theoretical knowledge and practical application. My background in data science has taught me the importance of both rigorous academic training and hands-on experience. This program's curriculum appears to seamlessly integrate these two elements, providing a comprehensive education that will prepare me for real-world challenges. I am eager to deepen my understanding of advanced analytical techniques while also engaging in practical projects that will allow me to apply what I learn in meaningful ways.",1
+750,Asian,Female,APAC,Math + Statistics,0.55,0,3.22,-1.013997092,1,,0
+751,"White, Non-Hispanic",Male,EMEA,Economics,17.32,1.3359049183,3.28,-0.966139204,0,"Your program’s focus on interdisciplinary learning will allow me to integrate data analytics with my background in business, enabling me to develop holistic solutions.",1
+752,"White, Non-Hispanic",Male,Americas,Other,-0.99,1.0692050563,3.81,0.8145044389,1,"I am excited to join your program to gain expertise in data visualization, enhancing my ability to communicate complex data insights effectively.",1
+753,Asian,Female,APAC,Information Sciences,0.00,0,3.47,1.2383494205,0,Your program looks like it can help me advance my career in analytics.,0
+754,"White, Non-Hispanic",Male,EMEA,Math + Statistics,2.96,0,3.09,-0.882037035,0,"With a strong foundation in mathematics and statistics, I am eager to join your program to develop my analytical skills and contribute to solving complex problems in various industries.",1
+755,Asian,Male,APAC,Other,7.16,4.0561737146,2.99,-0.792552207,0,I want to be in your good program becuz analytics is fun.,0
+756,Asian,Male,APAC,Other,-0.01,0.169437791,3.91,-1.301715439,0,Your program is perfect for me. I want to learn analytics more.,0
+757,Asian,Male,APAC,Math + Statistics,0.00,0,3.14,0.2986055087,1,My goal is to use data to drive business growth. The Master of Analytics program's focus on practical experience and industry partnerships will help me achieve this.,1
+758,"White, Non-Hispanic",Female,Americas,Other,-1.84,0,4.18,1.2757155984,0,I want to learn more about analytics and believe this program offers the right curriculum to do so.,0
+759,Asian,Male,APAC,Economics,9.43,0,4.95,-1.32379291,0,,0
+760,"White, Non-Hispanic",Male,Americas,Information Sciences,2.02,0,5.00,0.4862121051,0,I have a foundation in data science and want to expand my knowledge with your program.,0
+761,"White, Non-Hispanic",Female,Americas,Economics,4.71,0,3.71,0.7589084308,0,"My passion for analytics began during my undergraduate studies in economics, where I developed a strong interest in data analysis. The Master of Analytics program offers the perfect opportunity to further develop my skills and apply them to real-world challenges. I am excited to learn from industry experts and contribute to projects that make a difference.",1
+762,Asian,Male,APAC,Other,-7.87,0.0053042605,2.23,0.6763948502,0,I have been working in data analysis and want to formalize my skills through this program.,0
+763,Asian,Female,APAC,Other,5.23,3.65757089,3.47,-0.385614968,0,I think this program offers the right mix of theory and practice for my career in data analysis.,0
+764,"White, Non-Hispanic",Female,Americas,Math + Statistics,2.58,0.5009771257,2.04,0.6275013157,1,I seek to develop my analytical thinking through the rigorous coursework offered by your program. The program’s focus on critical thinking and problem-solving will enhance my ability to address complex challenges.,1
+765,Asian,Male,EMEA,Other,-0.95,0.8262144381,3.46,1.3187024811,1,"Analytics is interesting, and your program seems decent.",0
+766,Asian,Male,APAC,Information Sciences,3.60,0.2187759534,3.29,0.5498975506,0,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,0
+767,Asian,Male,Americas,Analytics,-1.29,0,2.79,0.5199653604,0,"I seek to develop predictive models that drive business growth and efficiency. Your program offers the expertise, tools, and real-world applications needed to achieve this, preparing me for a successful career in analytics.",1
+768,Asian,Male,APAC,Math + Statistics,1.67,0.8663632765,3.95,-0.246874245,0,I think your program offers the right mix of theory and hands-on experience for me.,0
+769,Asian,Male,APAC,Other,1.22,0.8532259154,3.50,-0.568383461,0,,0
+770,Asian,Female,APAC,Information Sciences,0.71,0,2.84,0.6102942279,0,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,0
+771,Other,Male,Americas,Other,0.00,0,3.46,0.5733905937,0,I want to join becuz I think analytics is interesting and your program is good.,0
+772,Asian,Male,APAC,Math + Statistics,0.00,0,5.00,-0.215635184,0,I am excited about the prospect of learning more about data analysis through your program.,0
+773,Hispanic,Male,Americas,Other,-1.98,0,3.12,-0.781707343,1,I believe this program can help me improve my skills in data analysis.,0
+774,"Black, Non-Hispanic",Female,Americas,Math + Statistics,-0.54,0,3.38,-0.667254725,0,"The Master of Analytics program offers the perfect opportunity for me to combine my academic background in math and statistics with my professional experience in analytics. I am excited to deepen my knowledge, collaborate with peers, and contribute to projects that drive meaningful change. I am committed to using data to create value and make a positive impact.",0
+775,Asian,Male,Americas,Math + Statistics,0.00,0,3.33,-0.622452006,0,"With a strong background in math and statistics and extensive analytical experience, I am thrilled to join the Master of Analytics program. I am driven by a passion for solving intricate problems and using data to uncover valuable insights and guide strategic decisions.",1
+776,Other,Male,EMEA,Economics,1.17,2.39761084,2.75,0.3075249254,0,"I want to develop my skills in analytics, and your program seems like a good fit.",0
+777,"Black, Non-Hispanic",Female,EMEA,Math + Statistics,2.33,0.0301864759,4.31,-0.446735774,0,Your program seems like a good opportunity for me to learn more about data analysis.,0
+778,"White, Non-Hispanic",Female,EMEA,Math + Statistics,1.36,2.2601835492,4.32,1.6264391014,0,I believe your program offers the right mix of courses to help me succeed in data analysis.,0
+779,Asian,Male,APAC,Information Sciences,0.09,0.1275345584,1.65,-0.059673941,0,,0
+780,Asian,Male,APAC,Math + Statistics,-3.02,0,1.06,2.1212767509,0,"With a passion for data-driven decision-making, I am eager to join your program to gain advanced skills in analytics and drive strategic decisions in my future career.",0
+781,Asian,Male,APAC,Math + Statistics,0.40,0.2704289309,2.56,0.2753237651,0,I think your program offers the right opportunities for me to grow in data analysis.,0
+782,Asian,Male,APAC,Math + Statistics,-2.55,0,1.80,1.0397755669,0,Your program’s strong foundation in quantitative methods will help me excel in data analytics. The comprehensive coursework and practical experience will prepare me for the complexities of the field.,0
+783,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.43,0,3.67,1.2144846003,0,"With a passion for data analytics and a background in engineering, I am eager to join your program to develop my skills and contribute to innovative projects.",0
+784,Asian,Female,APAC,Other,0.00,0,4.11,-0.438132874,0,,0
+785,Asian,Female,APAC,Math + Statistics,8.07,0,3.79,0.6662599637,0,"As an aspiring data scientist, I am drawn to the Master of Analytics program for its comprehensive curriculum and emphasis on real-world applications. My academic background in math and statistics, coupled with my analytical mindset, positions me well to thrive in this program. I look forward to contributing my skills and learning from esteemed faculty.",1
+786,Hispanic,Male,Americas,Other,-2.50,0,4.40,-0.770134223,0,,0
+787,Other,Female,APAC,Other,0.00,0,3.65,0.4586599874,1,I want to join your program to gain more insights into data analysis.,0
+788,Asian,Male,APAC,Information Sciences,4.29,0,1.10,0.3840075786,0,,0
+789,"White, Non-Hispanic",Male,EMEA,Other,-1.82,0.0733950494,3.97,1.538782315,1,I am eager to join your program to gain a competitive edge in the rapidly evolving field of data analytics. The program’s focus on cutting-edge technologies and practical applications will prepare me for future challenges.,1
+790,Hispanic,Female,Americas,Math + Statistics,0.64,0.4572944589,2.95,1.2273625918,0,,0
+791,Asian,Male,APAC,Information Sciences,1.34,0,1.66,0.4619760465,1,Your program seems to have the right courses to help me get better at analytics.,0
+792,Asian,Female,APAC,Math + Statistics,0.00,0,2.36,0.0039002031,0,Your program’s emphasis on statistical analysis will prepare me for the complexities of data analytics. The comprehensive coursework and practical experience will enhance my analytical skills and problem-solving abilities.,0
+793,Asian,Female,APAC,Economics,-0.74,0.4507433615,3.65,-0.028636462,0,I need to go to grad school or get a job. Please let me into your program to skip getting a job.,0
+794,Other,Female,EMEA,Other,0.05,0.4456300337,2.81,1.1233516138,0,I think your program offers the right opportunities for me to grow in data analysis.,0
+795,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-3.17,0,4.02,0.1481285029,0,I seek to leverage your program’s resources to conduct impactful research in data analytics. The program’s emphasis on innovation and real-world applications aligns with my research interests and career goals.,1
+796,"Black, Non-Hispanic",Female,Americas,Information Sciences,-2.86,0.1114494327,3.39,1.6541946346,0,"I am passionate about leveraging data to drive business success, and the Master of Analytics program offers the perfect opportunity to enhance my skills. With a background in information sciences, I am eager to deepen my knowledge and contribute to innovative solutions.",0
+797,Asian,Female,APAC,Other,-0.11,0,4.27,0.2213719286,0,I believe this program can help me better understand the field of data analysis.,0
+798,Asian,Male,APAC,Information Sciences,4.01,0.5776074443,3.38,0.7923462639,0,Parents told me to apply to grad school or find a job. Let me join your program to not get a job.,0
+799,"White, Non-Hispanic",Male,EMEA,Economics,0.37,5.1868366206,4.09,1.7304662743,0,I am motivated to join your program to develop my skills in data management and analysis. The program’s comprehensive coursework and practical experience will enhance my ability to tackle complex analytical challenges.,1
+800,Asian,Male,APAC,Economics,0.23,0,2.93,1.3400827837,0,Your program looks interesting. I wanna join and learn more about data.,0
+801,Asian,Male,APAC,Information Sciences,0.23,0,3.94,0.8995991433,0,I think this program offers the right blend of theory and practice for my career in analytics.,0
+802,Asian,Female,APAC,Economics,2.95,1.8982941833,2.36,-2.237746616,0,,0
+803,"White, Non-Hispanic",Male,Americas,Math + Statistics,5.64,0,1.12,-0.794802155,0,"I want to learn more about analytics, your program is perfect for me.",0
+804,"White, Non-Hispanic",Female,Americas,Information Sciences,2.23,0.3007006777,4.52,1.3107502669,0,"With a background in computer science, I am eager to join your program to develop my data analysis skills and contribute to advancements in technology.",0
+805,"White, Non-Hispanic",Male,Americas,Other,11.36,0,4.40,-0.34142585,1,I am eager to enhance my skills in analytics through your program.,1
+806,Asian,Male,Americas,Economics,0.41,3.8152215764,1.36,0.1870484961,0,I am motivated to join your program to gain a deeper understanding of data mining techniques. This will enable me to extract valuable insights from complex datasets and contribute to strategic decision-making processes.,1
+807,"White, Non-Hispanic",Male,Americas,Math + Statistics,-1.26,0.0458457374,2.46,-2.394643369,0,Your program seems good for me. I want to learn more about analytics.,0
+808,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.00,0,4.29,1.0550404742,0,I am excited to join your program to gain a deeper understanding of advanced analytical techniques and apply them to real-world challenges in the tech industry.,1
+809,Asian,Male,APAC,Math + Statistics,-1.18,0,2.74,-0.213592299,0,"I'm awesome, so you should let me join.",0
+810,Other,Female,APAC,Math + Statistics,-1.54,0,4.11,2.015891389,0,"With a degree in mathematics and a passion for data analysis, I am eager to join your program to develop my skills in analytics and contribute to solving complex problems in various industries.",0
+811,Hispanic,Female,Americas,Economics,-0.99,3.6701885014,2.30,-0.364069446,0,I want to join your program to gain a better understanding of analytics.,0
+812,Asian,Female,APAC,Analytics,0.00,0,3.32,0.9960632702,0,Your program looks like it can provide the training I need to excel in analytics.,0
+813,Other,Male,Americas,Other,0.27,0,4.41,-0.221603644,0,"I want to develop my skills in data analysis, and this program seems like a good fit.",0
+814,Hispanic,Male,Americas,Other,2.08,3.1229636012,4.12,1.1904068526,0,i realy want to join cuz I love data and analytics. This program is good for me.,0
+815,Asian,Male,APAC,Math + Statistics,0.00,0,3.52,0.1992407268,0,I believe your program offers the right mix of courses to help me succeed in analytics.,0
+816,"White, Non-Hispanic",Male,EMEA,Information Sciences,8.52,4.4840594894,4.01,1.4452294443,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",1
+817,Hispanic,Male,EMEA,Math + Statistics,0.04,0,3.71,0.42141914,0,"The balanced approach of theory and practical application in your program is exactly what I am seeking. Throughout my academic journey, I have come to appreciate the need for a solid theoretical foundation paired with hands-on experience. This program's curriculum seems designed to offer both in equal measure, ensuring that students are well-prepared to tackle complex problems in the real world. I am particularly impressed by the opportunities for practical projects and internships, which will allow me to apply theoretical concepts in a professional setting. This balance is crucial for my development as an analytics professional.",1
+818,"Black, Non-Hispanic",Female,Americas,Other,-0.24,0.3849846309,3.29,-2.962443483,0,This program appears to have the right balance of theory and practical applications that I am looking for.,0
+819,"White, Non-Hispanic",Male,Americas,Analytics,2.89,0,4.36,-1.616982926,0,"I need to learn more about data, and your program will make me better.",0
+820,Asian,Male,APAC,Economics,0.92,0,3.45,-0.329557122,1,This program offers a comprehensive curriculum that I believe will help me become proficient in analytics.,0
+821,"White, Non-Hispanic",Male,Americas,Other,0.00,1.5925753436,5.00,-0.374096552,0,"Data are cool. I wanna earn lots of money. Let me join your program, please!",0
+822,Asian,Male,APAC,Economics,3.65,0.2774966074,2.16,0.1797585823,0,I want to join becuz I think analytics is fun and your program is good.,0
+823,Other,Male,Americas,Math + Statistics,0.00,0,5.00,-0.742332501,0,,0
+824,Hispanic,Male,EMEA,Other,0.00,0,4.68,-0.298436473,1,,0
+825,Hispanic,Female,Americas,Other,6.21,0.5909914211,1.68,-0.113922395,0,Your program is good and I want to be in it. I know some about data.,0
+826,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.00,0,3.25,-0.242357995,0,I have some data experience and think your program will help.,0
+827,Asian,Male,APAC,Math + Statistics,-0.14,0,4.00,-1.669291245,0,I have a background in statistics and think your program can help me transition into analytics.,0
+828,Asian,Female,APAC,Math + Statistics,1.05,0.5756286437,5.00,-0.437214729,0,,0
+829,Asian,Male,APAC,Other,-0.11,5.6644356843,2.23,-0.056175654,1,,0
+830,"White, Non-Hispanic",Male,EMEA,Math + Statistics,1.48,0,4.08,0.6526082941,0,"With a degree in mathematics and a passion for data analysis, I am eager to join your program to develop my skills in analytics and contribute to solving complex problems in various industries.",1
+831,"White, Non-Hispanic",Male,Americas,Math + Statistics,2.13,0,1.99,-0.562430568,1,This program offers a comprehensive curriculum that I think will help me become proficient in analytics.,1
+832,"White, Non-Hispanic",Female,Americas,Economics,3.33,0,5.00,1.4012950548,1,I aim to leverage your program’s focus on practical experience to gain hands-on skills in data analytics and apply them to drive business success.,1
+833,"White, Non-Hispanic",Female,Americas,Math + Statistics,1.88,7.2543331726,1.90,-0.885487099,0,,0
+834,"White, Non-Hispanic",Male,Americas,Math + Statistics,2.09,2.2300624665,3.42,-0.732121327,0,I am eager to improve my skills in analytics through your program.,0
+835,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.06,0.0153628325,4.62,0.2329111343,1,Your program’s comprehensive training will help me develop a strong foundation in data analytics. The program’s blend of theoretical knowledge and practical skills will prepare me for a successful career.,1
+836,Asian,Male,APAC,Economics,-1.41,0,2.21,-0.16583531,0,"I like data, and your program is there, so why not join?",0
+837,Asian,Female,APAC,Math + Statistics,-1.29,7.9790999302,1.82,-0.174421231,0,,0
+838,"Black, Non-Hispanic",Male,Americas,Economics,10.53,0,2.20,0.9136557798,0,My passion for data analytics and my background in economics make the Master of Analytics program the perfect fit for me. I am eager to develop advanced analytical skills to drive business success and innovation.,1
+839,"White, Non-Hispanic",Male,EMEA,Economics,0.03,0.2071693582,2.83,-0.508852442,1,Your program is good cuz analytics is cool and I like data.,0
+840,"White, Non-Hispanic",Male,Americas,Math + Statistics,0.40,0,3.58,1.290269558,0,Your program’s focus on data visualization will help me communicate complex data insights effectively. The program’s comprehensive training and practical experience will enhance my ability to drive strategic decisions.,1
+841,Asian,Female,APAC,Math + Statistics,0.00,0,2.54,-0.200534281,0,,0
+842,"Black, Non-Hispanic",Female,Americas,Math + Statistics,0.88,0,4.06,0.2930144153,0,I have some background in data science and want to advance my expertise through your program.,0
+843,Asian,Male,APAC,Information Sciences,2.83,4.9855761358,3.38,1.0761134826,0,My passion for data analytics and my background in engineering make the Master of Analytics program the perfect fit for me. I look forward to learning from industry experts and contributing to impactful projects.,0
+844,Asian,Female,APAC,Economics,5.22,2.6466695378,4.86,0.494058429,0,I aim to leverage the interdisciplinary approach of your program to integrate data analytics with my background in business and develop holistic solutions to real-world challenges.,0
+845,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.00,0,4.58,-0.051972397,0,Your program looks like it can provide the training I need in data analysis.,0
+846,Asian,Male,APAC,Math + Statistics,3.27,0,2.53,0.9274571772,0,"I want to develop my skills in data analysis, and this program seems like a good fit.",0
+847,"White, Non-Hispanic",Male,Americas,Other,1.93,0,2.83,-1.128180881,0,Your program looks like it can provide the training I need to excel in data analysis.,0
+848,Asian,Male,APAC,Other,-0.84,0,3.34,0.138023433,0,,0
+849,Other,Female,APAC,Math + Statistics,0.60,0,1.75,0.5796569583,0,,0
+850,Asian,Female,APAC,Other,6.07,1.7020813823,5.00,0.2133928486,0,Data is awesome and I want to make money. Please let me join your program!,0
+851,Asian,Male,APAC,Math + Statistics,0.66,6.0757637349,4.49,1.0695111906,0,This program seems to offer the practical experience I need to improve in analytics.,0
+852,"White, Non-Hispanic",Female,EMEA,Math + Statistics,5.61,0,2.08,-0.792662157,1,I believe your program offers the right blend of theory and practice for my career goals.,1
+853,"White, Non-Hispanic",Female,EMEA,Other,4.67,1.5520467605,2.76,0.0317807535,0,Your program looks like it offers the right blend of theory and practice for my career goals.,0
+854,"Black, Non-Hispanic",Male,APAC,Other,2.38,0.6124130183,4.36,-1.480341539,0,"Data are so cool. I want to earn big money. Let me join your program, please!",0
+855,Other,Male,APAC,Other,-2.49,0,3.57,-1.136931756,0,"I like data and analytics is cool, so I wanna join your program.",0
+856,Asian,Female,APAC,Math + Statistics,1.68,0,3.21,0.9693127135,0,I am passionate about using data to uncover insights and drive strategic decisions. Your program’s comprehensive curriculum aligns perfectly with my career goals.,0
+857,"White, Non-Hispanic",Female,EMEA,Other,-1.87,2.8257505993,2.94,0.5588197563,0,The Master of Analytics program seems to offer the right courses and experiences to help me achieve my goals.,0
+858,"White, Non-Hispanic",Male,Americas,Other,9.47,0,3.02,-0.772285171,0,I believe this program can help me improve my skills in data analytics.,0
+859,"Black, Non-Hispanic",Female,Americas,Other,0.00,0,2.23,0.2697659645,0,,0
+860,"White, Non-Hispanic",Male,EMEA,Other,-5.56,3.5328869885,4.43,0.23283915,0,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,1
+861,"White, Non-Hispanic",Male,Americas,Math + Statistics,4.81,0,3.24,-0.481993817,1,This program seems like a good opportunity for me to advance my career in analytics.,1
+862,Hispanic,Male,APAC,Math + Statistics,1.52,0.3068366768,1.56,-0.701246724,0,I want to join becuz I think analytics is fun and your program is nice.,0
+863,Other,Male,Americas,Information Sciences,1.50,3.6883370212,2.06,0.6790951122,0,"With a background in computer science, I am eager to join the Master of Analytics program to develop my skills in data analysis and machine learning, and to drive innovation in the tech industry.",1
+864,"White, Non-Hispanic",Female,EMEA,Other,-1.74,0,3.55,-0.513393169,0,,0
+865,Other,Male,Americas,Math + Statistics,0.00,0,3.30,-0.922747806,0,,0
+866,"White, Non-Hispanic",Male,EMEA,Other,1.08,6.8254345725,1.85,-0.229735735,0,"I need to learn analytics and get a job, so your program is good for me.",0
+867,Hispanic,Female,Americas,Math + Statistics,4.99,0,4.86,1.0545415712,1,"As a problem solver who thrives on complexity, I am eager to join the Master of Analytics program. My strong academic background in math and statistics and extensive analytical experience position me well for this opportunity. I am passionate about using data to extract insights and drive strategic decisions.",1
+868,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.00,0,3.05,0.8037404433,0,Your program’s diverse curriculum will provide me with a well-rounded education in data analytics. The program’s interdisciplinary approach will prepare me to address diverse analytical challenges in my future career.,1
+869,"White, Non-Hispanic",Male,Americas,Other,0.00,0,3.89,0.4869335746,0,Your program looks like it can help me achieve my career goals in analytics.,0
+870,Asian,Female,Americas,Other,-0.11,1.0771852356,3.76,0.4429321326,0,I have some experience in data analysis. Your program looks perfect for me.,0
+871,Asian,Female,APAC,Other,-3.73,0,2.37,-0.049437914,0,,0
+872,Asian,Male,APAC,Economics,0.00,0,2.16,-0.122281531,0,,0
+873,"Black, Non-Hispanic",Female,Americas,Information Sciences,-0.34,0,3.74,0.036154611,0,I aim to leverage the interdisciplinary approach of your program to integrate data analytics with my background in business and develop holistic solutions to real-world challenges.,0
+874,"White, Non-Hispanic",Female,Americas,Math + Statistics,25.19,1.7572290084,4.06,-1.552565389,0,"I want to enhance my skills in data analysis, and this program seems like a good fit.",0
+875,Hispanic,Female,EMEA,Math + Statistics,0.41,1.9230837553,1.95,-1.917569073,0,,0
+876,Asian,Male,APAC,Other,0.61,0,2.99,0.1865376374,0,,0
+877,"White, Non-Hispanic",Male,Americas,Other,2.46,0,2.45,1.4322751716,0,I am excited to join your program to explore new methodologies in data analytics and apply them to solve complex business problems.,1
+878,Asian,Male,Americas,Other,1.06,1.6917071098,3.65,0.4972637853,1,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,1
+879,"Black, Non-Hispanic",Male,Americas,Other,11.12,0,2.65,-1.876685105,0,,0
+880,Asian,Female,APAC,Math + Statistics,4.01,0,2.68,0.0737998193,0,I aim to leverage the interdisciplinary approach of your program to integrate data analytics with my background in business and develop holistic solutions to real-world challenges.,0
+881,Asian,Female,APAC,Economics,4.87,0,3.16,-0.279315889,0,"I'm awesome, so you should let me join your program.",0
+882,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.59,4.3285757181,2.82,-0.085196885,0,I think analytics is cool and I wanna join your program cuz I like data.,0
+883,"White, Non-Hispanic",Male,EMEA,Economics,2.02,2.0869553698,1.48,-1.840692613,0,Your program seems to offer the right opportunities for me to grow in data analysis.,0
+884,"White, Non-Hispanic",Male,Americas,Math + Statistics,2.21,0.7166597451,3.62,1.4627602458,0,Your program’s focus on data-driven insights will enhance my ability to make informed business decisions. The program’s emphasis on practical applications and real-world scenarios will prepare me for strategic roles.,1
+885,"White, Non-Hispanic",Male,EMEA,Other,5.99,2.1972581686,4.19,-0.149143991,0,I think your program offers the right mix of theory and practical experience.,0
+886,Hispanic,Female,Americas,Math + Statistics,1.07,0,4.46,-0.353737423,0,Your program’s commitment to innovation will inspire me to think creatively and develop cutting-edge solutions to analytical challenges.,0
+887,Hispanic,Male,Americas,Math + Statistics,1.86,1.4367273486,2.61,1.1584994533,0,This program looks like it can help me achieve my goals in data analysis.,0
+888,"White, Non-Hispanic",Male,EMEA,Math + Statistics,24.33,3.1239728337,4.03,1.1198629765,0,I aim to leverage the comprehensive curriculum of your program to enhance my analytical skills and drive strategic decisions in the business world.,1
+889,Asian,Female,APAC,Math + Statistics,2.14,0,4.27,-0.440004197,0,I think your program offers the right mix of theory and practical experience.,0
+890,Asian,Male,APAC,Other,0.49,0.0888110634,3.87,-0.038850581,0,Your program seems to offer the right opportunities for me to grow in analytics.,0
+891,Asian,Male,APAC,Math + Statistics,9.61,0.1866563284,2.28,1.4566237726,0,Your program’s focus on innovation will inspire me to think creatively in the field of data analytics. The program’s cutting-edge curriculum and hands-on projects will provide the foundation for developing innovative solutions.,0
+892,Asian,Female,APAC,Analytics,0.61,0.3462951907,2.80,0.6681527997,0,I am interested in gaining more knowledge in data analysis through your program.,0
+893,Asian,Male,APAC,Math + Statistics,2.18,0,3.50,-0.469384688,0,This program seems to offer the practical experience I need to advance in data analysis.,0
+894,Other,Female,EMEA,Other,-4.72,1.8105323827,2.40,-0.849197455,0,,0
+895,"White, Non-Hispanic",Male,EMEA,Math + Statistics,0.40,0.4447317811,4.43,0.2746077882,0,I am passionate about using data to uncover insights and solve business challenges. Your program’s emphasis on practical applications aligns perfectly with my career goals.,1
+896,Asian,Male,APAC,Math + Statistics,2.83,2.2889272368,2.89,-0.178412362,0,i wanna join becaus I love numbers and stuff. This program looks cool and I think I can do good.,0
+897,"White, Non-Hispanic",Female,Americas,Math + Statistics,7.16,2.1196808097,2.46,-1.295898511,0,I wanna join your interesting program to learn more about data.,0
+898,"White, Non-Hispanic",Female,EMEA,Math + Statistics,2.79,0.6597170094,1.60,-0.155490259,0,"Data is awesome. I want to make lots of money. Let me join your program, please!",0
+899,Hispanic,Male,Americas,Analytics,2.13,0.4461632602,4.17,0.5421980275,0,Your program’s focus on advanced analytics will help me stay ahead in a competitive job market. The program’s rigorous training and practical experience will enhance my professional skills and career prospects.,1
+900,Asian,Female,APAC,Other,22.13,0.1668921608,1.92,0.3364926694,0,,0
+901,"White, Non-Hispanic",Male,Americas,Other,-4.19,5.1577661499,4.92,0.0291022778,0,This program seems to provide the practical experience I need to improve in data analysis.,0
+902,Asian,Female,APAC,Other,2.28,1.4342870754,3.02,0.1082485247,0,"I want to improve my skills in analytics, and your program looks like a good fit.",0
+903,"White, Non-Hispanic",Female,Americas,Economics,-6.22,1.4223411844,3.01,1.7240683536,0,"This program's emphasis on both theoretical knowledge and practical application is highly appealing to me. My background has provided me with strong analytical skills, but I am eager to apply these skills in practical settings. The curriculum's integration of theory and hands-on experience will allow me to build on my existing knowledge while gaining valuable insights into real-world applications. I am particularly excited about the opportunities for internships and collaborative projects, which will enable me to apply what I learn in meaningful ways. I believe this balanced approach is crucial for my development as a skilled and versatile analytics professional.",1
+904,Asian,Male,APAC,Other,-1.61,1.5010963704,3.56,0.3615861033,0,Your program looks like a good opportunity for me to learn more about data analysis.,0
+905,Asian,Male,APAC,Math + Statistics,-1.06,0.0444122101,5.00,-0.207138371,0,,0
+906,"Black, Non-Hispanic",Male,Americas,Other,-1.02,0,4.06,1.7438340513,0,Your program’s emphasis on real-world projects and experiential learning will help me transition from theoretical understanding to practical expertise in data analytics. I am excited to apply advanced analytical techniques to solve complex business problems.,1
+907,Asian,Female,Americas,Other,0.00,0,1.72,0.8688170734,0,I believe this program will help me gain the skills needed to excel in the field of analytics.,0
+908,"White, Non-Hispanic",Female,Americas,Math + Statistics,8.99,1.1817992495,2.47,1.9074223862,0,I think your program is good for me to learn analytics and get hired.,0
+909,"White, Non-Hispanic",Female,Americas,Information Sciences,1.87,0,2.54,0.2005760623,0,I want to join your program to gain more insights into data analytics.,0
+910,Asian,Male,Americas,Other,5.77,1.0714766927,5.00,0.7552995361,1,,0
+911,Hispanic,Male,EMEA,Math + Statistics,2.84,0.8562093925,2.93,1.0296285025,0,I am interested in gaining more knowledge in analytics through your program.,0
+912,Asian,Female,APAC,Math + Statistics,1.79,1.3911760961,2.27,-0.414846153,0,,0
+913,"White, Non-Hispanic",Male,EMEA,Math + Statistics,-0.89,2.5809762835,5.00,0.2951595838,1,"With a strong foundation in mathematics, I am eager to join your program to enhance my analytical skills and contribute to innovative solutions in various industries.",1
+914,Hispanic,Male,EMEA,Other,0.01,0.0688615565,4.11,0.0169701432,1,,0
+915,"White, Non-Hispanic",Male,Americas,Economics,-1.30,0.2659725729,2.69,-0.220173257,0,"With a background in economics and a keen interest in data analysis, I am excited to join your program to gain advanced skills in analytics and apply them to drive business growth.",1
+916,Asian,Female,APAC,Math + Statistics,5.73,1.5841141624,2.06,-1.769878671,0,"I love analytics and data, so I want to join your good program.",0
+917,"White, Non-Hispanic",Male,EMEA,Economics,-3.88,0.2752105728,3.34,0.9397247357,0,"With a background in economics and a keen interest in data analysis, I am excited to join your program to gain advanced skills in analytics and apply them to drive business growth.",1
+918,"Black, Non-Hispanic",Female,APAC,Other,1.63,1.1394100439,3.51,-0.709948497,0,I want to join your program to gain more insights into the field of data analysis.,0
+919,Asian,Male,APAC,Information Sciences,-0.51,0.002793548,3.37,0.4297599789,0,Your program’s focus on data-driven decision-making will enhance my strategic thinking abilities. I am eager to learn advanced analytical techniques that can drive business success and innovation.,0
+920,Asian,Male,APAC,Math + Statistics,6.27,1.1538419663,2.47,-0.085337514,0,I wanna be in the program because I like numbers and things. It looks cool and I think I can do good.,0
+921,Asian,Female,Americas,Other,0.05,2.418607904,2.52,-0.1502579,0,,0
+922,Asian,Male,APAC,Math + Statistics,0.51,0,3.01,0.2438787422,0,I aim to leverage your program’s focus on hands-on learning to gain practical experience in data analytics and apply it to drive business success.,0
+923,"White, Non-Hispanic",Male,Americas,Other,-1.64,1.7718585328,3.44,-0.267601009,0,I think this program offers the right blend of theory and practice for my career goals.,0
+924,Asian,Female,APAC,Math + Statistics,-0.17,3.1256432469,3.17,0.1266624871,0,I am excited to explore new methodologies in data analytics through your program’s innovative coursework. Staying ahead of industry trends is crucial for developing effective analytical solutions.,0
+925,Asian,Male,APAC,Other,-0.17,0.9292837463,3.79,0.5878782936,0,"I want to lern more about data, your program will help me get better.",0
+926,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.00,0,3.35,-0.197148496,0,Your program’s comprehensive curriculum and industry connections will help me gain the expertise and professional network needed to become a successful data analyst.,1
+927,Asian,Female,APAC,Other,-2.13,6.3049644962,1.92,-0.118985694,0,,0
+928,Asian,Male,APAC,Math + Statistics,-1.45,4.4193490106,4.18,0.0815300764,0,I am excited about the opportunity to develop my skills in data analysis through your program.,0
+929,Other,Male,EMEA,Economics,0.00,0,2.08,1.2064835189,0,"My journey in data analytics began during my undergraduate studies in economics. Since then, I have developed a keen interest in leveraging data to drive business success. The Master of Analytics program will allow me to refine my skills, learn from industry leaders, and contribute to innovative projects that have a real impact.",1
+930,Other,Female,APAC,Economics,9.73,0,3.59,0.3688613335,0,I want to join your program to gain more insights into data analysis.,0
+931,Asian,Female,APAC,Analytics,3.35,1.2061328654,3.29,0.3204809159,0,,0
+932,Asian,Female,APAC,Math + Statistics,-0.85,0,5.00,1.5110583602,0,Your program will enable me to transform data into strategic assets for organizations. The comprehensive curriculum and practical projects will prepare me to tackle the most pressing challenges in the field of data analytics.,1
+933,"White, Non-Hispanic",Male,Americas,Math + Statistics,-1.64,0,3.50,-0.20542828,0,"Cuz I love analytics and data, I think your program is good for me so I wanna join.",0
+934,Asian,Male,APAC,Other,-1.12,1.4962334855,3.74,0.4244319364,0,I want to join cuz I love analytics and data. Your program is good for me.,0
+935,"White, Non-Hispanic",Male,Americas,Math + Statistics,-2.67,0.5643847203,3.27,-0.653181375,0,"I want to deepen my understanding of analytics, and this program seems like a good fit.",0
+936,"White, Non-Hispanic",Female,EMEA,Math + Statistics,-0.67,10.816612025,3.99,-1.148675042,0,"Analytics is cool, and I need a program, so yours works.",0
+937,Hispanic,Male,Americas,Math + Statistics,-1.13,2.343060007,3.19,-0.50302712,0,,0
+938,Asian,Female,APAC,Other,2.44,0.1520297826,3.32,-1.903739002,1,I want to join cuz I like numbers and things. This program seems cool and I can do good.,0
+939,Asian,Female,APAC,Other,0.27,0.2363006026,3.40,-2.278304073,0,"I think your program is good and analytics is fun, so I want to join.",0
+940,Hispanic,Female,Americas,Math + Statistics,-0.59,0,3.16,0.2728641931,0,Your program looks like it can provide the training I need in data analysis.,0
+941,"White, Non-Hispanic",Female,Americas,Other,24.20,0,3.38,-0.270053508,0,,0
+942,"White, Non-Hispanic",Male,Americas,Information Sciences,1.49,3.8456865613,5.00,0.8704426641,0,I believe this program can help me better understand the field of analytics and improve my skills.,1
+943,Asian,Male,APAC,Economics,6.88,1.008101357,4.16,0.4931955239,1,"I am interested in learning more about data analysis, and this program seems like a good fit.",0
+944,Asian,Female,APAC,Economics,0.92,1.4807714888,2.55,0.9901411113,0,Your program’s practical approach will prepare me to tackle real-world challenges in data analytics. Hands-on projects and case studies will enhance my problem-solving skills and practical expertise.,0
+945,"Black, Non-Hispanic",Male,EMEA,Math + Statistics,8.57,0.4672881722,3.72,0.0150566413,1,I aim to leverage your program’s strong emphasis on research to contribute to the field of data analytics. The program’s focus on innovation and real-world applications aligns with my research interests and career goals.,1
+946,Asian,Male,Americas,Math + Statistics,-0.61,1.072795471,3.26,0.786414994,1,"I am passionate about solving complex problems and am eager to join the Master of Analytics program. My academic background in math and statistics, coupled with significant analytical experience, makes me a strong candidate. I am committed to using data to uncover insights and drive strategic decisions.",1
+947,"White, Non-Hispanic",Female,Americas,Math + Statistics,4.67,3.1636901437,4.65,1.8640186136,0,My passion for data analytics and my background in engineering make the Master of Analytics program the perfect fit for me. I look forward to learning from industry experts and contributing to impactful projects.,1
+948,"Black, Non-Hispanic",Male,Americas,Economics,0.88,2.5754342554,3.37,-1.058895046,0,"Data is awesome. I want to earn big cash. Let me join your program, please!",0
+949,Asian,Male,APAC,Economics,0.01,0.4202597594,2.24,1.4350282647,0,I believe this program will help me understand analytics better and open up new career opportunities for me.,0
+950,Asian,Male,APAC,Economics,5.27,0.3414382462,3.76,0.6276428676,0,I believe your program offers the right mix of courses to help me succeed in analytics.,0
+951,Asian,Female,APAC,Math + Statistics,0.96,0,2.79,0.3982027065,1,I like data and want to do analytics. This program will help me alot.,0
+952,"Black, Non-Hispanic",Male,Americas,Other,0.00,0,4.31,0.0308577152,0,,0
+953,"White, Non-Hispanic",Male,EMEA,Economics,3.02,0,4.26,0.2848896955,0,My experience in data analysis and my passion for predictive modeling make the Master of Analytics program an ideal fit for me. I look forward to learning from esteemed faculty and contributing to impactful projects.,1
+954,Asian,Male,APAC,Other,-1.51,0.1517914259,3.97,0.7179132583,0,I am excited about the opportunity to develop my analytics skills through your program.,0
+955,"White, Non-Hispanic",Female,EMEA,Other,0.00,0,2.28,-0.507864626,0,"I have some knowledge in analytics, and your program will help me improve.",0
+956,Asian,Male,EMEA,Analytics,-0.70,0,4.09,-0.496269928,0,I believe this program can help me improve my skills in data analysis.,0
+957,"White, Non-Hispanic",Male,Americas,Math + Statistics,-7.24,0,2.68,0.4784784779,1,"I want to expand my knowledge in data analysis, and your program seems like a good fit.",1
+958,"White, Non-Hispanic",Male,EMEA,Economics,4.84,0,4.12,-0.197901653,0,"Analytics is interesting, and your program looks like a good way to learn more.",0
+959,Asian,Male,APAC,Other,0.00,0,3.93,0.440743761,0,"I want to expand my knowledge in analytics, and your program looks like a good fit.",0
+960,"White, Non-Hispanic",Male,Americas,Math + Statistics,-4.47,0,1.74,-0.222239197,1,Your program is good for me to learn analytics and find employment.,0
+961,"White, Non-Hispanic",Male,Americas,Economics,3.00,1.5371756096,2.30,0.5971140142,1,I am passionate about transforming data into actionable insights. Your program's emphasis on real-world applications will prepare me to excel in the field of data analytics.,1
+962,"White, Non-Hispanic",Female,EMEA,Economics,-1.33,0.2613123615,2.70,-0.739820984,0,I believe this program can help me enhance my abilities in analytics.,0
+963,Hispanic,Male,Americas,Math + Statistics,-2.79,6.5972097189,5.00,1.4018386688,0,I plan to use your program’s advanced analytical techniques to contribute to sustainable business practices and environmental solutions. The program’s focus on ethics and innovation aligns with my career aspirations.,1
+964,Asian,Female,APAC,Analytics,27.44,0,4.64,1.9032967642,0,"Your program's renowned faculty and strong industry connections will provide the mentorship, resources, and opportunities I need to succeed in the rapidly evolving field of data analytics.",1
+965,Asian,Female,APAC,Economics,1.39,0,3.90,-0.321486416,0,Your program looks good and I wanna join. I like analytics.,0
+966,Asian,Male,APAC,Economics,0.00,0,3.97,-0.057155781,0,,0
+967,"White, Non-Hispanic",Male,EMEA,Other,9.68,0,2.95,1.1254622768,0,I am excited about the chance to develop my data analysis skills through your program.,0
+968,"Black, Non-Hispanic",Female,Americas,Other,2.81,0.3465811674,4.58,-0.340820761,0,I am looking for a program that can help me deepen my understanding of analytics.,0
+969,Other,Female,Americas,Other,2.65,0.3551275103,3.79,0.5075476426,0,"I want to develop my skills in analytics, and this program seems like a good fit.",0
+970,Asian,Male,Americas,Math + Statistics,0.42,0.8580899794,3.14,0.816564826,0,Your program appears to have the courses I need to improve my data analysis skills.,0
+971,Asian,Male,APAC,Other,1.56,0,2.61,0.008959985,0,I believe your program offers the right blend of theory and practice for my career goals.,0
+972,"White, Non-Hispanic",Female,Americas,Economics,-0.17,0,2.42,-0.797015813,0,,0
+973,Asian,Female,APAC,Other,-2.45,0.0972092021,3.52,-0.959936124,0,Your program looks interesting and I want to join and learn data.,0
+974,Asian,Male,APAC,Math + Statistics,-1.10,0.0246433051,2.42,0.3522185393,0,Your program looks like it can help me achieve my career goals in data analysis.,0
+975,"White, Non-Hispanic",Male,EMEA,Math + Statistics,12.74,3.1297335479,4.37,-1.171282878,0,Your program’s integration of theoretical and practical approaches will help me develop a comprehensive understanding of data analytics and apply it to real-world challenges.,1
+976,Asian,Female,APAC,Math + Statistics,0.22,2.3837376229,1.61,-0.775288753,0,I have a strong interest in data and want to develop my skills in analytics through this program.,0
+977,Asian,Female,APAC,Math + Statistics,-2.69,0,4.91,-0.019749253,1,I believe the Master of Analytics program will help me achieve my career goals by providing a solid foundation in analytics.,0
+978,"White, Non-Hispanic",Female,Americas,Math + Statistics,0.00,0,4.55,-1.742361641,0,I wanna lern more about data. Your program will make me better.,0
+979,Asian,Female,APAC,Math + Statistics,-3.44,0.9561925412,2.74,0.2951743658,0,"I am excited about the prospect of joining the Master of Analytics program to deepen my understanding of advanced analytical techniques. With a background in mathematics, I am eager to apply my skills to solve complex problems and drive strategic decisions.",0
+980,"White, Non-Hispanic",Female,EMEA,Math + Statistics,0.11,3.7077190952,3.56,-0.294854836,0,"I am passionate about using data to drive business growth, and your program’s comprehensive curriculum will provide me with the knowledge and skills needed to achieve this.",1
+981,"Black, Non-Hispanic",Female,Americas,Math + Statistics,-2.49,1.7889729733,2.42,1.7220051252,0,Your program looks like it can provide the training I need in data analysis.,0
+982,"White, Non-Hispanic",Female,Americas,Other,1.15,2.1100691471,3.27,-0.335001673,0,"I want to develop my skills in data analysis, and your program seems like a good fit.",0
+983,"White, Non-Hispanic",Female,EMEA,Other,5.17,4.7972562648,3.44,-0.204614229,0,I believe this program can help me enhance my abilities in data analytics.,0
+984,"Black, Non-Hispanic",Female,Americas,Information Sciences,2.66,0,4.85,-0.326864629,0,I think this program offers the right blend of theory and practice for my career in analytics.,0
+985,Hispanic,Male,EMEA,Other,0.59,2.7133357564,5.00,1.0603322993,0,I am excited to join your program to deepen my understanding of data visualization techniques. Effective communication of data insights is crucial for driving strategic decisions and stakeholder engagement.,1
+986,"White, Non-Hispanic",Female,EMEA,Other,2.29,2.6391196499,2.90,-0.645468713,0,,0
+987,"White, Non-Hispanic",Male,Americas,Other,6.38,0.7817477259,3.61,1.1028423226,0,Your program’s hands-on projects will provide me with practical experience in data analytics. The program’s focus on real-world applications will enhance my problem-solving skills and practical expertise.,1
+988,Other,Male,Americas,Analytics,5.76,0.0994161885,2.54,-1.996970271,0,I am excited about the opportunity to develop my skills in analytics through your program.,0
+989,"White, Non-Hispanic",Female,Americas,Other,4.29,0.7943341409,2.33,0.7496841966,0,My background in statistics and my interest in predictive modeling make the Master of Analytics program an ideal choice for me. I am excited to learn from industry experts and contribute to innovative projects.,1
+990,"White, Non-Hispanic",Female,Americas,Other,0.58,0,3.37,-0.035364433,0,,0
+991,Asian,Female,APAC,Information Sciences,0.09,0.3344257864,2.20,-0.745286195,0,I have sum experience in data and analytics. I think this program will help me.,0
+992,Asian,Male,APAC,Math + Statistics,-2.49,0,5.00,-0.817461585,0,I believe your program can help me improve my data analysis skills.,0
+993,"White, Non-Hispanic",Female,Americas,Math + Statistics,4.58,0,2.70,-0.423455345,0,I am eager to develop my skills in data analysis through your program.,0
+994,"White, Non-Hispanic",Female,Americas,Information Sciences,0.00,0,3.86,0.6210022504,0,I think your program offers the right mix of theory and practical experience.,0
+995,Asian,Female,APAC,Other,-1.13,1.2560311787,2.86,0.6184356605,0,I have some experience in analytics and believe this program can help me grow.,0
+996,Asian,Male,APAC,Math + Statistics,0.31,2.4637787618,3.61,0.8631206906,0,Your program’s commitment to excellence aligns with my goal of becoming a top-tier data analyst. The program’s rigorous training and industry connections will provide the foundation for a successful career.,0
+997,Asian,Female,APAC,Economics,-0.47,5.7295811812,4.09,-0.87510103,0,I have some experience in data analysis and want to develop my skills further. This program looks ideal for that.,0
+998,Asian,Male,APAC,Economics,2.90,0,2.58,0.0439982257,0,,0
+999,Other,Male,Americas,Other,0.00,0,4.83,-1.679822974,0,"Your program looks good, I like analytics, and I wanna join.",0
+1000,"White, Non-Hispanic",Female,Americas,Math + Statistics,-1.97,0.7022630841,3.47,-1.656351833,0,I believe this program can help me enhance my abilities in data analysis.,0
