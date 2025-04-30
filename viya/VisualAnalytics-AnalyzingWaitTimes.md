@@ -3,20 +3,20 @@
 ## Description
 This use case walks through creating visualizations within SAS Visual Analytics that help understand Universal Studios' wait times. Participants will analyze factors such as attractions, temperature, and precipitation to predict which are most related to wait time. To complete the task, hackers will be asked a series of questions about their findings.
 ## Objectives
-* Load the USF_WAIT_TIME datasets into a SAS Visual Analytics report.
+* Load the WAITING_TIMES datasets into a SAS Visual Analytics report.
 * Analyze trends using point-and-click visualization tools.
 * Build models to make predictions.
 
 ## Step-by-step instructions
-* Log into SAS Viya at https://<viyaurl>/hub.
+* Log into SAS Viya.
 * Navigate to Explore and Visualize (SAS Visual Analytics) within the Application Menu.
 * Start a New report.
-* Add the USF_WAITING_TIME dataset to the report. 
+* Add the WAITING_TIMES dataset to the report. 
 * Notice that the variables available in the Data pane are grouped into two main sections: Category and Measure. Take a moment to familiarize yourself with the variables available.
 * The response variable for our analysis is *The current waiting time in minutes*.
 * Drag *The current waiting time in minutes* onto the canvas to create a histogram.
 
-**QUESTION 1: What is the frequency of the 4.5-6 minute bin?**
+**QUESTION 1: What is the frequency of the 8-16 minute bin?**
 
 * You likely also noticed that the bins are right-skewed, which is a good thing- Nobody want long wait times!
 * Now, the real question is - what makes wait times higher vs. lower? Let's find out!
@@ -31,7 +31,7 @@ This use case walks through creating visualizations within SAS Visual Analytics 
 * This will create a linear regression with all the variables you had in your automated explanation. Move this to a new page by grabbing the four dots at the top and dragging to the + meaning New Page.
 * Throwing all the variables at the model isn't really the best idea, so let's hone down to only the variables we really care about. That means keep:
   - Response: *The current waiting time in minutes*
-  - Continuous effects: *Humidity in % from 0 to 100, Temperature, Probability of precipitation, This temperature accounts for the human perception of weather, and Wind speed*
+  - Continuous effects: *Humidity in % from 0 to 100, Temperature in Celcius, Probability of precipitation, This temperature accounts for the human perception of weather, and Wind speed*
   - Classification effects: *Name of the attraction, More detailed description of the weather condition*
 
 **QUESTION 3: What is the Mean Squared Error?**
@@ -42,7 +42,7 @@ This use case walks through creating visualizations within SAS Visual Analytics 
 * Click the Assign data button in the middle of the screen. Let's start with the Underlying factors. On which factors do we, as humans, base our decision to attend an outdoor amusement park? Personally speaking, I'm not outside measuring humidity or noticing which way the wind is blowing.
 * Use the + Add button to insert which factors you would use - I'm choosing:
   - Name of the attraction
-  - More detailed description of the weather condition
+  - The main weather condition
   - Probability of precipitation
   - This temperature accounts for the human perception of weather
   - Wind speed
