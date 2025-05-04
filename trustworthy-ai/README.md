@@ -5,7 +5,7 @@ The goal of this assignment is to create a comprehensive model card for your mac
 
 **Step 1: Register your model, create model card**
 
-**Description:** Register your model created in ‘sas viya’ assignment from SAS Model Studio
+**Description:** Register your model created in SAS Model Studio assignment from SAS Model Studio
 
 **Specific Instructions:**
 
@@ -34,7 +34,7 @@ The goal of this assignment is to create a comprehensive model card for your mac
 
 3.Create KPI rules in Project Properties
 
-4.Upload performance monitoring data [name of the dataset]
+4.Upload performance monitoring data SIM_ADMISSIONPERF_1_Q1.csv
 
 5.In the project performance tab define and run performance monitoring
 
