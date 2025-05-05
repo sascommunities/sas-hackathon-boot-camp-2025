@@ -7,7 +7,8 @@ This use case walks through a sentiment analysis of text strings use case. Parti
 •	Create a data set and apply the sentiment Text Anlytics Models through REST requests using the sentimentAnalysis.applySent CAS action.  
 •	Analyze the results in SAS Studio
 Step-by-step instructions
-1.	Download the Jupyter notebook for the use case from https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/sentiment/text-analytics-sentiment-hack.ipynb.
+Option 1=
+1.	Download the Jupyter notebook for the use case from https://github.com/sascommunities/sas-hackathon-boot-camp-2025/blob/main/sentiment/text-analytics-sentiment-hack.ipynb. Another option is to copy the file from the /homes directory to the /data directory (Jupyter Hub connection instructions in step 2 below.)
 2.	Log into the Jupyter environment at https://\<viyaserverurl\>/hub.
 3.	Upload the notebook downloaded earlier into the /data directory.  
 <img src="images/filesystem.png"/>
