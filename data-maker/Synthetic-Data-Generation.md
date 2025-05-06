@@ -9,7 +9,7 @@ After analyzing the results, you've determined that a lack of sufficient trainin
 Use SAS Data Maker to generate synthetic borrower data (10x the original volume) that can be used to boost model training and overall predictive performance.
 
 **Step 1: Access SAS Data Maker:**  
-•	The URL for the SAS Data Maker environment will be shared with you at the SAS Hackathon Boot Camp  
+•	The URL for the SAS Data Maker environment: https://dminnovate.workbench.sas.com/SASDataMaker/
 
 **Step 2: Create New Project:**    
 •   Once you sign in, you’ll land on the Projects page. To start a “new project”    
