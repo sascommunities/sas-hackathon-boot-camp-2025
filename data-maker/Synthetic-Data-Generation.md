@@ -10,8 +10,6 @@ Use SAS Data Maker to generate synthetic borrower data (10x the original volume)
 
 **Step 1: Access SAS Data Maker:**  
 •	The URL for the SAS Data Maker environment will be shared with you at the SAS Hackathon Boot Camp  
-•	Log in: Once you are added to the environment (24 hours prior to the event), you will receive an email with access instructions.   
-•	Sign in using your SAS Profile credentials  
 
 **Step 2: Create New Project:**    
 •   Once you sign in, you’ll land on the Projects page. This page provides an overview of all your ongoing and completed synthetic data activities, organized into projects.  
