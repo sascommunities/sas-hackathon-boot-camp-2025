@@ -1,6 +1,6 @@
 ## SAS Data Maker (Synthetic Data Generation) Instructions
 
-## IMPORTANT: We encourage you to bring your personal laptop, as the SAS Data Maker environment is not accessible through your work VPN!!!
+## IMPORTANT: We encourage you to bring your personal laptop, as the SAS Data Maker environment cannot be accessed while connected to your company’s VPN!!!
 
 
 **Instructions:** Synthetic Data Generation for Loan Default Modeling
