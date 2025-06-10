@@ -14,25 +14,55 @@ Here the mode output and a translation table for the attraction IDs that our mod
 
 The output is provided as 9 different variables, where three represent one line output of the model:
 
-attractionID_1: '756f722e7573662e72696465732e726163655f7468726f7567685f6e65775f796f726b5f7374617272696e675f6a696d6d795f66616c6c6f6e5f7374616e646279'
+attractionID_1: 'Late Night Dash'
 
 timestamp_1: '06MAY2025:10:25:00'
 
 walking_distance_1: '100m'
 
-attractionID_2: '756f722e7573662e72696465732e726163655f7468726f7567685f6e65775f796f726b5f7374617272696e675f6a696d6d795f66616c6c6f6e5f7374616e646279'
+attractionID_2: 'Escape from Magical Bank'
 
 timestamp_2: '06MAY2025:10:55:00'
 
 walking_distance_2: '300m'
 
-attractionID_3: '756f722e7573662e72696465732e666173745f616e645f667572696f75735f2d5f7375706572636861726765645f7374616e646279'
+attractionID_3: 'Nitro Street: Turbo Chase'
 
 timestamp_3: '06MAY2025:11:32:00'
 
 walking_distance_3: '250m'
 
+## Setup
+
+Run the following SAS Code from SAS Studio in order to make the variable creation process easier:
+
+```SAS
+cas mySess;
+libname public cas casLib='public';
+
+proc casUtil;
+	dropTable inCASLib='Public' casData='variables' quiet;
+run; quit;
+
+data public.variables(promote=yes);
+	length systemPrompt userPrompt $10240. attractionID_1 attractionID_2 attractionID_3 timestamp_1 timestamp_2 timestamp_3 walking_distance_1 walking_distance_2 walking_distance_3 $100.;
+	* Set test values;
+	systemPrompt = 'Turn the list of attractions, the timestamp and the walking distance into a readable itinary for a guest of the amusement park';
+	attractionID_1 = 'Late Night Dash';
+	attractionID_2 = 'Escape from Magical Bank';
+	attractionID_3 = 'Nitro Street: Turbo Chase';
+	timestamp_1 = '06MAY2025:10:25:00';
+	timestamp_2 = '06MAY2025:10:55:00';
+	timestamp_3 = '06MAY2025:11:32:00';
+	walking_distance_1 = '100m';
+	walking_distance_2 = '300m';
+	walking_distance_3 = '250m';
+run;
+```
+
 ### Attraction LoopUp Table
+
+This setup can be used if you have more advanced users and want to include the Look Up table mechnaism - but feel free to skip this part.
 
 Here is table that contains the look up values for the attraction IDs and the attraction names:
 
@@ -41,8 +71,6 @@ Here is table that contains the look up values for the attraction IDs and the at
 | 756f722e7573662e72696465732e726163655f7468726f7567685f6e65775f796f726b5f7374617272696e675f6a696d6d795f66616c6c6f6e5f7374616e646279 | Late Night Dash           |
 | 756f722e7573662e72696465732e68617272795f706f747465725f616e645f7468655f6573636170655f66726f6d5f6772696e676f7474735f7374616e646279 | Escape from Magical Bank  |
 | 756f722e7573662e72696465732e666173745f616e645f667572696f75735f2d5f7375706572636861726765645f7374616e646279 | Nitro Street: Turbo Chase |
-
-
 
 ## Guided Instructions
 
@@ -65,23 +93,9 @@ If you want to explore this use case on your own please do not read on, here a s
 
 7.   Click the *Rule set editor Open* button in the *Properties* pane that just opened up.
 
-8.   In the *Variables* tab of the rule set click on *Add variable* and select *Custom variable*.
+8.   In the *Variables* tab of the rule set click on *Add variable* and select *Data table*.
 
-9.   In the *Add Variables* pop up enter the following values:
-
-     | Name               | Data Type | Length | Input | Output |
-     | ------------------ | --------- | ------ | ----- | ------ |
-     | systemPrompt       | Character | 10240  |       | Yes    |
-     | userPrompt         | Character | 10240  |       | Yes    |
-     | attractionID_1     | Character |        | Yes   |        |
-     | attractionID_2     | Character |        | Yes   |        |
-     | attractionID_3     | Character |        | Yes   |        |
-     | timestamp_1        | Character |        | Yes   |        |
-     | timestamp_2        | Character |        | Yes   |        |
-     | timestamp_3        | Character |        | Yes   |        |
-     | walking_distance_1 | Character |        | Yes   |        |
-     | walking_distance_2 | Character |        | Yes   |        |
-     | walking_distance_3 | Character |        | Yes   |        |
+9.   Click on the *folder icon* to select a data table. In the *Show dropdown* select *Available* and select the *Variables* table and click *OK* and make sure to add all of them to the decision.
 
 10.   The *Variables* tab should look like this:
       ![Step 4](./img/Step_4.png)
@@ -89,7 +103,7 @@ If you want to explore this use case on your own please do not read on, here a s
 11.   Switch to the *Rule set* tab and click on the *Add other* button, in the pop up select *Rule type: Assignment* and click *OK*.
       ![Step 5](./img/Step_5.png)
 
-12.   Set the assign for systemPrompt and enclose your system prompt that will help to translate the model output into something that an amusement park visitor can understand.
+12.   Set the assign for systemPrompt and enclose your system prompt that will help to translate the model output into something that an amusement park visitor can understand. Here is an example prompt, but feel free to change this up as you see fit - your goal is to have the LLM write the best possible Itinary for the park guest: *Turn the list of attractions, the timestamp and the walking distance into a readable itinary for a guest of the amusement park*.
 
 13.   Click the *Add* button in the right-hand corner and select *Add assignment*.
       ![Step 6](./img/Step_6.png)
@@ -110,7 +124,7 @@ If you want to explore this use case on your own please do not read on, here a s
 17.   Switch to the *Scoring* tab and then in the *Scoring* tab select the *Scenarios* tab.
       ![Step 8](./img/Step_8.png)
 
-18.   There click on *New test*, ensure that the *Location* is set to *Public* and set the *Output table location* to *Public*. Then enter the values from the *Output data* section (don't forget to enclose the values in single quotes) and click *Save*.
+18.   There click on *New test*, ensure that the *Location* is set to *Public* and set the *Output table location* to *Public*. Then enter the values from the *Output data* section (don't forget to enclose the values in single quotes) and click *Save*. You can use the values from the section **Model Output**.
       ![Step 9](./img/Step_9.png)
 
 19.   Finally select the scenario, click the *Run* button, review the results and discuss them with the people at the station.
