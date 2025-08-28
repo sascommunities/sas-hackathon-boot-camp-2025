@@ -1,0 +1,21 @@
+---
+title: "02_Accessing_and_Reading_Data_Lake_Files"
+output: html_notebook
+---
+
+Begin by loading required packages.
+```{r}
+library(arrow)
+```
+
+Read the Parquet file from the file path.
+```{r}
+cust_churn_df <- read_parquet("customer_churn_data.parquet")
+
+str(cust_churn_df)
+```
+
+```{r}
+head(cust_churn_df)
+```
+

@@ -1,0 +1,38 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+```{r setup, include = FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+First, install the required R packages if not done already. 
+
+
+Load necessary libraries
+```{r}
+library(knitr)
+```
+
+Run the data access notebooks
+```{r}
+source(purl("01_Accessing_and_Reading_Local_Files.Rmd", quiet = T))
+source(purl("02_Accessing_and_Reading_Data_Lake_Files.Rmd", quiet = T))
+source(purl("03_Accessing_and_Reading_Database-Data_Lakehouse_Data.Rmd", quiet = T))
+```
+
+Run the data joining notebook
+```{r}
+source(purl("01_Combining_Data.Rmd", quiet = TRUE))
+```
+
+Run the data transformation notebook
+```{r}
+source(purl("02_Transforming_and_Enriching_Data.Rmd", quiet = TRUE))
+```
+Save as a CSV file
+```{r}
+write.csv(df, "customer_churn_abt.csv", row.names = FALSE)
+```
+

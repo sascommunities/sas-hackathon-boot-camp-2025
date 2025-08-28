@@ -1,0 +1,21 @@
+---
+title: "03_Accessing_and_Reading_Database-Data_Lakehouse_Data"
+output: html_notebook
+---
+
+Begin by loading the required packages.
+```{r}
+library(haven)
+```
+
+Read the SAS data set from the file path
+```{r}
+customers_df <- read_sas("customers.sas7bdat")
+
+str(customers_df)
+```
+
+```{r}
+customers_df
+```
+

@@ -1,0 +1,41 @@
+---
+title: "01_Combining_Data"
+output: html_notebook
+---
+
+```{r setup, include = FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+
+First, install the required R packages if not done already. 
+
+Load any necessary packages.
+```{r}
+library(knitr)
+library(dplyr)
+```
+
+Run the data access notebooks.
+```{r}
+source(purl("01_Accessing_and_Reading_Local_Files.Rmd", quiet = TRUE))
+source(purl("02_Accessing_and_Reading_Data_Lake_Files.Rmd", quiet = TRUE))
+source(purl("03_Accessing_and_Reading_Database-Data_Lakehouse_Data.Rmd", quiet = TRUE))
+```
+
+Joining the Data
+```{r}
+
+df <- cust_churn_df %>%
+  inner_join(customers_df, by = "custId") %>%
+  select(-custId) %>%
+  inner_join(subscriptions_df, by = "customerSubscrCode") %>%
+  select(-customerSubscrCode) %>%
+  inner_join(techsupportevals_df, by = "ID") %>%
+  left_join(reviews_df, by = "reviewId") %>%
+  select(-reviewId)
+
+head(df)
+
+```
+

@@ -1,0 +1,56 @@
+---
+title: "01_Accessing_and_Reading_Local_Files"
+output: html_notebook
+---
+
+```{r setup, include = FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+First, install the required R packages if not done already. 
+
+```{r}
+#Come back to this, how to do in workbench
+```
+
+Begin by loading necessary packages.
+```{r}
+library(haven)
+library(jsonlite)
+```
+
+
+Accessing the CSV file
+```{r}
+subscriptions_df <- read.csv("subscriptions.csv") 
+
+str(subscriptions_df)
+```
+
+```{r}
+subscriptions_df
+```
+
+Access the JSON file
+```{r}
+json_df <- fromJSON("reviews.json")
+```
+
+```{r}
+str(json_df)
+```
+
+
+The data in read in as a list and we want to convert it to a data frame.
+
+```{r}
+reviews_df <- json_df$reviews
+head(reviews_df)
+```
+
+Access the SAS data set
+```{r}
+techsupportevals_df <- read_sas("techsupportevals.sas7bdat")
+head(techsupportevals_df)
+```
+

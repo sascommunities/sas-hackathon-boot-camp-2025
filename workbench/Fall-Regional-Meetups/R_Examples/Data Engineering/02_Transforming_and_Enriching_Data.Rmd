@@ -1,0 +1,58 @@
+---
+title: "02_Transforming_and_Enriching_Data"
+output: html_notebook
+---
+
+```{r setup, include = FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+First, install the required R packages if not done already. 
+
+Load necessary packages
+```{r}
+library(knitr)
+library(dplyr)
+```
+
+Run the data access notebooks
+```{r}
+source(purl("01_Accessing_and_Reading_Local_Files.Rmd", quiet = T))
+source(purl("02_Accessing_and_Reading_Data_Lake_Files.Rmd", quiet = T))
+source(purl("03_Accessing_and_Reading_Database-Data_Lakehouse_Data.Rmd", quiet = T))
+```
+
+Run the data joining notebook
+```{r}
+source(purl("01_Combining_Data.Rmd", quiet = TRUE))
+```
+
+Feature Engineering
+
+Replace codes with labels for demHomeOwner
+```{r}
+df <- df %>%
+  mutate(demHomeOwner = recode(DemHomeOwnerCode, 'U' = 'Unknown', 'H' = 'HomeOwner')) %>%
+  select(-DemHomeOwnerCode)  # Drop the original column
+
+head(df$demHomeOwner)  # Display the first few values
+
+```
+
+Compute customer age
+```{r}
+# Convert 'birthDate' to Date and calculate age
+df <- df %>%
+  mutate(customerAge = as.numeric(difftime(Sys.Date(), as.Date(birthDate), units = "days")) / 365.25) %>%
+  mutate(customerAge = ifelse(!is.na(customerAge), as.integer(customerAge), NA))  # Replace NAs with NA
+
+head(df$customerAge)  # Display the first few values
+```
+Compute average purchase amount per ad
+
+```{r}
+df <- df %>%
+  mutate(AvgPurchasePerAd = AvgPurchaseAmount12 / intAdExposureCount12)
+
+head(df$AvgPurchasePerAd)  # Display the first few values
+```

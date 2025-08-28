@@ -1,0 +1,355 @@
+---
+title: "01_Exploring_Data"
+output: html_notebook
+---
+
+```{r setup, include = FALSE} 
+knitr::opts_chunk$set(warning = FALSE, message = FALSE) 
+```
+
+First, install the required R packages if not done already. 
+
+In this notebook we will explore our customer churn dataset to try to identify whether there are any meaningful relationships between our variables. We will also attempt to identify any data quality issues that will need to be addressed prior to developing machine learning models.
+
+Loading Libraries
+```{r}
+# Loads necessary libraries
+
+library(tidyverse)
+library(gridExtra)
+library(Hmisc)
+library(moments)
+library(corrplot)
+library(psych)
+library(patchwork)
+
+```
+
+
+```{r}
+# Imports the dataset
+
+churn_df <- read.csv("/workspaces/myfolder/sas-hackathon-boot-camp-2025/data/customer_churn_abt.csv", header = TRUE)
+
+```
+
+Basic Exploration
+
+Explores some of the basic information pertaining to the data.
+
+```{r}
+str(churn_df)
+```
+
+
+```{r}
+# Display the column variable types
+
+churn_df <- churn_df %>% mutate_if(is.integer,as.numeric)
+
+dtypes <- table(sapply(churn_df, typeof))
+dtypes
+```
+Duplicate Rows
+
+Checks and removes duplicate rows if they exists.
+
+```{r}
+churn_df <- churn_df %>% distinct()
+dim(churn_df)  
+```
+
+Exploring Distributions
+
+```{r}
+cat("\n---------- Variable Summary Statistics for numeric variables ----------\n\n")
+print(summary(churn_df[numeric_cols]))
+cat("\n\n")
+  
+cat("\n---------- Variable Summary Statistics for categorical variables ----------\n\n")
+
+sapply(churn_df[sapply(churn_df, is.character)], function(x) {
+  tbl <- table(x)
+  paste("n =", sum(!is.na(x)),
+        "unique =", length(unique(x)),
+        "top =", names(which.max(tbl)),
+        "freq =", max(tbl))
+})
+
+
+  
+```
+
+```{r}
+# Get numeric column names
+numeric_colnames <- names(churn_df %>% dplyr::select_if(is.numeric))
+
+# Create list of ggplot histograms
+plot_list <- lapply(numeric_colnames, function(col) {
+  ggplot(churn_df, aes(x = .data[[col]])) +
+    geom_histogram(fill = "lightblue", color = "black", bins = 30) +
+    ggtitle(col) +
+    xlab("") +
+    ylab("") +
+    theme_minimal()
+})
+
+multi_page <- marrangeGrob(grobs = plot_list, ncol = 3, nrow = 3)
+
+multi_page
+
+
+```
+
+
+```{r}
+#Alternative
+churn_df_numeric <- churn_df %>% select_if(is.numeric)
+
+par(mfrow = c(3, 3)) 
+hist.data.frame(churn_df_numeric, n.unique = 2)
+par(mfrow = c(1, 1)) 
+
+```
+
+
+
+```{r}
+#Explores the distribution of the categorical columns
+
+cat_columns <- churn_df %>% select_if(is.character) %>% select(-birthDate, -Review_Text, -Title)
+
+for (col in names(cat_columns)) {
+  print(table(cat_columns[col]))
+    cat("\n\n")
+}
+
+
+```
+
+```{r}
+#Displays target variable distribution
+prop.table(table(churn_df$LostCustomer))
+
+```
+
+
+```{r}
+ 
+# Displays the target variable distribution
+barplot(table(churn_df$LostCustomer), main = "Count Plot of LostCustomer", xlab = "LostCustomer", ylab = "Count", col = "lightblue")
+
+```
+
+
+```{r}
+
+count_plots <- function(data, columns, figsize = c(5, 5), fig_per_row = 3) {
+  # Determine plot dimensions
+  n <- length(columns)
+  nrows <- ceiling(n / fig_per_row)
+  ncols <- min(n, fig_per_row)
+  
+  # Create individual plots
+  plots <- lapply(columns, function(col) {
+    ggplot(data, aes_string(x = col)) +
+      geom_bar(fill = "lightblue", col = "black") +
+      ggtitle(col) +
+      theme_minimal()
+  })
+  
+  # Arrange plots into a grid
+  do.call(grid.arrange, c(plots, nrow = nrows, ncol = ncols))
+}
+
+cat_count_plots <- count_plots(churn_df, c("LostCustomer", names(cat_columns)), figsize = c(5, 5), fig_per_row = 2)
+```
+
+
+Extreme Observations
+```{r}
+
+numeric_df <- churn_df[numeric_cols]
+
+# Compute skewness and kurtosis, skipping the first two columns
+skewness <- sapply(numeric_df[, -c(1,2)], function(x) psych::skew(x))
+kurtosis <- sapply(numeric_df[, -c(1,2)], function(x) psych::kurtosi(x))
+
+
+
+```
+
+
+```{r}
+# Convert skewness values into a data frame for better readability
+skewness_df <- data.frame(Skewness = skewness)
+
+# Print the data frame
+skewness_df
+
+
+```
+
+```{r}
+# Convert kurtosis values into a data frame for better readability
+kurtosis_df <- data.frame(Kurtosis = kurtosis)
+
+# Print the data frame
+kurtosis_df
+```
+
+
+```{r}
+# Selecting highly non-normal columns
+high_skewness <- skewness[abs(skewness) > 3]
+high_kurtosis <- kurtosis[abs(kurtosis) > 3]
+
+```
+
+
+```{r}
+# Display results with proper formatting
+
+cat("----------SKEWNESS----------", end = "\n\n")
+high_skewness
+
+
+cat("----------KURTOSIS----------", end = "\n\n")
+high_kurtosis
+
+# Identify columns that are highly skewed and have high kurtosis
+cat("----------HIGH BOTH----------", end = "\n\n")
+skewed_cols <- intersect(names(high_skewness), names(high_kurtosis))
+skewed_cols
+
+
+```
+```{r}
+
+
+# Create a list to store individual histograms
+hist_list <- lapply(skewed_cols, function(col) {
+  ggplot(churn_df, aes_string(x = col)) +
+    geom_histogram(fill = "lightblue", color = "black", bins = 30) +
+    ggtitle(col) +
+    xlab("")+
+    ylab("")+
+    theme_minimal()
+})
+
+# Arrange the histograms in a grid (2 rows, 3 columns)
+grid.arrange(grobs = hist_list, nrow = 3, ncol = 2)
+
+```
+
+
+```{r}
+box_plots <- function(data, columns, figsize = c(15, 5), fig_per_row = 3) {
+  # Determine number of rows and columns for layout
+  num_cols <- length(columns)
+  nrows <- ceiling(num_cols / fig_per_row)
+  ncols <- min(fig_per_row, num_cols)
+
+  # Generate boxplots for selected columns
+  plot_list <- lapply(columns, function(col) {
+    ggplot(data, aes(y = .data[[col]])) +
+      geom_boxplot(fill = "dodgerblue", color = "black", outlier.color = "red", outlier.shape = 16) +
+      ggtitle(col) +
+      theme_minimal(base_size = 10) +
+      theme(
+        plot.title = element_text(hjust = 0.5),
+        axis.text.x = element_blank(),  
+        axis.ticks.x = element_blank()
+      ) +
+      labs(y = col)
+  })
+
+  # Arrange plots in a grid (adjust layout dynamically)
+  combined_plot <- wrap_plots(plot_list) + plot_layout(nrow = nrows, ncol = ncols)
+
+  return(combined_plot)
+}
+
+# Example usage:
+box_plots(churn_df, skewed_cols)
+
+```
+
+Explore Missingness
+```{r}
+# Calculate the proportion of missing values for each column
+missing <- colSums(is.na(churn_df)) / nrow(churn_df)
+
+# Keep only columns where missing values > 0
+missing <- missing[missing > 0]
+
+# Print the result
+data.frame(missing)
+
+```
+
+
+```{r}
+# Print data types of columns with missing values
+col_missing <- data.frame(type = sapply(churn_df[names(missing)], class))
+col_missing
+
+# Display first few rows of the selected columns
+head(churn_df[names(missing)])
+
+```
+
+```{r}
+
+num_missing <-  row.names(col_missing %>% filter(type == "numeric"))
+
+par(mfrow=c(2,2))
+for(col in num_missing){
+  hist(churn_df[[col]], 
+       main = col, 
+       col = "lightblue", 
+       border = "black",
+       xlab = "",
+       ylab = "")
+}
+par(mfrow=c(1,1))
+
+```
+
+```{r}
+
+# Compute correlation matrix (excluding non-numeric columns)
+corr_df <- cor(numeric_df, use = "pairwise.complete.obs")
+
+# Set diagonal values to NA
+diag(corr_df) <- NA
+
+# Select rows with high correlations (absolute value > 0.9)
+high_corr <- ifelse(abs(corr_df) > 0.9, corr_df, NA)
+
+# Convert to data frame for easier manipulation
+high_corr <- as.data.frame(high_corr)
+
+# Drop rows and columns where all values are NA
+high_corr <- high_corr[rowSums(!is.na(high_corr)) > 0, colSums(!is.na(high_corr)) > 0]
+
+# View result
+print(high_corr)
+
+```
+
+
+```{r}
+
+# Generate a heatmap with correlation values
+corrplot(as.matrix(high_corr), 
+         method = "color",    
+         addCoef.col = "white",    
+         tl.col = "black",        
+         na.label = " ",
+         tl.cex = .7,          
+         number.cex = .7)   
+
+```
+
+
